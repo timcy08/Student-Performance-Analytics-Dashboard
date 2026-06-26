@@ -17,34 +17,8 @@ Faker (Synthetic Data Generation)
 Jupyter Notebook
 Power BI
 CSV Data Processing
-📂 Project Structure
-Student-Performance-Analytics-Dashboard/
-│
-├── DATA/
-│   ├── student_master.csv
-│   ├── student_summary.csv
-│   ├── login_activity.csv
-│   ├── course_progress.csv
-│   ├── webinar_attendance.csv
-│   ├── event_participation.csv
-│   ├── forum_activity.csv
-│   └── mentor_meetings.csv
-│
-├── Scripts/
-│   ├── Data_Cleaning.ipynb
-│   ├── _student_master.py
-│   ├── _student_summary.py
-│   ├── _login_activity.py
-│   ├── _course_progress.py
-│   ├── _webinar_attendance.py
-│   ├── _event_participation.py
-│   ├── _forum_activity.py
-│   └── _mentor_meetings.py
-│
-├── Dashboard/
-│   └── Student_performance_report.pbix
-│
-└── README.md
+
+
 📊 Dashboard Features
 Student performance tracking
 Engagement analysis across platforms
