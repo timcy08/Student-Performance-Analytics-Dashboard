@@ -1,0 +1,964 @@
+event_id,student_id,participation_type
+E001,ST001,Seminar
+E002,ST001,Workshop
+E003,ST002,Competition
+E004,ST003,Seminar
+E005,ST004,Seminar
+E006,ST005,Seminar
+E007,ST005,Networking Event
+E008,ST005,Competition
+E009,ST005,Workshop
+E010,ST005,Hackathon
+E011,ST006,Networking Event
+E012,ST006,Hackathon
+E013,ST006,Seminar
+E014,ST007,Seminar
+E015,ST011,Seminar
+E016,ST012,Seminar
+E017,ST014,Seminar
+E018,ST015,Hackathon
+E019,ST016,Competition
+E020,ST016,Hackathon
+E021,ST017,Workshop
+E022,ST017,Competition
+E023,ST018,Competition
+E024,ST019,Networking Event
+E025,ST019,Hackathon
+E026,ST020,Seminar
+E027,ST020,Hackathon
+E028,ST021,Workshop
+E029,ST021,Seminar
+E030,ST021,Hackathon
+E031,ST021,Networking Event
+E032,ST022,Seminar
+E033,ST022,Competition
+E034,ST022,Networking Event
+E035,ST023,Hackathon
+E036,ST023,Networking Event
+E037,ST024,Competition
+E038,ST025,Workshop
+E039,ST025,Hackathon
+E040,ST025,Seminar
+E041,ST025,Networking Event
+E042,ST025,Competition
+E043,ST026,Workshop
+E044,ST026,Seminar
+E045,ST026,Networking Event
+E046,ST027,Seminar
+E047,ST027,Hackathon
+E048,ST027,Competition
+E049,ST028,Hackathon
+E050,ST029,Networking Event
+E051,ST030,Competition
+E052,ST031,Workshop
+E053,ST031,Hackathon
+E054,ST031,Seminar
+E055,ST032,Competition
+E056,ST032,Workshop
+E057,ST033,Competition
+E058,ST033,Seminar
+E059,ST033,Workshop
+E060,ST034,Competition
+E061,ST034,Workshop
+E062,ST034,Networking Event
+E063,ST034,Hackathon
+E064,ST034,Seminar
+E065,ST035,Workshop
+E066,ST036,Networking Event
+E067,ST037,Workshop
+E068,ST038,Workshop
+E069,ST039,Workshop
+E070,ST039,Competition
+E071,ST039,Hackathon
+E072,ST039,Seminar
+E073,ST039,Networking Event
+E074,ST040,Competition
+E075,ST040,Hackathon
+E076,ST041,Workshop
+E077,ST042,Hackathon
+E078,ST043,Seminar
+E079,ST043,Networking Event
+E080,ST043,Workshop
+E081,ST044,Seminar
+E082,ST045,Workshop
+E083,ST047,Hackathon
+E084,ST047,Workshop
+E085,ST047,Competition
+E086,ST047,Seminar
+E087,ST047,Networking Event
+E088,ST048,Competition
+E089,ST049,Seminar
+E090,ST049,Networking Event
+E091,ST050,Networking Event
+E092,ST050,Workshop
+E093,ST050,Hackathon
+E094,ST052,Competition
+E095,ST052,Seminar
+E096,ST052,Networking Event
+E097,ST053,Seminar
+E098,ST054,Competition
+E099,ST055,Networking Event
+E100,ST055,Workshop
+E101,ST055,Seminar
+E102,ST056,Workshop
+E103,ST056,Hackathon
+E104,ST056,Networking Event
+E105,ST057,Hackathon
+E106,ST057,Workshop
+E107,ST057,Competition
+E108,ST058,Workshop
+E109,ST058,Networking Event
+E110,ST058,Competition
+E111,ST059,Workshop
+E112,ST060,Hackathon
+E113,ST060,Competition
+E114,ST060,Seminar
+E115,ST062,Workshop
+E116,ST062,Seminar
+E117,ST063,Hackathon
+E118,ST064,Seminar
+E119,ST064,Networking Event
+E120,ST065,Workshop
+E121,ST066,Seminar
+E122,ST066,Hackathon
+E123,ST066,Workshop
+E124,ST066,Networking Event
+E125,ST066,Competition
+E126,ST067,Seminar
+E127,ST067,Competition
+E128,ST068,Seminar
+E129,ST068,Workshop
+E130,ST068,Hackathon
+E131,ST068,Competition
+E132,ST069,Networking Event
+E133,ST069,Competition
+E134,ST069,Hackathon
+E135,ST070,Competition
+E136,ST071,Networking Event
+E137,ST071,Workshop
+E138,ST072,Hackathon
+E139,ST072,Seminar
+E140,ST072,Workshop
+E141,ST072,Competition
+E142,ST072,Networking Event
+E143,ST073,Seminar
+E144,ST073,Networking Event
+E145,ST073,Workshop
+E146,ST074,Hackathon
+E147,ST075,Competition
+E148,ST075,Workshop
+E149,ST076,Workshop
+E150,ST077,Competition
+E151,ST077,Workshop
+E152,ST078,Hackathon
+E153,ST078,Workshop
+E154,ST078,Competition
+E155,ST078,Seminar
+E156,ST079,Networking Event
+E157,ST081,Competition
+E158,ST081,Networking Event
+E159,ST081,Hackathon
+E160,ST083,Hackathon
+E161,ST084,Workshop
+E162,ST084,Seminar
+E163,ST084,Hackathon
+E164,ST084,Competition
+E165,ST085,Seminar
+E166,ST085,Networking Event
+E167,ST085,Hackathon
+E168,ST088,Seminar
+E169,ST088,Competition
+E170,ST088,Hackathon
+E171,ST089,Seminar
+E172,ST089,Networking Event
+E173,ST091,Workshop
+E174,ST092,Hackathon
+E175,ST093,Seminar
+E176,ST093,Workshop
+E177,ST093,Hackathon
+E178,ST095,Workshop
+E179,ST096,Competition
+E180,ST096,Hackathon
+E181,ST096,Workshop
+E182,ST096,Seminar
+E183,ST096,Networking Event
+E184,ST097,Competition
+E185,ST099,Hackathon
+E186,ST099,Seminar
+E187,ST099,Workshop
+E188,ST099,Networking Event
+E189,ST100,Seminar
+E190,ST101,Hackathon
+E191,ST103,Seminar
+E192,ST103,Competition
+E193,ST104,Competition
+E194,ST105,Seminar
+E195,ST105,Workshop
+E196,ST105,Networking Event
+E197,ST105,Hackathon
+E198,ST106,Networking Event
+E199,ST107,Workshop
+E200,ST107,Networking Event
+E201,ST107,Hackathon
+E202,ST108,Networking Event
+E203,ST109,Hackathon
+E204,ST109,Networking Event
+E205,ST109,Competition
+E206,ST110,Workshop
+E207,ST110,Competition
+E208,ST110,Networking Event
+E209,ST112,Seminar
+E210,ST113,Networking Event
+E211,ST114,Seminar
+E212,ST114,Workshop
+E213,ST116,Workshop
+E214,ST116,Competition
+E215,ST116,Seminar
+E216,ST116,Networking Event
+E217,ST118,Hackathon
+E218,ST118,Networking Event
+E219,ST119,Competition
+E220,ST119,Hackathon
+E221,ST119,Networking Event
+E222,ST120,Competition
+E223,ST121,Competition
+E224,ST121,Networking Event
+E225,ST122,Networking Event
+E226,ST122,Hackathon
+E227,ST123,Hackathon
+E228,ST123,Workshop
+E229,ST123,Competition
+E230,ST125,Competition
+E231,ST126,Seminar
+E232,ST126,Competition
+E233,ST127,Networking Event
+E234,ST128,Networking Event
+E235,ST128,Competition
+E236,ST131,Hackathon
+E237,ST132,Seminar
+E238,ST134,Competition
+E239,ST134,Workshop
+E240,ST134,Networking Event
+E241,ST135,Seminar
+E242,ST136,Workshop
+E243,ST136,Competition
+E244,ST138,Networking Event
+E245,ST139,Competition
+E246,ST139,Seminar
+E247,ST139,Workshop
+E248,ST140,Competition
+E249,ST140,Hackathon
+E250,ST140,Workshop
+E251,ST141,Workshop
+E252,ST142,Hackathon
+E253,ST143,Hackathon
+E254,ST143,Seminar
+E255,ST144,Hackathon
+E256,ST145,Seminar
+E257,ST146,Workshop
+E258,ST146,Hackathon
+E259,ST146,Competition
+E260,ST147,Workshop
+E261,ST150,Competition
+E262,ST151,Competition
+E263,ST151,Networking Event
+E264,ST152,Competition
+E265,ST152,Hackathon
+E266,ST152,Seminar
+E267,ST152,Networking Event
+E268,ST152,Workshop
+E269,ST153,Competition
+E270,ST153,Hackathon
+E271,ST154,Workshop
+E272,ST155,Competition
+E273,ST155,Hackathon
+E274,ST155,Workshop
+E275,ST156,Hackathon
+E276,ST156,Networking Event
+E277,ST156,Competition
+E278,ST156,Workshop
+E279,ST158,Hackathon
+E280,ST158,Workshop
+E281,ST158,Seminar
+E282,ST159,Networking Event
+E283,ST160,Competition
+E284,ST160,Hackathon
+E285,ST160,Networking Event
+E286,ST164,Competition
+E287,ST164,Seminar
+E288,ST165,Seminar
+E289,ST166,Hackathon
+E290,ST167,Workshop
+E291,ST167,Competition
+E292,ST168,Seminar
+E293,ST168,Hackathon
+E294,ST168,Competition
+E295,ST171,Workshop
+E296,ST171,Networking Event
+E297,ST172,Competition
+E298,ST172,Seminar
+E299,ST173,Seminar
+E300,ST174,Networking Event
+E301,ST175,Networking Event
+E302,ST175,Competition
+E303,ST175,Hackathon
+E304,ST175,Seminar
+E305,ST175,Workshop
+E306,ST176,Seminar
+E307,ST176,Hackathon
+E308,ST177,Seminar
+E309,ST178,Workshop
+E310,ST178,Networking Event
+E311,ST178,Seminar
+E312,ST179,Hackathon
+E313,ST179,Seminar
+E314,ST179,Networking Event
+E315,ST179,Competition
+E316,ST180,Networking Event
+E317,ST180,Workshop
+E318,ST181,Seminar
+E319,ST181,Networking Event
+E320,ST182,Hackathon
+E321,ST182,Networking Event
+E322,ST182,Workshop
+E323,ST183,Hackathon
+E324,ST183,Networking Event
+E325,ST184,Hackathon
+E326,ST184,Workshop
+E327,ST184,Networking Event
+E328,ST185,Networking Event
+E329,ST186,Networking Event
+E330,ST187,Workshop
+E331,ST187,Seminar
+E332,ST187,Competition
+E333,ST188,Hackathon
+E334,ST188,Seminar
+E335,ST188,Competition
+E336,ST188,Workshop
+E337,ST189,Hackathon
+E338,ST190,Hackathon
+E339,ST190,Networking Event
+E340,ST190,Seminar
+E341,ST191,Hackathon
+E342,ST192,Workshop
+E343,ST193,Competition
+E344,ST194,Networking Event
+E345,ST195,Seminar
+E346,ST196,Workshop
+E347,ST197,Seminar
+E348,ST197,Workshop
+E349,ST198,Networking Event
+E350,ST198,Hackathon
+E351,ST198,Competition
+E352,ST199,Seminar
+E353,ST199,Workshop
+E354,ST200,Networking Event
+E355,ST200,Competition
+E356,ST201,Workshop
+E357,ST201,Competition
+E358,ST201,Seminar
+E359,ST202,Hackathon
+E360,ST203,Networking Event
+E361,ST203,Workshop
+E362,ST204,Seminar
+E363,ST204,Networking Event
+E364,ST204,Hackathon
+E365,ST206,Workshop
+E366,ST207,Workshop
+E367,ST207,Competition
+E368,ST208,Networking Event
+E369,ST208,Workshop
+E370,ST208,Competition
+E371,ST209,Hackathon
+E372,ST209,Seminar
+E373,ST209,Workshop
+E374,ST210,Networking Event
+E375,ST213,Networking Event
+E376,ST213,Workshop
+E377,ST213,Hackathon
+E378,ST214,Hackathon
+E379,ST216,Hackathon
+E380,ST218,Hackathon
+E381,ST218,Networking Event
+E382,ST218,Workshop
+E383,ST218,Seminar
+E384,ST219,Workshop
+E385,ST219,Competition
+E386,ST219,Hackathon
+E387,ST220,Competition
+E388,ST220,Workshop
+E389,ST221,Networking Event
+E390,ST222,Workshop
+E391,ST222,Hackathon
+E392,ST223,Workshop
+E393,ST223,Networking Event
+E394,ST223,Seminar
+E395,ST224,Competition
+E396,ST224,Hackathon
+E397,ST224,Networking Event
+E398,ST224,Workshop
+E399,ST225,Networking Event
+E400,ST225,Seminar
+E401,ST227,Hackathon
+E402,ST227,Networking Event
+E403,ST227,Workshop
+E404,ST227,Seminar
+E405,ST227,Competition
+E406,ST228,Workshop
+E407,ST229,Hackathon
+E408,ST229,Workshop
+E409,ST230,Networking Event
+E410,ST230,Workshop
+E411,ST230,Seminar
+E412,ST231,Networking Event
+E413,ST232,Competition
+E414,ST232,Networking Event
+E415,ST232,Hackathon
+E416,ST234,Seminar
+E417,ST234,Networking Event
+E418,ST234,Hackathon
+E419,ST235,Competition
+E420,ST235,Hackathon
+E421,ST235,Networking Event
+E422,ST236,Hackathon
+E423,ST236,Workshop
+E424,ST237,Hackathon
+E425,ST237,Networking Event
+E426,ST237,Competition
+E427,ST240,Workshop
+E428,ST240,Networking Event
+E429,ST241,Seminar
+E430,ST241,Workshop
+E431,ST241,Networking Event
+E432,ST242,Competition
+E433,ST243,Hackathon
+E434,ST244,Workshop
+E435,ST244,Hackathon
+E436,ST244,Competition
+E437,ST244,Networking Event
+E438,ST245,Seminar
+E439,ST246,Hackathon
+E440,ST247,Seminar
+E441,ST248,Workshop
+E442,ST248,Seminar
+E443,ST249,Competition
+E444,ST249,Seminar
+E445,ST249,Networking Event
+E446,ST251,Workshop
+E447,ST251,Hackathon
+E448,ST251,Seminar
+E449,ST252,Networking Event
+E450,ST253,Networking Event
+E451,ST253,Workshop
+E452,ST254,Competition
+E453,ST254,Hackathon
+E454,ST254,Networking Event
+E455,ST254,Seminar
+E456,ST255,Hackathon
+E457,ST256,Hackathon
+E458,ST256,Competition
+E459,ST256,Workshop
+E460,ST256,Networking Event
+E461,ST257,Seminar
+E462,ST257,Networking Event
+E463,ST258,Hackathon
+E464,ST258,Competition
+E465,ST259,Networking Event
+E466,ST259,Hackathon
+E467,ST259,Seminar
+E468,ST260,Workshop
+E469,ST260,Networking Event
+E470,ST261,Seminar
+E471,ST262,Competition
+E472,ST262,Seminar
+E473,ST262,Hackathon
+E474,ST263,Hackathon
+E475,ST263,Seminar
+E476,ST263,Competition
+E477,ST263,Workshop
+E478,ST264,Competition
+E479,ST265,Workshop
+E480,ST266,Hackathon
+E481,ST266,Seminar
+E482,ST266,Workshop
+E483,ST267,Seminar
+E484,ST267,Networking Event
+E485,ST268,Competition
+E486,ST268,Workshop
+E487,ST268,Seminar
+E488,ST270,Networking Event
+E489,ST271,Seminar
+E490,ST271,Networking Event
+E491,ST271,Workshop
+E492,ST271,Hackathon
+E493,ST271,Competition
+E494,ST272,Competition
+E495,ST272,Workshop
+E496,ST273,Networking Event
+E497,ST274,Hackathon
+E498,ST274,Competition
+E499,ST275,Workshop
+E500,ST275,Competition
+E501,ST276,Hackathon
+E502,ST277,Networking Event
+E503,ST277,Hackathon
+E504,ST278,Workshop
+E505,ST278,Competition
+E506,ST278,Seminar
+E507,ST279,Networking Event
+E508,ST279,Workshop
+E509,ST279,Competition
+E510,ST279,Hackathon
+E511,ST279,Seminar
+E512,ST281,Competition
+E513,ST282,Seminar
+E514,ST282,Workshop
+E515,ST282,Networking Event
+E516,ST283,Networking Event
+E517,ST283,Hackathon
+E518,ST284,Networking Event
+E519,ST284,Hackathon
+E520,ST285,Workshop
+E521,ST285,Networking Event
+E522,ST285,Seminar
+E523,ST286,Competition
+E524,ST288,Seminar
+E525,ST289,Competition
+E526,ST289,Seminar
+E527,ST289,Workshop
+E528,ST291,Workshop
+E529,ST291,Seminar
+E530,ST291,Competition
+E531,ST292,Competition
+E532,ST292,Workshop
+E533,ST293,Seminar
+E534,ST294,Networking Event
+E535,ST294,Hackathon
+E536,ST294,Workshop
+E537,ST294,Seminar
+E538,ST294,Competition
+E539,ST295,Seminar
+E540,ST296,Networking Event
+E541,ST298,Competition
+E542,ST298,Hackathon
+E543,ST298,Networking Event
+E544,ST298,Seminar
+E545,ST300,Seminar
+E546,ST300,Workshop
+E547,ST303,Competition
+E548,ST303,Workshop
+E549,ST303,Networking Event
+E550,ST304,Hackathon
+E551,ST304,Seminar
+E552,ST304,Competition
+E553,ST305,Competition
+E554,ST305,Workshop
+E555,ST305,Hackathon
+E556,ST306,Workshop
+E557,ST306,Competition
+E558,ST306,Networking Event
+E559,ST306,Seminar
+E560,ST307,Seminar
+E561,ST307,Workshop
+E562,ST307,Competition
+E563,ST308,Networking Event
+E564,ST308,Workshop
+E565,ST309,Networking Event
+E566,ST309,Seminar
+E567,ST310,Hackathon
+E568,ST310,Seminar
+E569,ST310,Competition
+E570,ST311,Competition
+E571,ST312,Competition
+E572,ST313,Workshop
+E573,ST313,Seminar
+E574,ST313,Competition
+E575,ST313,Hackathon
+E576,ST314,Competition
+E577,ST314,Workshop
+E578,ST314,Hackathon
+E579,ST315,Hackathon
+E580,ST316,Workshop
+E581,ST317,Hackathon
+E582,ST317,Seminar
+E583,ST318,Seminar
+E584,ST318,Hackathon
+E585,ST318,Networking Event
+E586,ST318,Competition
+E587,ST320,Hackathon
+E588,ST321,Workshop
+E589,ST322,Networking Event
+E590,ST323,Hackathon
+E591,ST323,Networking Event
+E592,ST323,Competition
+E593,ST325,Workshop
+E594,ST325,Hackathon
+E595,ST326,Hackathon
+E596,ST328,Workshop
+E597,ST328,Seminar
+E598,ST328,Hackathon
+E599,ST329,Seminar
+E600,ST330,Seminar
+E601,ST330,Networking Event
+E602,ST330,Workshop
+E603,ST331,Seminar
+E604,ST332,Seminar
+E605,ST333,Competition
+E606,ST333,Hackathon
+E607,ST333,Seminar
+E608,ST333,Workshop
+E609,ST334,Seminar
+E610,ST334,Networking Event
+E611,ST334,Competition
+E612,ST335,Competition
+E613,ST336,Networking Event
+E614,ST337,Networking Event
+E615,ST338,Workshop
+E616,ST338,Networking Event
+E617,ST339,Workshop
+E618,ST339,Hackathon
+E619,ST339,Seminar
+E620,ST339,Networking Event
+E621,ST339,Competition
+E622,ST340,Seminar
+E623,ST341,Seminar
+E624,ST341,Competition
+E625,ST342,Seminar
+E626,ST343,Seminar
+E627,ST343,Competition
+E628,ST343,Networking Event
+E629,ST343,Workshop
+E630,ST344,Seminar
+E631,ST344,Workshop
+E632,ST346,Workshop
+E633,ST346,Networking Event
+E634,ST346,Seminar
+E635,ST347,Competition
+E636,ST348,Seminar
+E637,ST348,Networking Event
+E638,ST349,Workshop
+E639,ST349,Hackathon
+E640,ST349,Competition
+E641,ST350,Workshop
+E642,ST351,Workshop
+E643,ST351,Hackathon
+E644,ST351,Seminar
+E645,ST351,Networking Event
+E646,ST352,Hackathon
+E647,ST352,Workshop
+E648,ST352,Competition
+E649,ST352,Networking Event
+E650,ST353,Workshop
+E651,ST354,Workshop
+E652,ST355,Hackathon
+E653,ST355,Networking Event
+E654,ST355,Competition
+E655,ST356,Networking Event
+E656,ST357,Workshop
+E657,ST357,Networking Event
+E658,ST357,Hackathon
+E659,ST358,Hackathon
+E660,ST358,Workshop
+E661,ST358,Seminar
+E662,ST359,Hackathon
+E663,ST359,Networking Event
+E664,ST359,Workshop
+E665,ST362,Workshop
+E666,ST362,Seminar
+E667,ST363,Networking Event
+E668,ST363,Workshop
+E669,ST363,Hackathon
+E670,ST364,Competition
+E671,ST364,Workshop
+E672,ST364,Hackathon
+E673,ST364,Networking Event
+E674,ST364,Seminar
+E675,ST365,Seminar
+E676,ST365,Networking Event
+E677,ST365,Hackathon
+E678,ST366,Networking Event
+E679,ST367,Workshop
+E680,ST367,Networking Event
+E681,ST368,Workshop
+E682,ST368,Hackathon
+E683,ST368,Seminar
+E684,ST368,Networking Event
+E685,ST369,Competition
+E686,ST370,Competition
+E687,ST371,Networking Event
+E688,ST372,Hackathon
+E689,ST372,Networking Event
+E690,ST373,Networking Event
+E691,ST374,Hackathon
+E692,ST375,Networking Event
+E693,ST375,Seminar
+E694,ST375,Hackathon
+E695,ST376,Workshop
+E696,ST376,Networking Event
+E697,ST377,Hackathon
+E698,ST377,Networking Event
+E699,ST377,Seminar
+E700,ST377,Workshop
+E701,ST379,Hackathon
+E702,ST380,Hackathon
+E703,ST381,Hackathon
+E704,ST381,Seminar
+E705,ST381,Workshop
+E706,ST382,Workshop
+E707,ST383,Competition
+E708,ST384,Networking Event
+E709,ST385,Workshop
+E710,ST385,Networking Event
+E711,ST385,Hackathon
+E712,ST385,Competition
+E713,ST385,Seminar
+E714,ST386,Networking Event
+E715,ST386,Hackathon
+E716,ST389,Competition
+E717,ST389,Seminar
+E718,ST389,Workshop
+E719,ST390,Hackathon
+E720,ST391,Seminar
+E721,ST391,Networking Event
+E722,ST391,Competition
+E723,ST392,Hackathon
+E724,ST393,Workshop
+E725,ST393,Competition
+E726,ST393,Networking Event
+E727,ST393,Seminar
+E728,ST393,Hackathon
+E729,ST394,Competition
+E730,ST394,Workshop
+E731,ST394,Seminar
+E732,ST394,Networking Event
+E733,ST395,Workshop
+E734,ST395,Competition
+E735,ST395,Hackathon
+E736,ST396,Competition
+E737,ST396,Workshop
+E738,ST396,Seminar
+E739,ST397,Competition
+E740,ST397,Networking Event
+E741,ST397,Workshop
+E742,ST398,Networking Event
+E743,ST398,Competition
+E744,ST398,Hackathon
+E745,ST398,Seminar
+E746,ST399,Competition
+E747,ST399,Networking Event
+E748,ST402,Seminar
+E749,ST402,Hackathon
+E750,ST402,Workshop
+E751,ST402,Competition
+E752,ST403,Seminar
+E753,ST404,Seminar
+E754,ST405,Competition
+E755,ST405,Networking Event
+E756,ST405,Seminar
+E757,ST406,Networking Event
+E758,ST406,Hackathon
+E759,ST407,Networking Event
+E760,ST408,Networking Event
+E761,ST408,Competition
+E762,ST408,Hackathon
+E763,ST409,Workshop
+E764,ST409,Seminar
+E765,ST409,Competition
+E766,ST409,Hackathon
+E767,ST409,Networking Event
+E768,ST412,Hackathon
+E769,ST413,Seminar
+E770,ST414,Hackathon
+E771,ST414,Workshop
+E772,ST414,Competition
+E773,ST414,Seminar
+E774,ST414,Networking Event
+E775,ST415,Workshop
+E776,ST415,Competition
+E777,ST416,Seminar
+E778,ST416,Networking Event
+E779,ST416,Workshop
+E780,ST416,Competition
+E781,ST417,Workshop
+E782,ST417,Competition
+E783,ST418,Hackathon
+E784,ST418,Competition
+E785,ST418,Seminar
+E786,ST418,Networking Event
+E787,ST418,Workshop
+E788,ST419,Competition
+E789,ST419,Workshop
+E790,ST419,Hackathon
+E791,ST420,Competition
+E792,ST420,Workshop
+E793,ST420,Networking Event
+E794,ST420,Seminar
+E795,ST421,Hackathon
+E796,ST421,Seminar
+E797,ST421,Competition
+E798,ST421,Networking Event
+E799,ST422,Hackathon
+E800,ST422,Workshop
+E801,ST424,Workshop
+E802,ST424,Competition
+E803,ST425,Seminar
+E804,ST426,Competition
+E805,ST426,Hackathon
+E806,ST427,Workshop
+E807,ST428,Competition
+E808,ST428,Workshop
+E809,ST428,Hackathon
+E810,ST429,Competition
+E811,ST429,Seminar
+E812,ST429,Networking Event
+E813,ST430,Networking Event
+E814,ST430,Competition
+E815,ST430,Seminar
+E816,ST431,Workshop
+E817,ST431,Competition
+E818,ST431,Networking Event
+E819,ST432,Networking Event
+E820,ST433,Hackathon
+E821,ST433,Seminar
+E822,ST433,Networking Event
+E823,ST433,Competition
+E824,ST433,Workshop
+E825,ST434,Workshop
+E826,ST434,Networking Event
+E827,ST434,Seminar
+E828,ST434,Hackathon
+E829,ST434,Competition
+E830,ST436,Hackathon
+E831,ST438,Competition
+E832,ST438,Networking Event
+E833,ST438,Workshop
+E834,ST438,Hackathon
+E835,ST438,Seminar
+E836,ST439,Seminar
+E837,ST440,Workshop
+E838,ST441,Seminar
+E839,ST441,Networking Event
+E840,ST441,Competition
+E841,ST441,Workshop
+E842,ST441,Hackathon
+E843,ST442,Competition
+E844,ST442,Workshop
+E845,ST442,Networking Event
+E846,ST442,Seminar
+E847,ST442,Hackathon
+E848,ST443,Seminar
+E849,ST443,Networking Event
+E850,ST443,Hackathon
+E851,ST444,Seminar
+E852,ST444,Competition
+E853,ST444,Networking Event
+E854,ST444,Workshop
+E855,ST445,Hackathon
+E856,ST446,Seminar
+E857,ST447,Networking Event
+E858,ST447,Hackathon
+E859,ST447,Competition
+E860,ST447,Seminar
+E861,ST448,Seminar
+E862,ST449,Seminar
+E863,ST449,Networking Event
+E864,ST450,Competition
+E865,ST450,Seminar
+E866,ST450,Workshop
+E867,ST451,Seminar
+E868,ST453,Networking Event
+E869,ST453,Workshop
+E870,ST454,Workshop
+E871,ST455,Workshop
+E872,ST456,Networking Event
+E873,ST456,Competition
+E874,ST456,Seminar
+E875,ST458,Seminar
+E876,ST459,Hackathon
+E877,ST460,Competition
+E878,ST461,Workshop
+E879,ST462,Workshop
+E880,ST464,Hackathon
+E881,ST464,Seminar
+E882,ST464,Competition
+E883,ST464,Networking Event
+E884,ST464,Workshop
+E885,ST465,Networking Event
+E886,ST465,Competition
+E887,ST465,Workshop
+E888,ST466,Networking Event
+E889,ST466,Workshop
+E890,ST466,Hackathon
+E891,ST466,Seminar
+E892,ST466,Competition
+E893,ST468,Workshop
+E894,ST468,Hackathon
+E895,ST468,Seminar
+E896,ST468,Competition
+E897,ST468,Networking Event
+E898,ST469,Competition
+E899,ST469,Workshop
+E900,ST469,Hackathon
+E901,ST470,Networking Event
+E902,ST470,Seminar
+E903,ST470,Competition
+E904,ST471,Networking Event
+E905,ST473,Networking Event
+E906,ST474,Workshop
+E907,ST474,Hackathon
+E908,ST474,Competition
+E909,ST474,Networking Event
+E910,ST474,Seminar
+E911,ST475,Networking Event
+E912,ST475,Competition
+E913,ST476,Workshop
+E914,ST477,Seminar
+E915,ST477,Hackathon
+E916,ST477,Workshop
+E917,ST478,Hackathon
+E918,ST478,Workshop
+E919,ST478,Seminar
+E920,ST480,Competition
+E921,ST480,Seminar
+E922,ST481,Workshop
+E923,ST481,Networking Event
+E924,ST482,Competition
+E925,ST483,Workshop
+E926,ST484,Workshop
+E927,ST484,Networking Event
+E928,ST485,Hackathon
+E929,ST485,Networking Event
+E930,ST485,Seminar
+E931,ST486,Seminar
+E932,ST489,Workshop
+E933,ST490,Competition
+E934,ST490,Networking Event
+E935,ST490,Hackathon
+E936,ST492,Seminar
+E937,ST492,Hackathon
+E938,ST493,Workshop
+E939,ST493,Hackathon
+E940,ST493,Seminar
+E941,ST494,Networking Event
+E942,ST494,Seminar
+E943,ST494,Workshop
+E944,ST495,Networking Event
+E945,ST495,Hackathon
+E946,ST495,Seminar
+E947,ST495,Workshop
+E948,ST496,Seminar
+E949,ST496,Hackathon
+E950,ST496,Competition
+E951,ST497,Seminar
+E952,ST497,Workshop
+E953,ST497,Networking Event
+E954,ST498,Hackathon
+E955,ST499,Hackathon
+E956,ST499,Workshop
+E957,ST499,Seminar
+E958,ST499,Competition
+E959,ST500,Networking Event
+E960,ST500,Hackathon
+E961,ST500,Competition
+E962,ST500,Seminar
+E963,ST500,Workshop

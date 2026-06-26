@@ -1,0 +1,501 @@
+student_id,department,batch,status,login_frequency,avg_session_duration,student_segment,avg_progress,total_courses,courses_completed,questions,answers,comments,webinars_attended,events_participated,mentor_meetings,total_mentor_duration
+ST001,Civil,2022,Inactive,18,53.77777777777778,Moderate,42.5,2,0,7,9,39,4,2.0,1.0,29.0
+ST002,Information Technology,2024,Inactive,8,50.875,Moderate,41.0,3,0,4,20,11,1,1.0,0.0,0.0
+ST003,Mechanical,2023,Active,12,62.25,Moderate,57.0,3,0,9,19,21,2,1.0,1.0,20.0
+ST004,Mechanical,2024,Inactive,12,57.25,Moderate,62.6,5,0,2,1,29,5,1.0,2.0,135.0
+ST005,Electronics,2024,Inactive,34,124.52941176470588,Highly Active,87.0,4,3,20,29,67,4,5.0,0.0,0.0
+ST006,Mechanical,2024,Inactive,9,56.666666666666664,Moderate,56.333333333333336,3,1,3,13,17,4,3.0,3.0,209.0
+ST007,Civil,2022,Active,18,53.27777777777778,Moderate,59.25,4,2,5,13,37,3,1.0,0.0,0.0
+ST008,Computer Science,2024,Active,4,14.75,At Risk,26.0,4,0,2,2,8,0,0.0,3.0,71.0
+ST009,Civil,2023,Active,7,16.142857142857142,At Risk,18.333333333333332,6,0,1,5,6,1,0.0,2.0,143.0
+ST010,Mechanical,2023,Active,2,15.5,At Risk,24.5,4,0,2,5,6,1,0.0,3.0,244.0
+ST011,Mechanical,2024,Active,4,14.5,At Risk,20.75,4,0,2,0,1,3,1.0,0.0,0.0
+ST012,Electronics,2024,Active,4,18.5,At Risk,21.0,4,0,1,4,3,2,1.0,2.0,96.0
+ST013,Civil,2024,Active,4,17.25,At Risk,26.833333333333332,6,0,0,4,7,3,0.0,3.0,175.0
+ST014,Mechanical,2022,Inactive,1,29.0,At Risk,31.333333333333332,3,0,1,5,1,2,1.0,2.0,117.0
+ST015,Computer Science,2022,Inactive,14,62.07142857142857,Moderate,74.75,4,2,8,15,37,4,1.0,0.0,0.0
+ST016,Electronics,2023,Inactive,16,61.6875,Moderate,68.33333333333333,3,2,5,2,28,3,2.0,3.0,126.0
+ST017,Computer Science,2023,Inactive,10,42.8,Moderate,63.0,4,1,2,16,38,1,2.0,0.0,0.0
+ST018,Mechanical,2022,Active,3,23.666666666666668,At Risk,21.6,5,0,2,2,6,0,1.0,3.0,197.0
+ST019,Mechanical,2022,Inactive,16,58.0625,Moderate,46.0,5,0,1,1,30,3,2.0,0.0,0.0
+ST020,Electronics,2023,Inactive,16,58.1875,Moderate,62.666666666666664,3,0,5,18,21,2,2.0,2.0,52.0
+ST021,Mechanical,2022,Active,34,122.0,Highly Active,77.0,3,1,14,20,26,5,4.0,2.0,64.0
+ST022,Computer Science,2024,Inactive,19,49.89473684210526,Moderate,67.0,3,0,2,19,28,5,3.0,3.0,86.0
+ST023,Information Technology,2023,Inactive,16,60.0625,Moderate,49.25,4,0,5,16,9,3,2.0,3.0,217.0
+ST024,Information Technology,2023,Inactive,4,13.5,At Risk,18.0,6,0,0,1,2,1,1.0,3.0,150.0
+ST025,Computer Science,2024,Active,39,120.23076923076923,Highly Active,87.2,5,4,7,30,37,2,5.0,2.0,92.0
+ST026,Civil,2023,Active,19,55.05263157894737,Moderate,53.75,4,0,10,18,21,3,3.0,0.0,0.0
+ST027,Civil,2024,Inactive,11,54.18181818181818,Moderate,62.5,4,0,7,16,22,3,3.0,3.0,119.0
+ST028,Mechanical,2022,Active,20,60.3,Moderate,45.5,2,0,10,4,11,0,1.0,0.0,0.0
+ST029,Mechanical,2024,Inactive,3,18.0,At Risk,32.666666666666664,3,0,1,0,4,3,1.0,1.0,75.0
+ST030,Electronics,2023,Inactive,7,14.857142857142858,At Risk,20.5,6,0,1,4,4,0,1.0,1.0,48.0
+ST031,Electronics,2023,Inactive,8,59.25,Moderate,48.0,2,0,8,6,38,1,3.0,3.0,124.0
+ST032,Mechanical,2024,Inactive,20,50.2,Moderate,66.5,4,1,7,3,27,3,2.0,1.0,65.0
+ST033,Computer Science,2022,Active,9,57.666666666666664,Moderate,55.0,6,1,6,1,36,4,3.0,3.0,222.0
+ST034,Computer Science,2024,Inactive,33,112.66666666666667,Highly Active,82.66666666666667,3,2,7,30,45,5,5.0,2.0,72.0
+ST035,Information Technology,2022,Active,18,65.94444444444444,Moderate,59.0,5,0,6,19,9,3,1.0,3.0,175.0
+ST036,Mechanical,2023,Active,15,55.13333333333333,Moderate,40.75,4,0,3,9,20,2,1.0,2.0,84.0
+ST037,Mechanical,2023,Inactive,1,20.0,At Risk,33.0,3,0,1,0,1,0,1.0,2.0,73.0
+ST038,Information Technology,2022,Active,3,15.666666666666666,At Risk,25.2,5,0,1,3,7,0,1.0,0.0,0.0
+ST039,Mechanical,2022,Inactive,23,121.8695652173913,Highly Active,93.0,4,4,17,13,63,5,5.0,1.0,24.0
+ST040,Information Technology,2023,Active,15,58.06666666666667,Moderate,52.6,5,1,7,5,28,4,2.0,0.0,0.0
+ST041,Mechanical,2022,Inactive,10,65.7,Moderate,68.0,6,2,1,5,11,2,1.0,3.0,115.0
+ST042,Electronics,2022,Active,17,51.294117647058826,Moderate,47.5,2,0,10,8,29,1,1.0,2.0,122.0
+ST043,Computer Science,2024,Active,11,61.81818181818182,Moderate,59.166666666666664,6,0,8,2,37,3,3.0,0.0,0.0
+ST044,Mechanical,2023,Inactive,5,15.8,At Risk,20.2,5,0,0,2,0,0,1.0,0.0,0.0
+ST045,Electronics,2023,Inactive,5,22.2,At Risk,22.25,4,0,0,2,0,1,1.0,0.0,0.0
+ST046,Computer Science,2022,Active,4,19.5,At Risk,30.666666666666668,6,0,2,0,5,0,0.0,0.0,0.0
+ST047,Civil,2022,Inactive,33,109.84848484848484,Highly Active,81.5,4,2,10,23,28,4,5.0,0.0,0.0
+ST048,Electronics,2023,Inactive,11,54.81818181818182,Moderate,62.5,2,0,10,14,28,3,1.0,2.0,76.0
+ST049,Mechanical,2023,Active,13,52.0,Moderate,49.666666666666664,3,0,2,19,25,3,2.0,2.0,137.0
+ST050,Computer Science,2023,Active,11,63.0,Moderate,53.6,5,1,6,3,11,4,3.0,2.0,45.0
+ST051,Information Technology,2022,Inactive,1,7.0,At Risk,25.333333333333332,3,0,2,2,3,2,0.0,2.0,125.0
+ST052,Civil,2023,Active,10,57.5,Moderate,50.4,5,0,1,13,30,2,3.0,2.0,99.0
+ST053,Information Technology,2024,Inactive,2,17.0,At Risk,24.666666666666668,3,0,2,2,7,1,1.0,0.0,0.0
+ST054,Civil,2022,Active,17,44.588235294117645,Moderate,45.0,6,0,7,20,8,3,1.0,1.0,29.0
+ST055,Computer Science,2024,Active,15,45.46666666666667,Moderate,61.0,5,1,6,19,6,0,3.0,1.0,53.0
+ST056,Electronics,2023,Inactive,34,121.58823529411765,Highly Active,87.33333333333333,3,3,17,10,40,2,3.0,1.0,76.0
+ST057,Information Technology,2022,Active,34,117.44117647058823,Highly Active,85.75,4,3,14,24,29,5,3.0,2.0,106.0
+ST058,Computer Science,2023,Inactive,36,116.5,Highly Active,78.25,4,2,10,11,43,4,3.0,2.0,140.0
+ST059,Information Technology,2023,Inactive,2,17.5,At Risk,27.8,5,0,2,5,7,2,1.0,0.0,0.0
+ST060,Mechanical,2022,Active,20,52.0,Moderate,41.5,2,0,10,14,28,4,3.0,2.0,129.0
+ST061,Civil,2023,Active,7,18.714285714285715,At Risk,38.5,2,0,2,4,0,2,0.0,0.0,0.0
+ST062,Information Technology,2022,Active,10,62.8,Moderate,55.75,4,0,5,3,18,3,2.0,1.0,70.0
+ST063,Electronics,2022,Inactive,20,55.05,Moderate,48.5,2,0,6,6,20,4,1.0,0.0,0.0
+ST064,Mechanical,2023,Active,10,55.4,Moderate,58.2,5,0,2,20,19,3,2.0,2.0,108.0
+ST065,Electronics,2022,Inactive,2,19.0,At Risk,28.666666666666668,6,0,0,1,3,1,1.0,0.0,0.0
+ST066,Information Technology,2022,Active,29,118.44827586206897,Highly Active,84.0,4,3,14,32,24,4,5.0,2.0,116.0
+ST067,Civil,2023,Inactive,17,52.94117647058823,Moderate,51.25,4,0,3,9,36,2,2.0,2.0,42.0
+ST068,Electronics,2022,Active,31,118.2258064516129,Highly Active,88.66666666666667,3,2,16,25,55,4,4.0,2.0,137.0
+ST069,Information Technology,2022,Active,12,59.666666666666664,Moderate,58.5,4,1,3,10,31,1,3.0,2.0,88.0
+ST070,Electronics,2022,Inactive,10,54.5,Moderate,43.666666666666664,3,0,2,7,17,3,1.0,0.0,0.0
+ST071,Civil,2022,Active,9,64.88888888888889,Moderate,57.5,4,1,5,16,37,1,2.0,3.0,159.0
+ST072,Electronics,2022,Active,25,110.12,Highly Active,84.5,2,1,9,17,80,5,5.0,1.0,76.0
+ST073,Civil,2022,Inactive,10,54.2,Moderate,52.75,4,0,3,10,11,1,3.0,1.0,32.0
+ST074,Electronics,2024,Active,7,16.714285714285715,At Risk,37.8,5,0,1,0,10,1,1.0,3.0,117.0
+ST075,Mechanical,2022,Active,19,53.26315789473684,Moderate,51.5,4,0,7,18,40,1,2.0,1.0,56.0
+ST076,Civil,2022,Inactive,3,17.333333333333332,At Risk,25.666666666666668,3,0,0,0,9,0,1.0,1.0,16.0
+ST077,Mechanical,2022,Active,18,52.27777777777778,Moderate,63.25,4,0,2,9,29,3,2.0,1.0,40.0
+ST078,Information Technology,2022,Active,21,122.71428571428571,Highly Active,89.0,2,2,5,17,47,4,4.0,2.0,168.0
+ST079,Computer Science,2024,Inactive,5,18.6,At Risk,25.0,6,0,0,0,3,0,1.0,0.0,0.0
+ST080,Civil,2023,Active,6,20.666666666666668,At Risk,24.0,4,0,0,1,0,1,0.0,3.0,169.0
+ST081,Civil,2023,Inactive,11,49.90909090909091,Moderate,75.0,2,1,6,19,15,1,3.0,0.0,0.0
+ST082,Computer Science,2023,Active,6,19.5,At Risk,28.8,5,0,2,4,2,1,0.0,1.0,16.0
+ST083,Electronics,2022,Inactive,7,14.0,At Risk,40.333333333333336,3,0,1,0,0,0,1.0,2.0,150.0
+ST084,Mechanical,2022,Inactive,26,109.38461538461539,Highly Active,91.75,4,4,17,13,25,4,4.0,1.0,43.0
+ST085,Information Technology,2023,Inactive,15,59.86666666666667,Moderate,52.5,2,0,8,16,37,3,3.0,2.0,144.0
+ST086,Civil,2024,Inactive,1,13.0,At Risk,26.333333333333332,3,0,2,1,9,1,0.0,3.0,198.0
+ST087,Mechanical,2022,Inactive,5,14.2,At Risk,31.75,4,0,0,2,3,2,0.0,0.0,0.0
+ST088,Computer Science,2023,Active,19,52.68421052631579,Moderate,68.75,4,2,10,7,26,3,3.0,0.0,0.0
+ST089,Computer Science,2023,Active,19,60.578947368421055,Moderate,63.75,4,0,1,7,17,4,2.0,1.0,56.0
+ST090,Electronics,2023,Inactive,6,17.666666666666668,At Risk,26.6,5,0,1,3,0,2,0.0,0.0,0.0
+ST091,Electronics,2022,Active,13,45.23076923076923,Moderate,46.166666666666664,6,0,5,9,27,3,1.0,0.0,0.0
+ST092,Civil,2022,Active,2,19.5,At Risk,20.333333333333332,6,0,2,2,2,1,1.0,2.0,180.0
+ST093,Computer Science,2022,Inactive,25,100.12,Highly Active,92.4,5,5,19,27,47,5,3.0,2.0,91.0
+ST094,Information Technology,2023,Inactive,1,8.0,At Risk,22.0,4,0,0,4,10,0,0.0,2.0,115.0
+ST095,Mechanical,2024,Inactive,5,17.2,At Risk,30.0,5,0,0,4,7,0,1.0,3.0,163.0
+ST096,Civil,2022,Inactive,20,127.2,Highly Active,88.66666666666667,6,6,6,16,30,5,5.0,1.0,16.0
+ST097,Electronics,2024,Active,7,17.857142857142858,At Risk,37.0,2,0,1,2,0,2,1.0,2.0,71.0
+ST098,Computer Science,2022,Inactive,5,22.2,At Risk,21.25,4,0,2,5,8,1,0.0,0.0,0.0
+ST099,Mechanical,2024,Active,31,122.58064516129032,Highly Active,79.16666666666667,6,3,9,10,31,4,4.0,2.0,67.0
+ST100,Civil,2023,Inactive,7,21.0,At Risk,26.8,5,0,1,0,8,2,1.0,2.0,87.0
+ST101,Information Technology,2022,Inactive,19,56.05263157894737,Moderate,58.0,5,0,9,3,32,3,1.0,3.0,119.0
+ST102,Computer Science,2023,Inactive,5,15.2,At Risk,22.666666666666668,6,0,0,0,5,0,0.0,0.0,0.0
+ST103,Mechanical,2024,Inactive,14,48.0,Moderate,50.0,3,0,9,9,7,4,2.0,1.0,38.0
+ST104,Information Technology,2022,Inactive,6,13.666666666666666,At Risk,13.25,4,0,0,1,10,0,1.0,3.0,88.0
+ST105,Computer Science,2024,Active,36,133.55555555555554,Highly Active,82.5,4,2,10,10,61,4,4.0,1.0,63.0
+ST106,Mechanical,2024,Inactive,20,56.7,Moderate,74.66666666666667,3,0,5,19,6,3,1.0,1.0,83.0
+ST107,Mechanical,2023,Inactive,10,58.0,Moderate,61.833333333333336,6,2,6,8,32,4,3.0,2.0,118.0
+ST108,Information Technology,2023,Inactive,5,20.6,At Risk,18.0,4,0,2,0,8,1,1.0,1.0,63.0
+ST109,Information Technology,2024,Inactive,14,54.42857142857143,Moderate,62.25,4,0,3,5,37,2,3.0,3.0,120.0
+ST110,Information Technology,2023,Inactive,18,59.388888888888886,Moderate,75.4,5,2,10,3,19,3,3.0,2.0,157.0
+ST111,Civil,2024,Inactive,5,21.2,At Risk,32.166666666666664,6,0,0,1,3,0,0.0,1.0,39.0
+ST112,Electronics,2023,Active,15,55.13333333333333,Moderate,47.5,2,0,3,16,16,3,1.0,3.0,219.0
+ST113,Civil,2023,Active,3,12.666666666666666,At Risk,26.75,4,0,2,1,8,1,1.0,2.0,75.0
+ST114,Civil,2023,Active,20,57.0,Moderate,53.666666666666664,3,0,1,3,5,1,2.0,2.0,110.0
+ST115,Civil,2024,Active,2,13.5,At Risk,29.4,5,0,1,5,8,0,0.0,3.0,168.0
+ST116,Information Technology,2023,Inactive,26,132.96153846153845,Highly Active,89.0,2,2,8,30,35,5,4.0,0.0,0.0
+ST117,Civil,2024,Active,4,20.25,At Risk,23.0,5,0,2,1,2,1,0.0,1.0,43.0
+ST118,Mechanical,2024,Active,12,53.666666666666664,Moderate,63.666666666666664,3,0,7,6,16,2,2.0,3.0,169.0
+ST119,Computer Science,2024,Inactive,36,112.11111111111111,Highly Active,85.0,6,5,9,23,57,2,3.0,3.0,167.0
+ST120,Computer Science,2023,Inactive,1,24.0,At Risk,22.0,6,0,1,1,0,0,1.0,0.0,0.0
+ST121,Electronics,2023,Inactive,14,51.142857142857146,Moderate,66.5,2,0,1,5,12,3,2.0,3.0,174.0
+ST122,Electronics,2023,Active,12,49.083333333333336,Moderate,59.166666666666664,6,1,5,12,38,4,2.0,1.0,74.0
+ST123,Computer Science,2023,Active,27,113.81481481481481,Highly Active,79.5,2,1,5,22,24,5,3.0,2.0,103.0
+ST124,Civil,2022,Active,2,15.0,At Risk,10.6,5,0,2,5,7,0,0.0,3.0,198.0
+ST125,Civil,2022,Active,4,16.25,At Risk,16.333333333333332,3,0,0,1,6,2,1.0,1.0,62.0
+ST126,Electronics,2022,Active,19,55.0,Moderate,57.0,2,0,4,13,27,1,2.0,2.0,94.0
+ST127,Computer Science,2024,Active,13,58.38461538461539,Moderate,37.666666666666664,3,0,2,6,27,4,1.0,0.0,0.0
+ST128,Mechanical,2024,Inactive,11,56.27272727272727,Moderate,54.666666666666664,3,0,6,6,17,1,2.0,1.0,70.0
+ST129,Information Technology,2023,Inactive,2,20.0,At Risk,39.0,2,0,1,1,8,1,0.0,3.0,151.0
+ST130,Computer Science,2022,Inactive,2,7.5,At Risk,26.5,2,0,2,5,10,1,0.0,1.0,68.0
+ST131,Electronics,2024,Active,11,59.09090909090909,Moderate,44.2,5,0,5,11,38,1,1.0,3.0,147.0
+ST132,Computer Science,2022,Active,4,15.5,At Risk,20.0,3,0,2,1,7,0,1.0,0.0,0.0
+ST133,Computer Science,2022,Active,4,10.0,At Risk,20.4,5,0,2,2,8,0,0.0,3.0,206.0
+ST134,Computer Science,2022,Inactive,16,48.125,Moderate,58.0,5,1,1,1,10,2,3.0,3.0,148.0
+ST135,Information Technology,2024,Inactive,7,18.428571428571427,At Risk,16.166666666666668,6,0,1,2,9,2,1.0,1.0,38.0
+ST136,Electronics,2022,Active,19,54.8421052631579,Moderate,56.0,2,0,5,7,14,4,2.0,0.0,0.0
+ST137,Mechanical,2023,Inactive,3,14.666666666666666,At Risk,30.166666666666668,6,0,0,5,3,2,0.0,2.0,52.0
+ST138,Information Technology,2024,Active,5,21.6,At Risk,29.166666666666668,6,0,1,5,2,1,1.0,0.0,0.0
+ST139,Civil,2022,Inactive,18,67.88888888888889,Moderate,67.33333333333333,3,1,6,15,12,3,3.0,1.0,33.0
+ST140,Computer Science,2023,Inactive,22,124.31818181818181,Highly Active,78.16666666666667,6,1,14,36,56,4,3.0,3.0,197.0
+ST141,Civil,2024,Active,19,63.0,Moderate,56.25,4,0,8,14,21,2,1.0,1.0,52.0
+ST142,Mechanical,2022,Active,12,57.25,Moderate,44.2,5,0,10,17,12,2,1.0,3.0,159.0
+ST143,Information Technology,2022,Active,20,57.85,Moderate,50.4,5,0,3,1,13,3,2.0,0.0,0.0
+ST144,Civil,2022,Active,1,24.0,At Risk,24.2,5,0,1,4,7,0,1.0,1.0,30.0
+ST145,Information Technology,2023,Active,11,59.81818181818182,Moderate,52.333333333333336,3,0,4,7,20,1,1.0,0.0,0.0
+ST146,Civil,2023,Active,34,118.1470588235294,Highly Active,82.8,5,3,12,34,76,5,3.0,2.0,125.0
+ST147,Information Technology,2023,Inactive,4,23.25,At Risk,26.5,2,0,2,0,3,1,1.0,0.0,0.0
+ST148,Information Technology,2024,Inactive,5,20.2,At Risk,23.5,6,0,0,0,1,2,0.0,2.0,123.0
+ST149,Mechanical,2022,Inactive,7,17.285714285714285,At Risk,30.5,6,0,1,1,2,1,0.0,1.0,73.0
+ST150,Computer Science,2023,Active,7,16.714285714285715,At Risk,48.0,2,0,0,4,4,1,1.0,3.0,177.0
+ST151,Mechanical,2022,Active,14,49.357142857142854,Moderate,46.8,5,1,3,14,22,3,2.0,1.0,34.0
+ST152,Information Technology,2023,Active,20,131.45,Highly Active,87.75,4,2,12,32,31,5,5.0,1.0,60.0
+ST153,Civil,2022,Active,16,50.625,Moderate,56.4,5,0,8,1,18,2,2.0,3.0,162.0
+ST154,Information Technology,2023,Active,19,53.8421052631579,Moderate,37.666666666666664,3,0,2,6,26,4,1.0,0.0,0.0
+ST155,Mechanical,2022,Active,22,125.0,Highly Active,79.5,2,1,19,20,80,4,3.0,1.0,75.0
+ST156,Civil,2022,Active,33,117.21212121212122,Highly Active,89.5,2,2,7,33,21,4,4.0,1.0,54.0
+ST157,Mechanical,2023,Inactive,5,14.0,At Risk,26.0,3,0,0,5,10,1,0.0,0.0,0.0
+ST158,Information Technology,2022,Inactive,35,114.11428571428571,Highly Active,85.2,5,3,7,16,50,3,3.0,1.0,44.0
+ST159,Information Technology,2024,Active,1,8.0,At Risk,31.75,4,0,0,4,8,2,1.0,0.0,0.0
+ST160,Civil,2024,Inactive,13,67.0,Moderate,49.0,2,0,4,10,28,3,3.0,1.0,15.0
+ST161,Mechanical,2023,Inactive,3,11.0,At Risk,34.333333333333336,6,0,2,2,9,0,0.0,0.0,0.0
+ST162,Mechanical,2022,Active,6,18.0,At Risk,35.5,2,0,1,2,10,1,0.0,1.0,16.0
+ST163,Information Technology,2022,Active,6,13.5,At Risk,15.4,5,0,2,5,2,1,0.0,0.0,0.0
+ST164,Electronics,2022,Inactive,8,54.25,Moderate,71.4,5,2,4,11,14,5,2.0,2.0,100.0
+ST165,Civil,2024,Inactive,5,20.0,At Risk,35.5,6,0,2,1,5,0,1.0,0.0,0.0
+ST166,Civil,2024,Active,3,13.0,At Risk,14.0,3,0,1,0,6,2,1.0,3.0,128.0
+ST167,Electronics,2023,Active,8,55.375,Moderate,69.25,4,2,1,15,35,1,2.0,1.0,81.0
+ST168,Civil,2023,Inactive,20,61.4,Moderate,65.25,4,0,2,6,27,3,3.0,2.0,60.0
+ST169,Electronics,2024,Active,7,19.571428571428573,At Risk,26.833333333333332,6,0,0,0,5,3,0.0,0.0,0.0
+ST170,Computer Science,2024,Inactive,7,13.714285714285714,At Risk,24.0,5,0,1,2,3,1,0.0,1.0,50.0
+ST171,Electronics,2023,Inactive,8,61.625,Moderate,47.0,5,0,7,1,31,4,2.0,0.0,0.0
+ST172,Mechanical,2022,Inactive,14,39.857142857142854,Moderate,51.75,4,0,2,7,24,3,2.0,0.0,0.0
+ST173,Information Technology,2023,Active,3,17.0,At Risk,34.0,2,0,2,0,5,2,1.0,3.0,191.0
+ST174,Mechanical,2022,Active,6,15.5,At Risk,27.666666666666668,3,0,2,4,5,0,1.0,3.0,170.0
+ST175,Information Technology,2024,Active,38,119.44736842105263,Highly Active,90.8,5,4,19,40,33,5,5.0,3.0,135.0
+ST176,Information Technology,2023,Inactive,17,52.1764705882353,Moderate,51.5,2,0,7,13,35,2,2.0,0.0,0.0
+ST177,Civil,2024,Active,9,60.888888888888886,Moderate,68.6,5,0,4,20,36,3,1.0,3.0,193.0
+ST178,Mechanical,2024,Inactive,8,51.625,Moderate,60.333333333333336,6,0,10,1,36,2,3.0,0.0,0.0
+ST179,Civil,2023,Active,27,116.44444444444444,Highly Active,83.2,5,3,10,39,43,5,4.0,2.0,129.0
+ST180,Information Technology,2022,Active,20,55.0,Moderate,56.0,2,0,6,4,23,5,2.0,1.0,34.0
+ST181,Computer Science,2024,Active,19,55.94736842105263,Moderate,67.0,2,0,2,8,25,4,2.0,2.0,100.0
+ST182,Mechanical,2023,Active,18,60.166666666666664,Moderate,52.6,5,0,9,4,6,2,3.0,0.0,0.0
+ST183,Civil,2024,Inactive,17,49.470588235294116,Moderate,51.6,5,0,8,4,17,2,2.0,2.0,112.0
+ST184,Information Technology,2022,Active,22,121.13636363636364,Highly Active,88.16666666666667,6,5,11,17,76,5,3.0,0.0,0.0
+ST185,Mechanical,2023,Active,19,61.473684210526315,Moderate,54.0,2,0,10,6,29,1,1.0,0.0,0.0
+ST186,Computer Science,2022,Inactive,16,56.5625,Moderate,64.2,5,1,3,16,7,2,1.0,2.0,47.0
+ST187,Computer Science,2022,Active,17,55.529411764705884,Moderate,78.0,3,2,5,19,14,4,3.0,3.0,140.0
+ST188,Information Technology,2022,Active,21,131.66666666666666,Highly Active,84.0,3,3,8,35,36,4,4.0,3.0,168.0
+ST189,Electronics,2022,Inactive,13,53.61538461538461,Moderate,50.0,5,0,6,11,24,3,1.0,3.0,177.0
+ST190,Civil,2022,Active,37,112.89189189189189,Highly Active,80.4,5,3,8,36,34,5,3.0,0.0,0.0
+ST191,Mechanical,2024,Active,13,48.46153846153846,Moderate,65.33333333333333,6,1,4,7,34,2,1.0,3.0,122.0
+ST192,Civil,2024,Inactive,14,53.92857142857143,Moderate,59.6,5,1,5,1,11,3,1.0,0.0,0.0
+ST193,Mechanical,2023,Active,5,14.6,At Risk,29.5,4,0,1,5,5,0,1.0,0.0,0.0
+ST194,Electronics,2023,Active,16,59.125,Moderate,61.6,5,1,4,9,34,2,1.0,2.0,61.0
+ST195,Information Technology,2023,Inactive,4,24.75,At Risk,20.5,2,0,2,5,1,1,1.0,1.0,50.0
+ST196,Electronics,2023,Inactive,13,55.38461538461539,Moderate,48.4,5,0,8,19,5,2,1.0,2.0,96.0
+ST197,Computer Science,2022,Inactive,9,50.888888888888886,Moderate,62.333333333333336,6,1,9,16,35,5,2.0,3.0,174.0
+ST198,Civil,2023,Inactive,20,100.9,Highly Active,81.25,4,2,9,38,45,4,3.0,3.0,121.0
+ST199,Civil,2022,Inactive,20,66.05,Moderate,71.16666666666667,6,2,10,20,24,3,2.0,0.0,0.0
+ST200,Electronics,2023,Inactive,9,61.111111111111114,Moderate,49.666666666666664,6,0,3,13,14,5,2.0,0.0,0.0
+ST201,Mechanical,2022,Inactive,13,68.07692307692308,Moderate,52.333333333333336,6,0,1,8,31,2,3.0,3.0,160.0
+ST202,Computer Science,2024,Active,10,55.8,Moderate,50.666666666666664,6,0,8,9,6,3,1.0,0.0,0.0
+ST203,Information Technology,2024,Inactive,14,47.07142857142857,Moderate,63.0,2,0,9,3,36,2,2.0,3.0,136.0
+ST204,Information Technology,2023,Active,10,50.7,Moderate,57.5,6,0,2,12,10,1,3.0,2.0,61.0
+ST205,Electronics,2023,Active,1,6.0,At Risk,42.5,2,0,1,4,2,1,0.0,1.0,67.0
+ST206,Electronics,2023,Inactive,19,50.73684210526316,Moderate,73.5,4,1,10,18,7,2,1.0,3.0,116.0
+ST207,Civil,2023,Active,10,55.1,Moderate,55.833333333333336,6,0,8,16,31,4,2.0,2.0,83.0
+ST208,Information Technology,2023,Active,15,60.06666666666667,Moderate,50.5,2,0,8,12,13,2,3.0,3.0,160.0
+ST209,Mechanical,2022,Inactive,31,117.2258064516129,Highly Active,84.66666666666667,3,2,13,10,29,5,3.0,1.0,76.0
+ST210,Civil,2022,Active,14,59.42857142857143,Moderate,58.0,5,1,8,10,23,3,1.0,1.0,86.0
+ST211,Electronics,2022,Inactive,3,14.666666666666666,At Risk,21.0,6,0,1,3,9,1,0.0,3.0,200.0
+ST212,Information Technology,2022,Active,3,16.0,At Risk,22.8,5,0,1,1,5,1,0.0,1.0,30.0
+ST213,Civil,2024,Inactive,8,50.75,Moderate,54.833333333333336,6,2,10,2,40,3,3.0,2.0,95.0
+ST214,Computer Science,2024,Active,12,57.333333333333336,Moderate,58.333333333333336,3,1,1,7,23,3,1.0,1.0,16.0
+ST215,Information Technology,2023,Active,4,18.75,At Risk,22.666666666666668,6,0,1,4,2,1,0.0,2.0,56.0
+ST216,Information Technology,2023,Inactive,3,19.0,At Risk,40.5,2,0,0,1,3,2,1.0,2.0,150.0
+ST217,Computer Science,2024,Active,1,28.0,At Risk,17.0,4,0,0,2,6,2,0.0,3.0,184.0
+ST218,Civil,2022,Inactive,31,125.06451612903226,Highly Active,88.8,5,4,7,24,46,5,4.0,2.0,105.0
+ST219,Computer Science,2023,Inactive,19,57.89473684210526,Moderate,78.0,3,1,1,13,40,5,3.0,3.0,198.0
+ST220,Computer Science,2022,Inactive,9,63.0,Moderate,61.0,5,0,8,19,32,3,2.0,2.0,114.0
+ST221,Information Technology,2024,Inactive,10,56.3,Moderate,56.666666666666664,3,0,8,19,30,3,1.0,1.0,58.0
+ST222,Civil,2022,Active,19,53.526315789473685,Moderate,70.0,4,2,5,16,19,2,2.0,2.0,104.0
+ST223,Electronics,2024,Active,38,124.13157894736842,Highly Active,85.5,6,4,11,18,65,5,3.0,0.0,0.0
+ST224,Civil,2022,Inactive,24,119.375,Highly Active,88.5,6,6,14,20,80,4,4.0,1.0,35.0
+ST225,Civil,2024,Inactive,16,51.375,Moderate,59.666666666666664,3,0,6,13,33,4,2.0,2.0,106.0
+ST226,Computer Science,2024,Active,5,16.2,At Risk,23.0,4,0,2,3,8,1,0.0,1.0,20.0
+ST227,Electronics,2022,Inactive,38,121.1842105263158,Highly Active,88.0,2,2,12,40,58,5,5.0,2.0,154.0
+ST228,Computer Science,2022,Inactive,13,53.53846153846154,Moderate,46.0,5,1,10,13,5,1,1.0,1.0,28.0
+ST229,Civil,2024,Active,8,52.375,Moderate,63.0,2,0,4,1,23,4,2.0,2.0,133.0
+ST230,Civil,2022,Active,9,54.0,Moderate,70.2,5,2,9,7,32,4,3.0,2.0,108.0
+ST231,Mechanical,2022,Inactive,14,57.57142857142857,Moderate,74.5,2,1,10,9,32,3,1.0,2.0,113.0
+ST232,Mechanical,2023,Active,13,65.38461538461539,Moderate,62.333333333333336,3,1,2,18,16,4,3.0,3.0,183.0
+ST233,Information Technology,2022,Inactive,3,14.666666666666666,At Risk,25.666666666666668,3,0,2,4,0,1,0.0,2.0,66.0
+ST234,Electronics,2022,Active,11,56.63636363636363,Moderate,58.0,5,0,7,9,34,1,3.0,1.0,87.0
+ST235,Electronics,2024,Inactive,17,59.35294117647059,Moderate,59.0,3,1,10,20,34,3,3.0,0.0,0.0
+ST236,Information Technology,2022,Inactive,16,60.0625,Moderate,57.666666666666664,6,0,1,10,36,5,2.0,3.0,190.0
+ST237,Computer Science,2023,Inactive,13,53.69230769230769,Moderate,55.166666666666664,6,0,5,18,21,2,3.0,1.0,19.0
+ST238,Computer Science,2023,Active,3,17.666666666666668,At Risk,17.333333333333332,3,0,2,2,1,0,0.0,1.0,76.0
+ST239,Information Technology,2024,Active,2,18.0,At Risk,16.2,5,0,0,3,1,0,0.0,0.0,0.0
+ST240,Electronics,2024,Inactive,20,54.75,Moderate,65.2,5,0,10,7,28,5,2.0,0.0,0.0
+ST241,Computer Science,2023,Inactive,19,53.31578947368421,Moderate,54.0,5,1,10,6,26,1,3.0,0.0,0.0
+ST242,Mechanical,2022,Inactive,17,52.23529411764706,Moderate,47.5,6,1,2,7,13,2,1.0,0.0,0.0
+ST243,Electronics,2023,Inactive,9,54.55555555555556,Moderate,58.5,2,1,6,3,13,2,1.0,1.0,15.0
+ST244,Civil,2022,Active,39,123.6923076923077,Highly Active,81.5,4,4,14,26,32,3,4.0,1.0,38.0
+ST245,Computer Science,2022,Inactive,1,13.0,At Risk,26.833333333333332,6,0,2,2,6,2,1.0,0.0,0.0
+ST246,Computer Science,2022,Inactive,18,64.77777777777777,Moderate,64.5,6,1,6,13,20,1,1.0,3.0,157.0
+ST247,Civil,2024,Inactive,4,18.0,At Risk,23.4,5,0,1,0,6,1,1.0,1.0,57.0
+ST248,Civil,2022,Inactive,11,63.54545454545455,Moderate,67.33333333333333,3,1,5,3,22,3,2.0,3.0,201.0
+ST249,Information Technology,2022,Inactive,28,124.07142857142857,Highly Active,84.0,5,2,20,13,34,4,3.0,2.0,75.0
+ST250,Mechanical,2023,Active,6,19.0,At Risk,28.333333333333332,3,0,1,5,0,3,0.0,2.0,112.0
+ST251,Electronics,2023,Active,16,55.1875,Moderate,66.66666666666667,3,0,7,1,25,2,3.0,3.0,159.0
+ST252,Mechanical,2023,Active,15,59.2,Moderate,67.66666666666667,3,1,2,19,34,2,1.0,2.0,115.0
+ST253,Information Technology,2024,Active,12,63.25,Moderate,51.6,5,0,4,14,31,3,2.0,3.0,133.0
+ST254,Civil,2024,Active,21,113.42857142857143,Highly Active,81.6,5,3,15,20,60,4,4.0,2.0,133.0
+ST255,Mechanical,2024,Inactive,6,15.5,At Risk,28.166666666666668,6,0,2,0,7,0,1.0,2.0,134.0
+ST256,Information Technology,2022,Inactive,32,119.5625,Highly Active,79.33333333333333,3,1,17,26,63,5,4.0,1.0,69.0
+ST257,Information Technology,2024,Active,10,49.3,Moderate,65.0,4,1,2,6,26,3,2.0,0.0,0.0
+ST258,Mechanical,2022,Inactive,19,54.1578947368421,Moderate,60.4,5,1,2,20,26,4,2.0,2.0,102.0
+ST259,Mechanical,2023,Active,28,114.17857142857143,Highly Active,80.33333333333333,3,1,12,20,31,4,3.0,1.0,33.0
+ST260,Civil,2022,Inactive,20,51.55,Moderate,65.5,4,1,8,5,35,2,2.0,3.0,162.0
+ST261,Electronics,2022,Active,13,63.69230769230769,Moderate,64.5,2,0,2,9,14,3,1.0,0.0,0.0
+ST262,Information Technology,2024,Active,16,47.25,Moderate,58.5,2,0,2,17,22,2,3.0,2.0,85.0
+ST263,Electronics,2023,Inactive,24,117.79166666666667,Highly Active,81.0,3,1,10,39,41,3,4.0,2.0,110.0
+ST264,Computer Science,2022,Inactive,15,50.266666666666666,Moderate,57.833333333333336,6,0,2,7,7,4,1.0,1.0,70.0
+ST265,Electronics,2022,Inactive,12,57.5,Moderate,67.5,2,0,5,18,23,4,1.0,2.0,153.0
+ST266,Information Technology,2023,Inactive,12,51.666666666666664,Moderate,51.75,4,0,1,9,18,3,3.0,2.0,130.0
+ST267,Civil,2023,Active,13,57.76923076923077,Moderate,46.5,2,0,4,7,28,3,2.0,0.0,0.0
+ST268,Civil,2024,Active,19,52.526315789473685,Moderate,61.0,2,1,6,13,23,3,3.0,2.0,117.0
+ST269,Information Technology,2022,Active,1,20.0,At Risk,28.333333333333332,3,0,1,4,6,1,0.0,3.0,158.0
+ST270,Civil,2024,Active,14,61.785714285714285,Moderate,51.5,2,0,9,12,23,2,1.0,0.0,0.0
+ST271,Information Technology,2022,Active,26,117.61538461538461,Highly Active,89.0,2,2,7,39,74,5,5.0,3.0,141.0
+ST272,Electronics,2023,Active,15,55.86666666666667,Moderate,53.666666666666664,6,0,1,16,20,5,2.0,1.0,85.0
+ST273,Mechanical,2023,Active,9,61.888888888888886,Moderate,52.666666666666664,3,0,1,14,24,2,1.0,2.0,63.0
+ST274,Electronics,2024,Inactive,12,54.916666666666664,Moderate,56.0,2,0,10,6,11,3,2.0,1.0,44.0
+ST275,Electronics,2022,Active,11,59.45454545454545,Moderate,52.5,2,0,4,8,14,2,2.0,1.0,81.0
+ST276,Civil,2024,Active,18,54.5,Moderate,63.6,5,0,7,19,17,2,1.0,0.0,0.0
+ST277,Civil,2024,Inactive,13,58.76923076923077,Moderate,64.0,2,0,1,4,9,2,2.0,1.0,58.0
+ST278,Mechanical,2023,Active,17,58.588235294117645,Moderate,49.25,4,1,7,12,18,4,3.0,3.0,250.0
+ST279,Information Technology,2022,Inactive,23,120.0,Highly Active,89.4,5,3,7,22,43,5,5.0,0.0,0.0
+ST280,Computer Science,2023,Active,2,15.5,At Risk,31.5,4,0,1,2,7,2,0.0,2.0,129.0
+ST281,Electronics,2024,Inactive,2,21.0,At Risk,28.8,5,0,2,4,9,0,1.0,2.0,132.0
+ST282,Electronics,2022,Active,16,46.5,Moderate,58.166666666666664,6,0,2,16,36,1,3.0,0.0,0.0
+ST283,Mechanical,2022,Inactive,10,63.9,Moderate,59.0,4,0,7,2,31,5,2.0,3.0,187.0
+ST284,Mechanical,2023,Inactive,9,52.666666666666664,Moderate,54.333333333333336,3,0,8,5,16,3,2.0,0.0,0.0
+ST285,Information Technology,2023,Active,39,125.25641025641026,Highly Active,86.66666666666667,3,2,11,17,29,4,3.0,1.0,45.0
+ST286,Information Technology,2024,Inactive,8,58.125,Moderate,53.5,2,0,10,20,24,3,1.0,2.0,65.0
+ST287,Computer Science,2023,Active,5,21.0,At Risk,24.333333333333332,6,0,2,5,7,0,0.0,0.0,0.0
+ST288,Information Technology,2022,Active,4,16.5,At Risk,27.5,6,0,0,5,7,0,1.0,2.0,127.0
+ST289,Mechanical,2024,Active,24,122.79166666666667,Highly Active,87.33333333333333,6,5,17,20,23,4,3.0,1.0,21.0
+ST290,Civil,2022,Inactive,5,19.6,At Risk,29.4,5,0,0,5,1,1,0.0,2.0,153.0
+ST291,Computer Science,2024,Inactive,15,52.2,Moderate,62.5,2,0,8,15,10,3,3.0,3.0,167.0
+ST292,Information Technology,2022,Inactive,16,51.9375,Moderate,59.0,3,0,5,12,10,2,2.0,2.0,94.0
+ST293,Electronics,2023,Inactive,8,63.5,Moderate,60.666666666666664,6,0,6,3,5,1,1.0,3.0,194.0
+ST294,Information Technology,2023,Active,20,114.6,Highly Active,88.66666666666667,3,2,20,39,20,3,5.0,1.0,82.0
+ST295,Electronics,2023,Inactive,11,51.27272727272727,Moderate,47.5,2,0,2,7,25,4,1.0,1.0,69.0
+ST296,Mechanical,2024,Active,1,27.0,At Risk,31.4,5,0,1,4,10,1,1.0,1.0,46.0
+ST297,Computer Science,2023,Inactive,2,25.5,At Risk,12.5,4,0,2,4,1,0,0.0,2.0,88.0
+ST298,Mechanical,2022,Active,28,111.32142857142857,Highly Active,91.0,2,2,10,25,22,5,4.0,2.0,94.0
+ST299,Civil,2022,Inactive,3,13.666666666666666,At Risk,20.666666666666668,3,0,2,0,9,2,0.0,3.0,214.0
+ST300,Electronics,2024,Active,8,47.75,Moderate,51.6,5,0,10,5,23,3,2.0,0.0,0.0
+ST301,Electronics,2022,Inactive,1,30.0,At Risk,31.5,2,0,1,5,6,1,0.0,2.0,153.0
+ST302,Mechanical,2024,Inactive,4,17.25,At Risk,12.2,5,0,0,1,3,0,0.0,0.0,0.0
+ST303,Electronics,2022,Inactive,12,56.083333333333336,Moderate,51.5,4,1,10,5,21,5,3.0,2.0,119.0
+ST304,Information Technology,2023,Inactive,18,49.05555555555556,Moderate,59.0,3,0,6,13,31,3,3.0,3.0,244.0
+ST305,Electronics,2024,Active,13,45.61538461538461,Moderate,63.5,2,0,5,20,40,1,3.0,3.0,201.0
+ST306,Mechanical,2024,Active,35,123.88571428571429,Highly Active,93.33333333333333,3,3,12,19,38,4,4.0,2.0,118.0
+ST307,Information Technology,2023,Inactive,23,111.17391304347827,Highly Active,87.33333333333333,3,3,20,39,38,5,3.0,1.0,49.0
+ST308,Electronics,2022,Active,16,51.9375,Moderate,57.333333333333336,6,2,3,12,32,1,2.0,2.0,67.0
+ST309,Civil,2022,Inactive,12,47.416666666666664,Moderate,49.8,5,1,2,9,39,1,2.0,0.0,0.0
+ST310,Civil,2024,Active,25,115.76,Highly Active,82.25,4,2,9,13,31,4,3.0,2.0,113.0
+ST311,Electronics,2024,Active,4,18.0,At Risk,12.6,5,0,1,4,3,0,1.0,1.0,44.0
+ST312,Computer Science,2022,Inactive,7,16.428571428571427,At Risk,26.6,5,0,1,2,10,2,1.0,0.0,0.0
+ST313,Information Technology,2023,Active,34,119.29411764705883,Highly Active,84.33333333333333,6,4,12,38,21,5,4.0,0.0,0.0
+ST314,Civil,2024,Active,29,122.41379310344827,Highly Active,84.0,3,2,13,37,73,4,3.0,0.0,0.0
+ST315,Information Technology,2024,Inactive,5,14.2,At Risk,20.0,2,0,2,5,6,2,1.0,1.0,26.0
+ST316,Electronics,2024,Active,5,20.6,At Risk,6.0,2,0,0,4,8,1,1.0,1.0,77.0
+ST317,Computer Science,2022,Inactive,15,54.666666666666664,Moderate,43.333333333333336,3,0,8,13,27,5,2.0,3.0,175.0
+ST318,Civil,2023,Inactive,38,129.55263157894737,Highly Active,89.4,5,4,7,18,66,5,4.0,0.0,0.0
+ST319,Information Technology,2022,Active,4,19.5,At Risk,33.666666666666664,6,0,0,4,3,2,0.0,1.0,42.0
+ST320,Computer Science,2024,Inactive,3,18.0,At Risk,22.75,4,0,2,1,5,1,1.0,1.0,77.0
+ST321,Computer Science,2022,Inactive,10,48.7,Moderate,76.25,4,2,6,18,28,2,1.0,0.0,0.0
+ST322,Civil,2023,Active,9,65.88888888888889,Moderate,77.0,2,0,3,19,10,3,1.0,3.0,135.0
+ST323,Mechanical,2023,Active,12,43.666666666666664,Moderate,62.0,4,0,5,17,28,2,3.0,2.0,70.0
+ST324,Computer Science,2022,Active,6,15.666666666666666,At Risk,18.6,5,0,1,0,4,2,0.0,3.0,106.0
+ST325,Computer Science,2023,Inactive,20,48.35,Moderate,62.6,5,0,7,4,9,3,2.0,0.0,0.0
+ST326,Civil,2022,Active,12,54.666666666666664,Moderate,64.0,5,0,5,6,40,4,1.0,3.0,202.0
+ST327,Computer Science,2022,Active,5,23.6,At Risk,36.5,4,0,2,2,2,1,0.0,0.0,0.0
+ST328,Electronics,2022,Inactive,34,115.82352941176471,Highly Active,84.66666666666667,3,2,9,36,54,5,3.0,0.0,0.0
+ST329,Electronics,2022,Inactive,3,20.0,At Risk,28.5,2,0,0,0,0,1,1.0,1.0,80.0
+ST330,Information Technology,2023,Active,14,57.357142857142854,Moderate,53.0,4,0,3,17,8,1,3.0,1.0,72.0
+ST331,Mechanical,2022,Active,2,20.5,At Risk,28.0,2,0,1,3,3,0,1.0,0.0,0.0
+ST332,Information Technology,2023,Active,3,22.333333333333332,At Risk,30.8,5,0,1,0,5,2,1.0,0.0,0.0
+ST333,Mechanical,2024,Active,40,107.575,Highly Active,86.5,4,3,16,29,45,4,4.0,2.0,127.0
+ST334,Computer Science,2024,Active,9,54.0,Moderate,55.5,2,0,4,17,22,3,3.0,1.0,18.0
+ST335,Electronics,2022,Inactive,18,57.611111111111114,Moderate,72.66666666666667,3,1,1,13,26,2,1.0,0.0,0.0
+ST336,Electronics,2024,Active,5,22.4,At Risk,22.75,4,0,1,3,10,0,1.0,1.0,49.0
+ST337,Civil,2023,Active,19,51.36842105263158,Moderate,53.333333333333336,3,0,7,14,10,4,1.0,0.0,0.0
+ST338,Information Technology,2022,Active,11,42.72727272727273,Moderate,65.5,2,1,6,10,28,5,2.0,2.0,144.0
+ST339,Computer Science,2023,Inactive,26,115.88461538461539,Highly Active,86.66666666666667,3,3,13,31,56,4,5.0,3.0,133.0
+ST340,Electronics,2024,Inactive,12,53.5,Moderate,57.666666666666664,6,0,5,2,8,3,1.0,1.0,20.0
+ST341,Civil,2022,Inactive,20,56.55,Moderate,50.833333333333336,6,0,9,9,23,2,2.0,2.0,95.0
+ST342,Information Technology,2023,Inactive,6,19.333333333333332,At Risk,24.666666666666668,3,0,0,0,0,1,1.0,0.0,0.0
+ST343,Mechanical,2024,Inactive,30,126.66666666666667,Highly Active,85.16666666666667,6,4,5,24,56,5,4.0,3.0,147.0
+ST344,Computer Science,2024,Inactive,20,57.4,Moderate,64.25,4,1,4,13,19,3,2.0,3.0,114.0
+ST345,Computer Science,2022,Active,4,21.0,At Risk,37.0,5,0,2,5,8,2,0.0,1.0,59.0
+ST346,Electronics,2024,Inactive,11,68.9090909090909,Moderate,63.666666666666664,3,0,2,6,32,2,3.0,3.0,131.0
+ST347,Electronics,2022,Inactive,8,53.25,Moderate,46.666666666666664,3,0,7,3,23,3,1.0,3.0,83.0
+ST348,Civil,2022,Active,8,54.625,Moderate,70.66666666666667,3,1,4,3,20,3,2.0,3.0,117.0
+ST349,Computer Science,2024,Active,8,56.875,Moderate,58.666666666666664,3,0,9,17,7,3,3.0,2.0,74.0
+ST350,Information Technology,2023,Active,20,51.2,Moderate,61.8,5,0,10,9,18,3,1.0,0.0,0.0
+ST351,Computer Science,2024,Inactive,26,121.1923076923077,Highly Active,84.2,5,3,5,34,47,5,4.0,0.0,0.0
+ST352,Electronics,2023,Inactive,26,125.1923076923077,Highly Active,88.0,2,2,17,21,29,4,4.0,0.0,0.0
+ST353,Computer Science,2024,Active,11,55.63636363636363,Moderate,53.0,6,0,10,3,9,4,1.0,1.0,35.0
+ST354,Mechanical,2022,Inactive,14,56.642857142857146,Moderate,56.4,5,2,5,9,24,0,1.0,3.0,102.0
+ST355,Electronics,2024,Active,38,118.5,Highly Active,83.75,4,2,16,18,21,3,3.0,0.0,0.0
+ST356,Information Technology,2024,Inactive,7,20.571428571428573,At Risk,24.6,5,0,0,0,1,2,1.0,2.0,82.0
+ST357,Mechanical,2023,Active,40,119.425,Highly Active,86.25,4,3,5,11,48,3,3.0,0.0,0.0
+ST358,Mechanical,2022,Active,8,44.25,Moderate,56.0,5,0,9,12,31,4,3.0,3.0,194.0
+ST359,Computer Science,2023,Active,9,39.77777777777778,Moderate,59.666666666666664,3,0,8,17,13,3,3.0,1.0,28.0
+ST360,Mechanical,2024,Inactive,3,20.0,At Risk,26.166666666666668,6,0,0,0,0,2,0.0,2.0,136.0
+ST361,Information Technology,2024,Inactive,3,22.0,At Risk,19.4,5,0,2,2,0,2,0.0,1.0,54.0
+ST362,Mechanical,2023,Inactive,15,52.2,Moderate,55.666666666666664,3,0,6,19,23,5,2.0,2.0,122.0
+ST363,Mechanical,2024,Inactive,12,55.25,Moderate,41.0,3,0,9,10,9,2,3.0,0.0,0.0
+ST364,Civil,2024,Active,30,121.56666666666666,Highly Active,84.0,2,1,15,14,30,5,5.0,2.0,111.0
+ST365,Information Technology,2024,Inactive,18,47.5,Moderate,55.833333333333336,6,2,5,15,37,4,3.0,3.0,199.0
+ST366,Information Technology,2023,Inactive,9,50.77777777777778,Moderate,49.166666666666664,6,1,8,13,20,2,1.0,0.0,0.0
+ST367,Computer Science,2022,Inactive,16,64.125,Moderate,56.5,4,0,1,8,27,0,2.0,0.0,0.0
+ST368,Information Technology,2022,Active,33,124.03030303030303,Highly Active,84.5,6,5,16,34,57,5,4.0,2.0,108.0
+ST369,Computer Science,2024,Active,5,13.2,At Risk,24.8,5,0,2,5,6,1,1.0,1.0,78.0
+ST370,Mechanical,2023,Inactive,6,13.833333333333334,At Risk,45.0,2,0,1,1,3,0,1.0,3.0,162.0
+ST371,Information Technology,2024,Inactive,1,8.0,At Risk,12.0,3,0,2,0,3,1,1.0,0.0,0.0
+ST372,Electronics,2024,Inactive,20,52.85,Moderate,59.0,4,0,1,9,29,1,2.0,0.0,0.0
+ST373,Mechanical,2022,Active,5,19.8,At Risk,18.666666666666668,3,0,1,0,10,2,1.0,1.0,66.0
+ST374,Mechanical,2023,Active,8,65.875,Moderate,69.0,5,2,3,14,38,3,1.0,3.0,95.0
+ST375,Electronics,2024,Inactive,12,55.5,Moderate,50.0,4,0,9,1,23,3,3.0,2.0,76.0
+ST376,Information Technology,2022,Active,18,45.5,Moderate,47.0,5,0,6,3,11,1,2.0,0.0,0.0
+ST377,Mechanical,2022,Active,40,111.975,Highly Active,85.33333333333333,6,4,7,39,47,4,4.0,1.0,16.0
+ST378,Electronics,2023,Inactive,7,18.142857142857142,At Risk,30.333333333333332,6,0,0,3,10,2,0.0,3.0,148.0
+ST379,Information Technology,2024,Active,5,19.6,At Risk,15.0,2,0,1,0,7,2,1.0,1.0,45.0
+ST380,Computer Science,2023,Active,9,59.888888888888886,Moderate,63.25,4,1,10,16,27,3,1.0,2.0,111.0
+ST381,Computer Science,2024,Active,36,113.66666666666667,Highly Active,82.0,2,1,7,21,25,5,3.0,1.0,76.0
+ST382,Computer Science,2022,Inactive,4,15.0,At Risk,26.0,4,0,0,5,6,1,1.0,2.0,157.0
+ST383,Civil,2022,Inactive,1,28.0,At Risk,11.666666666666666,3,0,2,5,3,1,1.0,2.0,146.0
+ST384,Civil,2023,Inactive,11,57.18181818181818,Moderate,68.8,5,1,9,14,14,3,1.0,3.0,121.0
+ST385,Computer Science,2022,Active,31,117.35483870967742,Highly Active,87.33333333333333,3,2,7,27,75,3,5.0,3.0,203.0
+ST386,Computer Science,2022,Active,14,59.714285714285715,Moderate,61.666666666666664,6,0,8,19,34,1,2.0,0.0,0.0
+ST387,Information Technology,2024,Inactive,2,17.0,At Risk,27.166666666666668,6,0,2,0,0,0,0.0,0.0,0.0
+ST388,Civil,2024,Inactive,1,22.0,At Risk,24.0,5,0,2,5,0,1,0.0,3.0,145.0
+ST389,Electronics,2024,Active,15,58.06666666666667,Moderate,60.0,3,0,9,14,21,4,3.0,3.0,201.0
+ST390,Civil,2023,Inactive,16,48.8125,Moderate,62.75,4,0,8,13,39,1,1.0,1.0,45.0
+ST391,Information Technology,2023,Inactive,20,44.7,Moderate,49.0,5,0,1,5,39,3,3.0,0.0,0.0
+ST392,Mechanical,2023,Inactive,1,9.0,At Risk,29.833333333333332,6,0,1,5,8,1,1.0,3.0,149.0
+ST393,Civil,2022,Inactive,30,117.53333333333333,Highly Active,87.5,2,1,15,39,26,4,5.0,1.0,32.0
+ST394,Mechanical,2023,Active,28,129.25,Highly Active,84.8,5,4,9,39,35,4,4.0,1.0,71.0
+ST395,Computer Science,2022,Inactive,11,51.45454545454545,Moderate,53.5,6,0,1,15,38,3,3.0,0.0,0.0
+ST396,Civil,2023,Inactive,15,54.86666666666667,Moderate,52.166666666666664,6,0,10,3,40,3,3.0,3.0,88.0
+ST397,Information Technology,2022,Inactive,9,59.22222222222222,Moderate,63.2,5,0,9,3,20,2,3.0,1.0,26.0
+ST398,Computer Science,2022,Active,27,119.74074074074075,Highly Active,82.0,2,1,18,39,29,4,4.0,0.0,0.0
+ST399,Computer Science,2023,Active,14,60.785714285714285,Moderate,56.0,4,0,3,16,33,3,2.0,0.0,0.0
+ST400,Information Technology,2024,Inactive,6,19.333333333333332,At Risk,28.0,3,0,2,0,2,1,0.0,2.0,152.0
+ST401,Mechanical,2023,Active,6,19.333333333333332,At Risk,35.8,5,0,2,3,10,0,0.0,0.0,0.0
+ST402,Mechanical,2024,Inactive,31,132.90322580645162,Highly Active,84.0,4,3,14,14,67,4,4.0,1.0,68.0
+ST403,Electronics,2024,Inactive,11,51.54545454545455,Moderate,57.333333333333336,3,0,6,14,13,2,1.0,0.0,0.0
+ST404,Information Technology,2022,Inactive,19,51.0,Moderate,54.5,2,0,6,2,31,3,1.0,0.0,0.0
+ST405,Computer Science,2023,Active,23,114.21739130434783,Highly Active,82.0,2,1,16,14,20,4,3.0,0.0,0.0
+ST406,Computer Science,2022,Active,10,52.7,Moderate,49.666666666666664,3,0,3,10,7,1,2.0,1.0,90.0
+ST407,Information Technology,2022,Active,17,53.64705882352941,Moderate,56.0,5,0,2,13,7,2,1.0,1.0,60.0
+ST408,Mechanical,2024,Inactive,17,59.05882352941177,Moderate,64.33333333333333,3,0,3,13,28,3,3.0,3.0,135.0
+ST409,Electronics,2022,Active,31,126.19354838709677,Highly Active,75.0,3,1,13,37,40,5,5.0,3.0,117.0
+ST410,Information Technology,2022,Active,2,15.0,At Risk,27.666666666666668,3,0,0,1,9,0,0.0,0.0,0.0
+ST411,Civil,2022,Active,5,19.8,At Risk,7.0,2,0,1,1,8,1,0.0,2.0,148.0
+ST412,Civil,2023,Active,20,49.3,Moderate,59.166666666666664,6,0,1,10,9,5,1.0,2.0,137.0
+ST413,Electronics,2023,Inactive,7,18.285714285714285,At Risk,31.5,4,0,1,3,5,0,1.0,0.0,0.0
+ST414,Electronics,2023,Active,32,105.53125,Highly Active,82.5,4,2,20,14,73,5,5.0,1.0,59.0
+ST415,Mechanical,2022,Inactive,8,63.875,Moderate,58.8,5,2,3,3,7,3,2.0,2.0,145.0
+ST416,Electronics,2022,Inactive,24,128.41666666666666,Highly Active,84.6,5,4,20,11,38,4,4.0,2.0,81.0
+ST417,Electronics,2023,Active,9,59.77777777777778,Moderate,46.0,6,0,1,19,22,4,2.0,1.0,71.0
+ST418,Civil,2022,Inactive,27,132.22222222222223,Highly Active,83.66666666666667,6,4,11,24,40,3,5.0,3.0,103.0
+ST419,Computer Science,2024,Inactive,11,59.0,Moderate,57.5,6,0,7,15,31,3,3.0,1.0,29.0
+ST420,Mechanical,2022,Active,32,115.15625,Highly Active,81.0,4,2,8,15,34,5,4.0,1.0,46.0
+ST421,Information Technology,2022,Inactive,29,123.86206896551724,Highly Active,86.0,6,4,15,19,80,4,4.0,2.0,163.0
+ST422,Computer Science,2023,Active,19,59.68421052631579,Moderate,64.0,2,0,7,1,39,3,2.0,3.0,115.0
+ST423,Civil,2022,Active,6,23.833333333333332,At Risk,19.0,4,0,0,2,9,1,0.0,3.0,176.0
+ST424,Information Technology,2024,Active,8,57.375,Moderate,67.33333333333333,3,1,4,9,14,3,2.0,0.0,0.0
+ST425,Civil,2023,Inactive,2,25.0,At Risk,43.5,4,0,2,4,3,3,1.0,2.0,125.0
+ST426,Civil,2023,Active,8,53.75,Moderate,55.6,5,0,3,19,20,3,2.0,0.0,0.0
+ST427,Mechanical,2023,Inactive,2,28.5,At Risk,39.0,3,0,1,0,3,1,1.0,1.0,78.0
+ST428,Electronics,2024,Active,24,124.375,Highly Active,80.5,6,3,19,20,60,5,3.0,3.0,110.0
+ST429,Information Technology,2022,Inactive,19,51.63157894736842,Moderate,41.5,2,0,7,10,15,4,3.0,3.0,141.0
+ST430,Civil,2024,Inactive,22,111.27272727272727,Highly Active,77.0,6,2,5,17,40,5,3.0,3.0,141.0
+ST431,Information Technology,2023,Inactive,22,125.95454545454545,Highly Active,81.5,2,1,12,35,52,5,3.0,1.0,89.0
+ST432,Mechanical,2023,Inactive,16,51.0,Moderate,63.25,4,1,9,14,40,2,1.0,1.0,86.0
+ST433,Information Technology,2022,Inactive,23,121.30434782608695,Highly Active,83.0,4,3,7,11,57,3,5.0,1.0,49.0
+ST434,Electronics,2022,Inactive,37,122.62162162162163,Highly Active,85.4,5,4,9,25,68,4,5.0,0.0,0.0
+ST435,Information Technology,2023,Active,2,12.0,At Risk,26.666666666666668,6,0,0,3,3,3,0.0,2.0,75.0
+ST436,Mechanical,2023,Active,16,66.5625,Moderate,59.0,2,0,3,3,5,2,1.0,0.0,0.0
+ST437,Electronics,2024,Inactive,5,15.4,At Risk,21.6,5,0,1,1,10,1,0.0,1.0,18.0
+ST438,Computer Science,2023,Active,22,128.13636363636363,Highly Active,87.75,4,3,11,12,62,5,5.0,0.0,0.0
+ST439,Civil,2024,Inactive,3,18.333333333333332,At Risk,23.5,2,0,1,4,5,0,1.0,2.0,113.0
+ST440,Civil,2022,Inactive,6,18.833333333333332,At Risk,26.0,4,0,2,5,9,2,1.0,3.0,205.0
+ST441,Civil,2022,Inactive,30,116.06666666666666,Highly Active,89.0,2,2,8,28,32,4,5.0,3.0,165.0
+ST442,Civil,2024,Inactive,26,113.0,Highly Active,85.4,5,4,20,12,24,4,5.0,1.0,20.0
+ST443,Civil,2022,Inactive,10,48.1,Moderate,50.5,2,0,10,6,7,3,3.0,2.0,110.0
+ST444,Electronics,2024,Inactive,38,117.97368421052632,Highly Active,85.83333333333333,6,3,19,15,59,3,4.0,0.0,0.0
+ST445,Information Technology,2023,Active,10,56.9,Moderate,83.0,2,2,8,8,11,2,1.0,0.0,0.0
+ST446,Electronics,2022,Active,20,57.95,Moderate,79.0,4,1,4,9,9,2,1.0,0.0,0.0
+ST447,Electronics,2022,Inactive,24,109.16666666666667,Highly Active,91.0,2,2,6,16,45,5,4.0,0.0,0.0
+ST448,Computer Science,2023,Inactive,13,46.07692307692308,Moderate,54.25,4,0,4,8,5,3,1.0,2.0,107.0
+ST449,Mechanical,2022,Active,11,60.36363636363637,Moderate,64.33333333333333,6,0,3,20,15,3,2.0,2.0,175.0
+ST450,Information Technology,2022,Active,12,64.91666666666667,Moderate,64.25,4,0,1,14,23,4,3.0,0.0,0.0
+ST451,Information Technology,2024,Inactive,8,54.25,Moderate,56.666666666666664,3,1,1,2,24,4,1.0,2.0,105.0
+ST452,Computer Science,2024,Inactive,7,18.857142857142858,At Risk,27.5,2,0,1,3,1,1,0.0,0.0,0.0
+ST453,Computer Science,2024,Inactive,14,52.285714285714285,Moderate,48.5,4,0,9,17,35,3,2.0,2.0,158.0
+ST454,Information Technology,2024,Active,10,63.5,Moderate,50.25,4,0,1,1,25,0,1.0,1.0,41.0
+ST455,Electronics,2024,Active,10,58.8,Moderate,57.5,4,0,4,4,38,2,1.0,1.0,18.0
+ST456,Civil,2023,Inactive,15,50.266666666666666,Moderate,38.5,2,0,6,12,16,4,3.0,0.0,0.0
+ST457,Mechanical,2023,Inactive,6,19.5,At Risk,34.25,4,0,1,1,10,0,0.0,1.0,39.0
+ST458,Electronics,2024,Inactive,5,18.2,At Risk,20.333333333333332,3,0,2,0,7,0,1.0,2.0,94.0
+ST459,Computer Science,2024,Active,9,56.666666666666664,Moderate,64.0,6,0,4,15,8,4,1.0,2.0,131.0
+ST460,Information Technology,2022,Inactive,7,18.0,At Risk,21.333333333333332,3,0,0,2,9,0,1.0,1.0,46.0
+ST461,Electronics,2023,Active,13,54.69230769230769,Moderate,51.2,5,0,8,18,8,3,1.0,0.0,0.0
+ST462,Mechanical,2022,Active,10,51.9,Moderate,51.4,5,0,2,11,6,2,1.0,3.0,180.0
+ST463,Computer Science,2024,Active,6,15.333333333333334,At Risk,10.0,2,0,1,0,0,2,0.0,3.0,158.0
+ST464,Computer Science,2024,Inactive,33,125.9090909090909,Highly Active,89.0,5,4,10,18,23,5,5.0,2.0,74.0
+ST465,Electronics,2022,Active,14,50.07142857142857,Moderate,63.5,6,0,7,14,17,4,3.0,2.0,121.0
+ST466,Computer Science,2024,Inactive,34,124.8529411764706,Highly Active,81.33333333333333,3,1,11,29,77,5,5.0,0.0,0.0
+ST467,Civil,2023,Inactive,6,17.833333333333332,At Risk,26.666666666666668,6,0,1,1,8,1,0.0,0.0,0.0
+ST468,Information Technology,2022,Active,29,129.75862068965517,Highly Active,82.66666666666667,3,2,18,26,73,3,5.0,2.0,87.0
+ST469,Information Technology,2023,Inactive,28,112.75,Highly Active,91.0,4,3,12,37,27,4,3.0,1.0,78.0
+ST470,Information Technology,2023,Active,17,47.76470588235294,Moderate,45.666666666666664,3,0,8,20,11,2,3.0,0.0,0.0
+ST471,Computer Science,2022,Inactive,2,27.0,At Risk,32.25,4,0,0,4,6,0,1.0,2.0,67.0
+ST472,Civil,2023,Inactive,3,19.333333333333332,At Risk,24.0,2,0,1,1,2,1,0.0,2.0,77.0
+ST473,Computer Science,2023,Inactive,10,41.9,Moderate,43.4,5,0,5,9,15,2,1.0,2.0,81.0
+ST474,Electronics,2022,Active,31,106.29032258064517,Highly Active,91.66666666666667,3,3,7,34,33,4,5.0,0.0,0.0
+ST475,Computer Science,2023,Active,14,58.214285714285715,Moderate,52.333333333333336,3,0,7,5,7,1,2.0,1.0,25.0
+ST476,Computer Science,2024,Active,2,20.0,At Risk,24.4,5,0,1,4,1,1,1.0,3.0,201.0
+ST477,Mechanical,2022,Active,39,126.38461538461539,Highly Active,92.33333333333333,3,3,8,28,68,5,3.0,2.0,50.0
+ST478,Civil,2022,Inactive,15,64.26666666666667,Moderate,68.8,5,0,1,14,14,1,3.0,3.0,169.0
+ST479,Electronics,2022,Inactive,3,25.333333333333332,At Risk,28.5,2,0,0,2,3,1,0.0,2.0,159.0
+ST480,Computer Science,2024,Inactive,8,53.75,Moderate,54.5,2,0,3,17,25,3,2.0,1.0,37.0
+ST481,Civil,2023,Active,16,65.125,Moderate,47.5,2,0,3,18,33,2,2.0,2.0,76.0
+ST482,Information Technology,2024,Inactive,18,49.72222222222222,Moderate,51.5,4,1,9,2,36,3,1.0,2.0,58.0
+ST483,Information Technology,2024,Inactive,19,52.73684210526316,Moderate,54.4,5,1,9,10,26,3,1.0,1.0,41.0
+ST484,Mechanical,2023,Inactive,20,51.55,Moderate,68.33333333333333,3,1,10,12,7,1,2.0,1.0,46.0
+ST485,Mechanical,2024,Inactive,14,54.785714285714285,Moderate,59.0,6,0,6,7,36,2,3.0,1.0,67.0
+ST486,Mechanical,2022,Active,7,16.285714285714285,At Risk,23.4,5,0,2,5,10,2,1.0,3.0,170.0
+ST487,Electronics,2022,Active,1,9.0,At Risk,24.0,6,0,1,2,5,2,0.0,2.0,109.0
+ST488,Civil,2023,Inactive,3,17.0,At Risk,15.0,2,0,1,3,4,1,0.0,3.0,176.0
+ST489,Electronics,2024,Active,17,57.05882352941177,Moderate,48.4,5,0,5,12,11,4,1.0,0.0,0.0
+ST490,Mechanical,2023,Inactive,13,63.38461538461539,Moderate,37.0,2,0,8,14,5,1,3.0,2.0,110.0
+ST491,Civil,2023,Inactive,6,20.5,At Risk,28.25,4,0,0,5,3,1,0.0,0.0,0.0
+ST492,Civil,2023,Active,20,58.05,Moderate,67.25,4,1,3,19,40,3,2.0,2.0,156.0
+ST493,Civil,2023,Inactive,8,49.375,Moderate,35.0,2,0,5,3,23,2,3.0,3.0,128.0
+ST494,Mechanical,2024,Active,13,56.69230769230769,Moderate,60.166666666666664,6,1,7,13,30,1,3.0,2.0,56.0
+ST495,Computer Science,2023,Inactive,24,124.41666666666667,Highly Active,89.4,5,3,10,23,51,5,4.0,3.0,164.0
+ST496,Computer Science,2022,Inactive,38,131.76315789473685,Highly Active,84.83333333333333,6,5,20,19,79,5,3.0,0.0,0.0
+ST497,Mechanical,2022,Active,12,54.166666666666664,Moderate,66.25,4,1,6,6,20,3,3.0,2.0,142.0
+ST498,Civil,2023,Inactive,19,50.526315789473685,Moderate,48.8,5,0,2,2,8,1,1.0,2.0,143.0
+ST499,Computer Science,2024,Inactive,27,123.07407407407408,Highly Active,90.75,4,3,9,11,58,5,4.0,3.0,221.0
+ST500,Information Technology,2024,Inactive,24,111.83333333333333,Highly Active,88.16666666666667,6,5,16,23,45,5,5.0,1.0,86.0

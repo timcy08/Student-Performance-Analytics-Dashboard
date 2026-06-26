@@ -1,0 +1,2501 @@
+webinar_id,student_id,webinar_name,attendance_status
+W001,ST001,AI Workshop,Attended
+W001,ST002,AI Workshop,Absent
+W001,ST003,AI Workshop,Absent
+W001,ST004,AI Workshop,Attended
+W001,ST005,AI Workshop,Attended
+W001,ST006,AI Workshop,Attended
+W001,ST007,AI Workshop,Attended
+W001,ST008,AI Workshop,Absent
+W001,ST009,AI Workshop,Absent
+W001,ST010,AI Workshop,Absent
+W001,ST011,AI Workshop,Attended
+W001,ST012,AI Workshop,Absent
+W001,ST013,AI Workshop,Attended
+W001,ST014,AI Workshop,Attended
+W001,ST015,AI Workshop,Attended
+W001,ST016,AI Workshop,Attended
+W001,ST017,AI Workshop,Attended
+W001,ST018,AI Workshop,Absent
+W001,ST019,AI Workshop,Attended
+W001,ST020,AI Workshop,Attended
+W001,ST021,AI Workshop,Attended
+W001,ST022,AI Workshop,Attended
+W001,ST023,AI Workshop,Attended
+W001,ST024,AI Workshop,Absent
+W001,ST025,AI Workshop,Absent
+W001,ST026,AI Workshop,Absent
+W001,ST027,AI Workshop,Absent
+W001,ST028,AI Workshop,Absent
+W001,ST029,AI Workshop,Attended
+W001,ST030,AI Workshop,Absent
+W001,ST031,AI Workshop,Absent
+W001,ST032,AI Workshop,Attended
+W001,ST033,AI Workshop,Attended
+W001,ST034,AI Workshop,Attended
+W001,ST035,AI Workshop,Absent
+W001,ST036,AI Workshop,Absent
+W001,ST037,AI Workshop,Absent
+W001,ST038,AI Workshop,Absent
+W001,ST039,AI Workshop,Attended
+W001,ST040,AI Workshop,Attended
+W001,ST041,AI Workshop,Attended
+W001,ST042,AI Workshop,Attended
+W001,ST043,AI Workshop,Attended
+W001,ST044,AI Workshop,Absent
+W001,ST045,AI Workshop,Absent
+W001,ST046,AI Workshop,Absent
+W001,ST047,AI Workshop,Attended
+W001,ST048,AI Workshop,Absent
+W001,ST049,AI Workshop,Attended
+W001,ST050,AI Workshop,Attended
+W001,ST051,AI Workshop,Attended
+W001,ST052,AI Workshop,Absent
+W001,ST053,AI Workshop,Attended
+W001,ST054,AI Workshop,Attended
+W001,ST055,AI Workshop,Absent
+W001,ST056,AI Workshop,Absent
+W001,ST057,AI Workshop,Attended
+W001,ST058,AI Workshop,Attended
+W001,ST059,AI Workshop,Absent
+W001,ST060,AI Workshop,Attended
+W001,ST061,AI Workshop,Attended
+W001,ST062,AI Workshop,Attended
+W001,ST063,AI Workshop,Attended
+W001,ST064,AI Workshop,Attended
+W001,ST065,AI Workshop,Absent
+W001,ST066,AI Workshop,Absent
+W001,ST067,AI Workshop,Absent
+W001,ST068,AI Workshop,Attended
+W001,ST069,AI Workshop,Absent
+W001,ST070,AI Workshop,Attended
+W001,ST071,AI Workshop,Absent
+W001,ST072,AI Workshop,Attended
+W001,ST073,AI Workshop,Attended
+W001,ST074,AI Workshop,Absent
+W001,ST075,AI Workshop,Absent
+W001,ST076,AI Workshop,Absent
+W001,ST077,AI Workshop,Attended
+W001,ST078,AI Workshop,Attended
+W001,ST079,AI Workshop,Absent
+W001,ST080,AI Workshop,Attended
+W001,ST081,AI Workshop,Attended
+W001,ST082,AI Workshop,Absent
+W001,ST083,AI Workshop,Absent
+W001,ST084,AI Workshop,Attended
+W001,ST085,AI Workshop,Absent
+W001,ST086,AI Workshop,Attended
+W001,ST087,AI Workshop,Absent
+W001,ST088,AI Workshop,Attended
+W001,ST089,AI Workshop,Absent
+W001,ST090,AI Workshop,Attended
+W001,ST091,AI Workshop,Attended
+W001,ST092,AI Workshop,Absent
+W001,ST093,AI Workshop,Attended
+W001,ST094,AI Workshop,Absent
+W001,ST095,AI Workshop,Absent
+W001,ST096,AI Workshop,Attended
+W001,ST097,AI Workshop,Absent
+W001,ST098,AI Workshop,Absent
+W001,ST099,AI Workshop,Attended
+W001,ST100,AI Workshop,Attended
+W001,ST101,AI Workshop,Attended
+W001,ST102,AI Workshop,Absent
+W001,ST103,AI Workshop,Attended
+W001,ST104,AI Workshop,Absent
+W001,ST105,AI Workshop,Attended
+W001,ST106,AI Workshop,Absent
+W001,ST107,AI Workshop,Absent
+W001,ST108,AI Workshop,Absent
+W001,ST109,AI Workshop,Attended
+W001,ST110,AI Workshop,Attended
+W001,ST111,AI Workshop,Absent
+W001,ST112,AI Workshop,Absent
+W001,ST113,AI Workshop,Absent
+W001,ST114,AI Workshop,Absent
+W001,ST115,AI Workshop,Absent
+W001,ST116,AI Workshop,Attended
+W001,ST117,AI Workshop,Absent
+W001,ST118,AI Workshop,Absent
+W001,ST119,AI Workshop,Attended
+W001,ST120,AI Workshop,Absent
+W001,ST121,AI Workshop,Attended
+W001,ST122,AI Workshop,Attended
+W001,ST123,AI Workshop,Attended
+W001,ST124,AI Workshop,Absent
+W001,ST125,AI Workshop,Absent
+W001,ST126,AI Workshop,Attended
+W001,ST127,AI Workshop,Attended
+W001,ST128,AI Workshop,Absent
+W001,ST129,AI Workshop,Absent
+W001,ST130,AI Workshop,Absent
+W001,ST131,AI Workshop,Absent
+W001,ST132,AI Workshop,Absent
+W001,ST133,AI Workshop,Absent
+W001,ST134,AI Workshop,Attended
+W001,ST135,AI Workshop,Attended
+W001,ST136,AI Workshop,Absent
+W001,ST137,AI Workshop,Attended
+W001,ST138,AI Workshop,Absent
+W001,ST139,AI Workshop,Absent
+W001,ST140,AI Workshop,Attended
+W001,ST141,AI Workshop,Absent
+W001,ST142,AI Workshop,Attended
+W001,ST143,AI Workshop,Attended
+W001,ST144,AI Workshop,Absent
+W001,ST145,AI Workshop,Absent
+W001,ST146,AI Workshop,Attended
+W001,ST147,AI Workshop,Absent
+W001,ST148,AI Workshop,Absent
+W001,ST149,AI Workshop,Absent
+W001,ST150,AI Workshop,Attended
+W001,ST151,AI Workshop,Attended
+W001,ST152,AI Workshop,Attended
+W001,ST153,AI Workshop,Attended
+W001,ST154,AI Workshop,Attended
+W001,ST155,AI Workshop,Attended
+W001,ST156,AI Workshop,Attended
+W001,ST157,AI Workshop,Absent
+W001,ST158,AI Workshop,Attended
+W001,ST159,AI Workshop,Absent
+W001,ST160,AI Workshop,Absent
+W001,ST161,AI Workshop,Absent
+W001,ST162,AI Workshop,Absent
+W001,ST163,AI Workshop,Absent
+W001,ST164,AI Workshop,Attended
+W001,ST165,AI Workshop,Absent
+W001,ST166,AI Workshop,Absent
+W001,ST167,AI Workshop,Absent
+W001,ST168,AI Workshop,Absent
+W001,ST169,AI Workshop,Attended
+W001,ST170,AI Workshop,Attended
+W001,ST171,AI Workshop,Attended
+W001,ST172,AI Workshop,Absent
+W001,ST173,AI Workshop,Attended
+W001,ST174,AI Workshop,Absent
+W001,ST175,AI Workshop,Attended
+W001,ST176,AI Workshop,Absent
+W001,ST177,AI Workshop,Absent
+W001,ST178,AI Workshop,Absent
+W001,ST179,AI Workshop,Attended
+W001,ST180,AI Workshop,Attended
+W001,ST181,AI Workshop,Attended
+W001,ST182,AI Workshop,Absent
+W001,ST183,AI Workshop,Absent
+W001,ST184,AI Workshop,Attended
+W001,ST185,AI Workshop,Attended
+W001,ST186,AI Workshop,Absent
+W001,ST187,AI Workshop,Attended
+W001,ST188,AI Workshop,Attended
+W001,ST189,AI Workshop,Absent
+W001,ST190,AI Workshop,Attended
+W001,ST191,AI Workshop,Absent
+W001,ST192,AI Workshop,Attended
+W001,ST193,AI Workshop,Absent
+W001,ST194,AI Workshop,Absent
+W001,ST195,AI Workshop,Absent
+W001,ST196,AI Workshop,Absent
+W001,ST197,AI Workshop,Attended
+W001,ST198,AI Workshop,Absent
+W001,ST199,AI Workshop,Attended
+W001,ST200,AI Workshop,Attended
+W001,ST201,AI Workshop,Absent
+W001,ST202,AI Workshop,Absent
+W001,ST203,AI Workshop,Absent
+W001,ST204,AI Workshop,Attended
+W001,ST205,AI Workshop,Absent
+W001,ST206,AI Workshop,Attended
+W001,ST207,AI Workshop,Attended
+W001,ST208,AI Workshop,Absent
+W001,ST209,AI Workshop,Attended
+W001,ST210,AI Workshop,Absent
+W001,ST211,AI Workshop,Attended
+W001,ST212,AI Workshop,Absent
+W001,ST213,AI Workshop,Attended
+W001,ST214,AI Workshop,Attended
+W001,ST215,AI Workshop,Absent
+W001,ST216,AI Workshop,Attended
+W001,ST217,AI Workshop,Absent
+W001,ST218,AI Workshop,Attended
+W001,ST219,AI Workshop,Attended
+W001,ST220,AI Workshop,Attended
+W001,ST221,AI Workshop,Absent
+W001,ST222,AI Workshop,Attended
+W001,ST223,AI Workshop,Attended
+W001,ST224,AI Workshop,Attended
+W001,ST225,AI Workshop,Absent
+W001,ST226,AI Workshop,Attended
+W001,ST227,AI Workshop,Attended
+W001,ST228,AI Workshop,Attended
+W001,ST229,AI Workshop,Absent
+W001,ST230,AI Workshop,Attended
+W001,ST231,AI Workshop,Absent
+W001,ST232,AI Workshop,Attended
+W001,ST233,AI Workshop,Attended
+W001,ST234,AI Workshop,Absent
+W001,ST235,AI Workshop,Attended
+W001,ST236,AI Workshop,Attended
+W001,ST237,AI Workshop,Absent
+W001,ST238,AI Workshop,Absent
+W001,ST239,AI Workshop,Absent
+W001,ST240,AI Workshop,Attended
+W001,ST241,AI Workshop,Absent
+W001,ST242,AI Workshop,Attended
+W001,ST243,AI Workshop,Absent
+W001,ST244,AI Workshop,Attended
+W001,ST245,AI Workshop,Absent
+W001,ST246,AI Workshop,Attended
+W001,ST247,AI Workshop,Absent
+W001,ST248,AI Workshop,Attended
+W001,ST249,AI Workshop,Attended
+W001,ST250,AI Workshop,Attended
+W001,ST251,AI Workshop,Absent
+W001,ST252,AI Workshop,Absent
+W001,ST253,AI Workshop,Attended
+W001,ST254,AI Workshop,Absent
+W001,ST255,AI Workshop,Absent
+W001,ST256,AI Workshop,Attended
+W001,ST257,AI Workshop,Absent
+W001,ST258,AI Workshop,Attended
+W001,ST259,AI Workshop,Attended
+W001,ST260,AI Workshop,Attended
+W001,ST261,AI Workshop,Absent
+W001,ST262,AI Workshop,Attended
+W001,ST263,AI Workshop,Attended
+W001,ST264,AI Workshop,Absent
+W001,ST265,AI Workshop,Attended
+W001,ST266,AI Workshop,Absent
+W001,ST267,AI Workshop,Attended
+W001,ST268,AI Workshop,Absent
+W001,ST269,AI Workshop,Absent
+W001,ST270,AI Workshop,Attended
+W001,ST271,AI Workshop,Attended
+W001,ST272,AI Workshop,Attended
+W001,ST273,AI Workshop,Attended
+W001,ST274,AI Workshop,Attended
+W001,ST275,AI Workshop,Absent
+W001,ST276,AI Workshop,Absent
+W001,ST277,AI Workshop,Attended
+W001,ST278,AI Workshop,Attended
+W001,ST279,AI Workshop,Attended
+W001,ST280,AI Workshop,Attended
+W001,ST281,AI Workshop,Absent
+W001,ST282,AI Workshop,Absent
+W001,ST283,AI Workshop,Attended
+W001,ST284,AI Workshop,Attended
+W001,ST285,AI Workshop,Attended
+W001,ST286,AI Workshop,Absent
+W001,ST287,AI Workshop,Absent
+W001,ST288,AI Workshop,Absent
+W001,ST289,AI Workshop,Absent
+W001,ST290,AI Workshop,Absent
+W001,ST291,AI Workshop,Attended
+W001,ST292,AI Workshop,Absent
+W001,ST293,AI Workshop,Absent
+W001,ST294,AI Workshop,Absent
+W001,ST295,AI Workshop,Absent
+W001,ST296,AI Workshop,Absent
+W001,ST297,AI Workshop,Absent
+W001,ST298,AI Workshop,Attended
+W001,ST299,AI Workshop,Absent
+W001,ST300,AI Workshop,Attended
+W001,ST301,AI Workshop,Absent
+W001,ST302,AI Workshop,Absent
+W001,ST303,AI Workshop,Attended
+W001,ST304,AI Workshop,Attended
+W001,ST305,AI Workshop,Absent
+W001,ST306,AI Workshop,Attended
+W001,ST307,AI Workshop,Attended
+W001,ST308,AI Workshop,Absent
+W001,ST309,AI Workshop,Absent
+W001,ST310,AI Workshop,Absent
+W001,ST311,AI Workshop,Absent
+W001,ST312,AI Workshop,Attended
+W001,ST313,AI Workshop,Attended
+W001,ST314,AI Workshop,Attended
+W001,ST315,AI Workshop,Absent
+W001,ST316,AI Workshop,Absent
+W001,ST317,AI Workshop,Attended
+W001,ST318,AI Workshop,Attended
+W001,ST319,AI Workshop,Absent
+W001,ST320,AI Workshop,Absent
+W001,ST321,AI Workshop,Attended
+W001,ST322,AI Workshop,Attended
+W001,ST323,AI Workshop,Absent
+W001,ST324,AI Workshop,Absent
+W001,ST325,AI Workshop,Absent
+W001,ST326,AI Workshop,Attended
+W001,ST327,AI Workshop,Absent
+W001,ST328,AI Workshop,Attended
+W001,ST329,AI Workshop,Absent
+W001,ST330,AI Workshop,Absent
+W001,ST331,AI Workshop,Absent
+W001,ST332,AI Workshop,Absent
+W001,ST333,AI Workshop,Attended
+W001,ST334,AI Workshop,Attended
+W001,ST335,AI Workshop,Absent
+W001,ST336,AI Workshop,Absent
+W001,ST337,AI Workshop,Absent
+W001,ST338,AI Workshop,Attended
+W001,ST339,AI Workshop,Attended
+W001,ST340,AI Workshop,Attended
+W001,ST341,AI Workshop,Attended
+W001,ST342,AI Workshop,Absent
+W001,ST343,AI Workshop,Attended
+W001,ST344,AI Workshop,Attended
+W001,ST345,AI Workshop,Attended
+W001,ST346,AI Workshop,Absent
+W001,ST347,AI Workshop,Attended
+W001,ST348,AI Workshop,Attended
+W001,ST349,AI Workshop,Absent
+W001,ST350,AI Workshop,Attended
+W001,ST351,AI Workshop,Attended
+W001,ST352,AI Workshop,Absent
+W001,ST353,AI Workshop,Attended
+W001,ST354,AI Workshop,Absent
+W001,ST355,AI Workshop,Attended
+W001,ST356,AI Workshop,Attended
+W001,ST357,AI Workshop,Attended
+W001,ST358,AI Workshop,Attended
+W001,ST359,AI Workshop,Attended
+W001,ST360,AI Workshop,Absent
+W001,ST361,AI Workshop,Absent
+W001,ST362,AI Workshop,Attended
+W001,ST363,AI Workshop,Absent
+W001,ST364,AI Workshop,Attended
+W001,ST365,AI Workshop,Attended
+W001,ST366,AI Workshop,Absent
+W001,ST367,AI Workshop,Absent
+W001,ST368,AI Workshop,Attended
+W001,ST369,AI Workshop,Absent
+W001,ST370,AI Workshop,Absent
+W001,ST371,AI Workshop,Absent
+W001,ST372,AI Workshop,Attended
+W001,ST373,AI Workshop,Absent
+W001,ST374,AI Workshop,Attended
+W001,ST375,AI Workshop,Absent
+W001,ST376,AI Workshop,Absent
+W001,ST377,AI Workshop,Attended
+W001,ST378,AI Workshop,Attended
+W001,ST379,AI Workshop,Absent
+W001,ST380,AI Workshop,Attended
+W001,ST381,AI Workshop,Attended
+W001,ST382,AI Workshop,Absent
+W001,ST383,AI Workshop,Absent
+W001,ST384,AI Workshop,Absent
+W001,ST385,AI Workshop,Absent
+W001,ST386,AI Workshop,Absent
+W001,ST387,AI Workshop,Absent
+W001,ST388,AI Workshop,Attended
+W001,ST389,AI Workshop,Attended
+W001,ST390,AI Workshop,Absent
+W001,ST391,AI Workshop,Attended
+W001,ST392,AI Workshop,Attended
+W001,ST393,AI Workshop,Attended
+W001,ST394,AI Workshop,Attended
+W001,ST395,AI Workshop,Attended
+W001,ST396,AI Workshop,Attended
+W001,ST397,AI Workshop,Attended
+W001,ST398,AI Workshop,Attended
+W001,ST399,AI Workshop,Absent
+W001,ST400,AI Workshop,Attended
+W001,ST401,AI Workshop,Absent
+W001,ST402,AI Workshop,Attended
+W001,ST403,AI Workshop,Attended
+W001,ST404,AI Workshop,Attended
+W001,ST405,AI Workshop,Attended
+W001,ST406,AI Workshop,Attended
+W001,ST407,AI Workshop,Attended
+W001,ST408,AI Workshop,Attended
+W001,ST409,AI Workshop,Attended
+W001,ST410,AI Workshop,Absent
+W001,ST411,AI Workshop,Attended
+W001,ST412,AI Workshop,Attended
+W001,ST413,AI Workshop,Absent
+W001,ST414,AI Workshop,Attended
+W001,ST415,AI Workshop,Attended
+W001,ST416,AI Workshop,Absent
+W001,ST417,AI Workshop,Attended
+W001,ST418,AI Workshop,Attended
+W001,ST419,AI Workshop,Attended
+W001,ST420,AI Workshop,Attended
+W001,ST421,AI Workshop,Absent
+W001,ST422,AI Workshop,Attended
+W001,ST423,AI Workshop,Absent
+W001,ST424,AI Workshop,Attended
+W001,ST425,AI Workshop,Attended
+W001,ST426,AI Workshop,Attended
+W001,ST427,AI Workshop,Absent
+W001,ST428,AI Workshop,Attended
+W001,ST429,AI Workshop,Attended
+W001,ST430,AI Workshop,Attended
+W001,ST431,AI Workshop,Attended
+W001,ST432,AI Workshop,Attended
+W001,ST433,AI Workshop,Attended
+W001,ST434,AI Workshop,Attended
+W001,ST435,AI Workshop,Absent
+W001,ST436,AI Workshop,Absent
+W001,ST437,AI Workshop,Absent
+W001,ST438,AI Workshop,Attended
+W001,ST439,AI Workshop,Absent
+W001,ST440,AI Workshop,Absent
+W001,ST441,AI Workshop,Attended
+W001,ST442,AI Workshop,Attended
+W001,ST443,AI Workshop,Attended
+W001,ST444,AI Workshop,Absent
+W001,ST445,AI Workshop,Absent
+W001,ST446,AI Workshop,Attended
+W001,ST447,AI Workshop,Attended
+W001,ST448,AI Workshop,Attended
+W001,ST449,AI Workshop,Attended
+W001,ST450,AI Workshop,Attended
+W001,ST451,AI Workshop,Attended
+W001,ST452,AI Workshop,Absent
+W001,ST453,AI Workshop,Absent
+W001,ST454,AI Workshop,Absent
+W001,ST455,AI Workshop,Absent
+W001,ST456,AI Workshop,Attended
+W001,ST457,AI Workshop,Absent
+W001,ST458,AI Workshop,Absent
+W001,ST459,AI Workshop,Attended
+W001,ST460,AI Workshop,Absent
+W001,ST461,AI Workshop,Attended
+W001,ST462,AI Workshop,Absent
+W001,ST463,AI Workshop,Attended
+W001,ST464,AI Workshop,Attended
+W001,ST465,AI Workshop,Attended
+W001,ST466,AI Workshop,Attended
+W001,ST467,AI Workshop,Absent
+W001,ST468,AI Workshop,Absent
+W001,ST469,AI Workshop,Attended
+W001,ST470,AI Workshop,Attended
+W001,ST471,AI Workshop,Absent
+W001,ST472,AI Workshop,Absent
+W001,ST473,AI Workshop,Attended
+W001,ST474,AI Workshop,Attended
+W001,ST475,AI Workshop,Attended
+W001,ST476,AI Workshop,Absent
+W001,ST477,AI Workshop,Attended
+W001,ST478,AI Workshop,Absent
+W001,ST479,AI Workshop,Absent
+W001,ST480,AI Workshop,Absent
+W001,ST481,AI Workshop,Absent
+W001,ST482,AI Workshop,Attended
+W001,ST483,AI Workshop,Attended
+W001,ST484,AI Workshop,Absent
+W001,ST485,AI Workshop,Attended
+W001,ST486,AI Workshop,Attended
+W001,ST487,AI Workshop,Absent
+W001,ST488,AI Workshop,Attended
+W001,ST489,AI Workshop,Attended
+W001,ST490,AI Workshop,Absent
+W001,ST491,AI Workshop,Absent
+W001,ST492,AI Workshop,Attended
+W001,ST493,AI Workshop,Attended
+W001,ST494,AI Workshop,Attended
+W001,ST495,AI Workshop,Attended
+W001,ST496,AI Workshop,Attended
+W001,ST497,AI Workshop,Absent
+W001,ST498,AI Workshop,Absent
+W001,ST499,AI Workshop,Attended
+W001,ST500,AI Workshop,Attended
+W002,ST001,Data Science Bootcamp,Attended
+W002,ST002,Data Science Bootcamp,Absent
+W002,ST003,Data Science Bootcamp,Absent
+W002,ST004,Data Science Bootcamp,Attended
+W002,ST005,Data Science Bootcamp,Absent
+W002,ST006,Data Science Bootcamp,Attended
+W002,ST007,Data Science Bootcamp,Attended
+W002,ST008,Data Science Bootcamp,Absent
+W002,ST009,Data Science Bootcamp,Absent
+W002,ST010,Data Science Bootcamp,Absent
+W002,ST011,Data Science Bootcamp,Absent
+W002,ST012,Data Science Bootcamp,Attended
+W002,ST013,Data Science Bootcamp,Attended
+W002,ST014,Data Science Bootcamp,Attended
+W002,ST015,Data Science Bootcamp,Attended
+W002,ST016,Data Science Bootcamp,Attended
+W002,ST017,Data Science Bootcamp,Absent
+W002,ST018,Data Science Bootcamp,Absent
+W002,ST019,Data Science Bootcamp,Attended
+W002,ST020,Data Science Bootcamp,Attended
+W002,ST021,Data Science Bootcamp,Attended
+W002,ST022,Data Science Bootcamp,Attended
+W002,ST023,Data Science Bootcamp,Absent
+W002,ST024,Data Science Bootcamp,Absent
+W002,ST025,Data Science Bootcamp,Attended
+W002,ST026,Data Science Bootcamp,Attended
+W002,ST027,Data Science Bootcamp,Absent
+W002,ST028,Data Science Bootcamp,Absent
+W002,ST029,Data Science Bootcamp,Absent
+W002,ST030,Data Science Bootcamp,Absent
+W002,ST031,Data Science Bootcamp,Absent
+W002,ST032,Data Science Bootcamp,Absent
+W002,ST033,Data Science Bootcamp,Attended
+W002,ST034,Data Science Bootcamp,Attended
+W002,ST035,Data Science Bootcamp,Attended
+W002,ST036,Data Science Bootcamp,Attended
+W002,ST037,Data Science Bootcamp,Absent
+W002,ST038,Data Science Bootcamp,Absent
+W002,ST039,Data Science Bootcamp,Attended
+W002,ST040,Data Science Bootcamp,Attended
+W002,ST041,Data Science Bootcamp,Absent
+W002,ST042,Data Science Bootcamp,Absent
+W002,ST043,Data Science Bootcamp,Attended
+W002,ST044,Data Science Bootcamp,Absent
+W002,ST045,Data Science Bootcamp,Attended
+W002,ST046,Data Science Bootcamp,Absent
+W002,ST047,Data Science Bootcamp,Absent
+W002,ST048,Data Science Bootcamp,Attended
+W002,ST049,Data Science Bootcamp,Attended
+W002,ST050,Data Science Bootcamp,Attended
+W002,ST051,Data Science Bootcamp,Absent
+W002,ST052,Data Science Bootcamp,Absent
+W002,ST053,Data Science Bootcamp,Absent
+W002,ST054,Data Science Bootcamp,Attended
+W002,ST055,Data Science Bootcamp,Absent
+W002,ST056,Data Science Bootcamp,Attended
+W002,ST057,Data Science Bootcamp,Attended
+W002,ST058,Data Science Bootcamp,Attended
+W002,ST059,Data Science Bootcamp,Absent
+W002,ST060,Data Science Bootcamp,Attended
+W002,ST061,Data Science Bootcamp,Absent
+W002,ST062,Data Science Bootcamp,Attended
+W002,ST063,Data Science Bootcamp,Attended
+W002,ST064,Data Science Bootcamp,Absent
+W002,ST065,Data Science Bootcamp,Attended
+W002,ST066,Data Science Bootcamp,Attended
+W002,ST067,Data Science Bootcamp,Attended
+W002,ST068,Data Science Bootcamp,Attended
+W002,ST069,Data Science Bootcamp,Absent
+W002,ST070,Data Science Bootcamp,Absent
+W002,ST071,Data Science Bootcamp,Absent
+W002,ST072,Data Science Bootcamp,Attended
+W002,ST073,Data Science Bootcamp,Absent
+W002,ST074,Data Science Bootcamp,Absent
+W002,ST075,Data Science Bootcamp,Attended
+W002,ST076,Data Science Bootcamp,Absent
+W002,ST077,Data Science Bootcamp,Absent
+W002,ST078,Data Science Bootcamp,Attended
+W002,ST079,Data Science Bootcamp,Absent
+W002,ST080,Data Science Bootcamp,Absent
+W002,ST081,Data Science Bootcamp,Absent
+W002,ST082,Data Science Bootcamp,Absent
+W002,ST083,Data Science Bootcamp,Absent
+W002,ST084,Data Science Bootcamp,Absent
+W002,ST085,Data Science Bootcamp,Attended
+W002,ST086,Data Science Bootcamp,Absent
+W002,ST087,Data Science Bootcamp,Absent
+W002,ST088,Data Science Bootcamp,Absent
+W002,ST089,Data Science Bootcamp,Attended
+W002,ST090,Data Science Bootcamp,Absent
+W002,ST091,Data Science Bootcamp,Attended
+W002,ST092,Data Science Bootcamp,Absent
+W002,ST093,Data Science Bootcamp,Attended
+W002,ST094,Data Science Bootcamp,Absent
+W002,ST095,Data Science Bootcamp,Absent
+W002,ST096,Data Science Bootcamp,Attended
+W002,ST097,Data Science Bootcamp,Attended
+W002,ST098,Data Science Bootcamp,Absent
+W002,ST099,Data Science Bootcamp,Attended
+W002,ST100,Data Science Bootcamp,Absent
+W002,ST101,Data Science Bootcamp,Absent
+W002,ST102,Data Science Bootcamp,Absent
+W002,ST103,Data Science Bootcamp,Attended
+W002,ST104,Data Science Bootcamp,Absent
+W002,ST105,Data Science Bootcamp,Attended
+W002,ST106,Data Science Bootcamp,Attended
+W002,ST107,Data Science Bootcamp,Attended
+W002,ST108,Data Science Bootcamp,Absent
+W002,ST109,Data Science Bootcamp,Attended
+W002,ST110,Data Science Bootcamp,Attended
+W002,ST111,Data Science Bootcamp,Absent
+W002,ST112,Data Science Bootcamp,Attended
+W002,ST113,Data Science Bootcamp,Absent
+W002,ST114,Data Science Bootcamp,Attended
+W002,ST115,Data Science Bootcamp,Absent
+W002,ST116,Data Science Bootcamp,Attended
+W002,ST117,Data Science Bootcamp,Absent
+W002,ST118,Data Science Bootcamp,Attended
+W002,ST119,Data Science Bootcamp,Absent
+W002,ST120,Data Science Bootcamp,Absent
+W002,ST121,Data Science Bootcamp,Absent
+W002,ST122,Data Science Bootcamp,Attended
+W002,ST123,Data Science Bootcamp,Attended
+W002,ST124,Data Science Bootcamp,Absent
+W002,ST125,Data Science Bootcamp,Attended
+W002,ST126,Data Science Bootcamp,Absent
+W002,ST127,Data Science Bootcamp,Absent
+W002,ST128,Data Science Bootcamp,Absent
+W002,ST129,Data Science Bootcamp,Attended
+W002,ST130,Data Science Bootcamp,Absent
+W002,ST131,Data Science Bootcamp,Absent
+W002,ST132,Data Science Bootcamp,Absent
+W002,ST133,Data Science Bootcamp,Absent
+W002,ST134,Data Science Bootcamp,Absent
+W002,ST135,Data Science Bootcamp,Absent
+W002,ST136,Data Science Bootcamp,Attended
+W002,ST137,Data Science Bootcamp,Absent
+W002,ST138,Data Science Bootcamp,Absent
+W002,ST139,Data Science Bootcamp,Attended
+W002,ST140,Data Science Bootcamp,Attended
+W002,ST141,Data Science Bootcamp,Attended
+W002,ST142,Data Science Bootcamp,Absent
+W002,ST143,Data Science Bootcamp,Absent
+W002,ST144,Data Science Bootcamp,Absent
+W002,ST145,Data Science Bootcamp,Absent
+W002,ST146,Data Science Bootcamp,Attended
+W002,ST147,Data Science Bootcamp,Absent
+W002,ST148,Data Science Bootcamp,Absent
+W002,ST149,Data Science Bootcamp,Attended
+W002,ST150,Data Science Bootcamp,Absent
+W002,ST151,Data Science Bootcamp,Attended
+W002,ST152,Data Science Bootcamp,Attended
+W002,ST153,Data Science Bootcamp,Attended
+W002,ST154,Data Science Bootcamp,Attended
+W002,ST155,Data Science Bootcamp,Absent
+W002,ST156,Data Science Bootcamp,Attended
+W002,ST157,Data Science Bootcamp,Attended
+W002,ST158,Data Science Bootcamp,Attended
+W002,ST159,Data Science Bootcamp,Absent
+W002,ST160,Data Science Bootcamp,Attended
+W002,ST161,Data Science Bootcamp,Absent
+W002,ST162,Data Science Bootcamp,Absent
+W002,ST163,Data Science Bootcamp,Absent
+W002,ST164,Data Science Bootcamp,Attended
+W002,ST165,Data Science Bootcamp,Absent
+W002,ST166,Data Science Bootcamp,Absent
+W002,ST167,Data Science Bootcamp,Absent
+W002,ST168,Data Science Bootcamp,Attended
+W002,ST169,Data Science Bootcamp,Absent
+W002,ST170,Data Science Bootcamp,Absent
+W002,ST171,Data Science Bootcamp,Absent
+W002,ST172,Data Science Bootcamp,Attended
+W002,ST173,Data Science Bootcamp,Attended
+W002,ST174,Data Science Bootcamp,Absent
+W002,ST175,Data Science Bootcamp,Attended
+W002,ST176,Data Science Bootcamp,Absent
+W002,ST177,Data Science Bootcamp,Absent
+W002,ST178,Data Science Bootcamp,Absent
+W002,ST179,Data Science Bootcamp,Attended
+W002,ST180,Data Science Bootcamp,Attended
+W002,ST181,Data Science Bootcamp,Attended
+W002,ST182,Data Science Bootcamp,Attended
+W002,ST183,Data Science Bootcamp,Attended
+W002,ST184,Data Science Bootcamp,Attended
+W002,ST185,Data Science Bootcamp,Absent
+W002,ST186,Data Science Bootcamp,Attended
+W002,ST187,Data Science Bootcamp,Attended
+W002,ST188,Data Science Bootcamp,Absent
+W002,ST189,Data Science Bootcamp,Attended
+W002,ST190,Data Science Bootcamp,Attended
+W002,ST191,Data Science Bootcamp,Absent
+W002,ST192,Data Science Bootcamp,Attended
+W002,ST193,Data Science Bootcamp,Absent
+W002,ST194,Data Science Bootcamp,Absent
+W002,ST195,Data Science Bootcamp,Absent
+W002,ST196,Data Science Bootcamp,Attended
+W002,ST197,Data Science Bootcamp,Attended
+W002,ST198,Data Science Bootcamp,Attended
+W002,ST199,Data Science Bootcamp,Attended
+W002,ST200,Data Science Bootcamp,Attended
+W002,ST201,Data Science Bootcamp,Attended
+W002,ST202,Data Science Bootcamp,Absent
+W002,ST203,Data Science Bootcamp,Absent
+W002,ST204,Data Science Bootcamp,Absent
+W002,ST205,Data Science Bootcamp,Attended
+W002,ST206,Data Science Bootcamp,Absent
+W002,ST207,Data Science Bootcamp,Absent
+W002,ST208,Data Science Bootcamp,Attended
+W002,ST209,Data Science Bootcamp,Attended
+W002,ST210,Data Science Bootcamp,Attended
+W002,ST211,Data Science Bootcamp,Absent
+W002,ST212,Data Science Bootcamp,Attended
+W002,ST213,Data Science Bootcamp,Attended
+W002,ST214,Data Science Bootcamp,Absent
+W002,ST215,Data Science Bootcamp,Absent
+W002,ST216,Data Science Bootcamp,Absent
+W002,ST217,Data Science Bootcamp,Attended
+W002,ST218,Data Science Bootcamp,Attended
+W002,ST219,Data Science Bootcamp,Attended
+W002,ST220,Data Science Bootcamp,Attended
+W002,ST221,Data Science Bootcamp,Attended
+W002,ST222,Data Science Bootcamp,Absent
+W002,ST223,Data Science Bootcamp,Attended
+W002,ST224,Data Science Bootcamp,Absent
+W002,ST225,Data Science Bootcamp,Attended
+W002,ST226,Data Science Bootcamp,Absent
+W002,ST227,Data Science Bootcamp,Attended
+W002,ST228,Data Science Bootcamp,Absent
+W002,ST229,Data Science Bootcamp,Attended
+W002,ST230,Data Science Bootcamp,Absent
+W002,ST231,Data Science Bootcamp,Attended
+W002,ST232,Data Science Bootcamp,Attended
+W002,ST233,Data Science Bootcamp,Absent
+W002,ST234,Data Science Bootcamp,Absent
+W002,ST235,Data Science Bootcamp,Absent
+W002,ST236,Data Science Bootcamp,Attended
+W002,ST237,Data Science Bootcamp,Attended
+W002,ST238,Data Science Bootcamp,Absent
+W002,ST239,Data Science Bootcamp,Absent
+W002,ST240,Data Science Bootcamp,Attended
+W002,ST241,Data Science Bootcamp,Absent
+W002,ST242,Data Science Bootcamp,Absent
+W002,ST243,Data Science Bootcamp,Absent
+W002,ST244,Data Science Bootcamp,Absent
+W002,ST245,Data Science Bootcamp,Attended
+W002,ST246,Data Science Bootcamp,Absent
+W002,ST247,Data Science Bootcamp,Absent
+W002,ST248,Data Science Bootcamp,Absent
+W002,ST249,Data Science Bootcamp,Attended
+W002,ST250,Data Science Bootcamp,Absent
+W002,ST251,Data Science Bootcamp,Attended
+W002,ST252,Data Science Bootcamp,Attended
+W002,ST253,Data Science Bootcamp,Attended
+W002,ST254,Data Science Bootcamp,Attended
+W002,ST255,Data Science Bootcamp,Absent
+W002,ST256,Data Science Bootcamp,Attended
+W002,ST257,Data Science Bootcamp,Attended
+W002,ST258,Data Science Bootcamp,Attended
+W002,ST259,Data Science Bootcamp,Attended
+W002,ST260,Data Science Bootcamp,Absent
+W002,ST261,Data Science Bootcamp,Attended
+W002,ST262,Data Science Bootcamp,Attended
+W002,ST263,Data Science Bootcamp,Attended
+W002,ST264,Data Science Bootcamp,Attended
+W002,ST265,Data Science Bootcamp,Attended
+W002,ST266,Data Science Bootcamp,Attended
+W002,ST267,Data Science Bootcamp,Attended
+W002,ST268,Data Science Bootcamp,Attended
+W002,ST269,Data Science Bootcamp,Attended
+W002,ST270,Data Science Bootcamp,Attended
+W002,ST271,Data Science Bootcamp,Attended
+W002,ST272,Data Science Bootcamp,Attended
+W002,ST273,Data Science Bootcamp,Attended
+W002,ST274,Data Science Bootcamp,Attended
+W002,ST275,Data Science Bootcamp,Absent
+W002,ST276,Data Science Bootcamp,Absent
+W002,ST277,Data Science Bootcamp,Absent
+W002,ST278,Data Science Bootcamp,Attended
+W002,ST279,Data Science Bootcamp,Attended
+W002,ST280,Data Science Bootcamp,Absent
+W002,ST281,Data Science Bootcamp,Absent
+W002,ST282,Data Science Bootcamp,Absent
+W002,ST283,Data Science Bootcamp,Attended
+W002,ST284,Data Science Bootcamp,Absent
+W002,ST285,Data Science Bootcamp,Attended
+W002,ST286,Data Science Bootcamp,Attended
+W002,ST287,Data Science Bootcamp,Absent
+W002,ST288,Data Science Bootcamp,Absent
+W002,ST289,Data Science Bootcamp,Attended
+W002,ST290,Data Science Bootcamp,Attended
+W002,ST291,Data Science Bootcamp,Attended
+W002,ST292,Data Science Bootcamp,Attended
+W002,ST293,Data Science Bootcamp,Absent
+W002,ST294,Data Science Bootcamp,Attended
+W002,ST295,Data Science Bootcamp,Attended
+W002,ST296,Data Science Bootcamp,Absent
+W002,ST297,Data Science Bootcamp,Absent
+W002,ST298,Data Science Bootcamp,Attended
+W002,ST299,Data Science Bootcamp,Attended
+W002,ST300,Data Science Bootcamp,Attended
+W002,ST301,Data Science Bootcamp,Absent
+W002,ST302,Data Science Bootcamp,Absent
+W002,ST303,Data Science Bootcamp,Attended
+W002,ST304,Data Science Bootcamp,Attended
+W002,ST305,Data Science Bootcamp,Absent
+W002,ST306,Data Science Bootcamp,Absent
+W002,ST307,Data Science Bootcamp,Attended
+W002,ST308,Data Science Bootcamp,Absent
+W002,ST309,Data Science Bootcamp,Absent
+W002,ST310,Data Science Bootcamp,Attended
+W002,ST311,Data Science Bootcamp,Absent
+W002,ST312,Data Science Bootcamp,Absent
+W002,ST313,Data Science Bootcamp,Attended
+W002,ST314,Data Science Bootcamp,Attended
+W002,ST315,Data Science Bootcamp,Attended
+W002,ST316,Data Science Bootcamp,Absent
+W002,ST317,Data Science Bootcamp,Attended
+W002,ST318,Data Science Bootcamp,Attended
+W002,ST319,Data Science Bootcamp,Absent
+W002,ST320,Data Science Bootcamp,Attended
+W002,ST321,Data Science Bootcamp,Absent
+W002,ST322,Data Science Bootcamp,Attended
+W002,ST323,Data Science Bootcamp,Attended
+W002,ST324,Data Science Bootcamp,Attended
+W002,ST325,Data Science Bootcamp,Attended
+W002,ST326,Data Science Bootcamp,Attended
+W002,ST327,Data Science Bootcamp,Absent
+W002,ST328,Data Science Bootcamp,Attended
+W002,ST329,Data Science Bootcamp,Absent
+W002,ST330,Data Science Bootcamp,Absent
+W002,ST331,Data Science Bootcamp,Absent
+W002,ST332,Data Science Bootcamp,Attended
+W002,ST333,Data Science Bootcamp,Attended
+W002,ST334,Data Science Bootcamp,Absent
+W002,ST335,Data Science Bootcamp,Absent
+W002,ST336,Data Science Bootcamp,Absent
+W002,ST337,Data Science Bootcamp,Attended
+W002,ST338,Data Science Bootcamp,Attended
+W002,ST339,Data Science Bootcamp,Attended
+W002,ST340,Data Science Bootcamp,Absent
+W002,ST341,Data Science Bootcamp,Absent
+W002,ST342,Data Science Bootcamp,Attended
+W002,ST343,Data Science Bootcamp,Attended
+W002,ST344,Data Science Bootcamp,Absent
+W002,ST345,Data Science Bootcamp,Attended
+W002,ST346,Data Science Bootcamp,Absent
+W002,ST347,Data Science Bootcamp,Absent
+W002,ST348,Data Science Bootcamp,Attended
+W002,ST349,Data Science Bootcamp,Attended
+W002,ST350,Data Science Bootcamp,Absent
+W002,ST351,Data Science Bootcamp,Attended
+W002,ST352,Data Science Bootcamp,Attended
+W002,ST353,Data Science Bootcamp,Attended
+W002,ST354,Data Science Bootcamp,Absent
+W002,ST355,Data Science Bootcamp,Attended
+W002,ST356,Data Science Bootcamp,Absent
+W002,ST357,Data Science Bootcamp,Attended
+W002,ST358,Data Science Bootcamp,Absent
+W002,ST359,Data Science Bootcamp,Absent
+W002,ST360,Data Science Bootcamp,Attended
+W002,ST361,Data Science Bootcamp,Attended
+W002,ST362,Data Science Bootcamp,Attended
+W002,ST363,Data Science Bootcamp,Absent
+W002,ST364,Data Science Bootcamp,Attended
+W002,ST365,Data Science Bootcamp,Attended
+W002,ST366,Data Science Bootcamp,Attended
+W002,ST367,Data Science Bootcamp,Absent
+W002,ST368,Data Science Bootcamp,Attended
+W002,ST369,Data Science Bootcamp,Attended
+W002,ST370,Data Science Bootcamp,Absent
+W002,ST371,Data Science Bootcamp,Absent
+W002,ST372,Data Science Bootcamp,Absent
+W002,ST373,Data Science Bootcamp,Attended
+W002,ST374,Data Science Bootcamp,Attended
+W002,ST375,Data Science Bootcamp,Attended
+W002,ST376,Data Science Bootcamp,Attended
+W002,ST377,Data Science Bootcamp,Attended
+W002,ST378,Data Science Bootcamp,Absent
+W002,ST379,Data Science Bootcamp,Attended
+W002,ST380,Data Science Bootcamp,Absent
+W002,ST381,Data Science Bootcamp,Attended
+W002,ST382,Data Science Bootcamp,Attended
+W002,ST383,Data Science Bootcamp,Attended
+W002,ST384,Data Science Bootcamp,Absent
+W002,ST385,Data Science Bootcamp,Attended
+W002,ST386,Data Science Bootcamp,Absent
+W002,ST387,Data Science Bootcamp,Absent
+W002,ST388,Data Science Bootcamp,Absent
+W002,ST389,Data Science Bootcamp,Attended
+W002,ST390,Data Science Bootcamp,Absent
+W002,ST391,Data Science Bootcamp,Absent
+W002,ST392,Data Science Bootcamp,Absent
+W002,ST393,Data Science Bootcamp,Attended
+W002,ST394,Data Science Bootcamp,Absent
+W002,ST395,Data Science Bootcamp,Attended
+W002,ST396,Data Science Bootcamp,Attended
+W002,ST397,Data Science Bootcamp,Absent
+W002,ST398,Data Science Bootcamp,Absent
+W002,ST399,Data Science Bootcamp,Attended
+W002,ST400,Data Science Bootcamp,Absent
+W002,ST401,Data Science Bootcamp,Absent
+W002,ST402,Data Science Bootcamp,Attended
+W002,ST403,Data Science Bootcamp,Attended
+W002,ST404,Data Science Bootcamp,Absent
+W002,ST405,Data Science Bootcamp,Absent
+W002,ST406,Data Science Bootcamp,Absent
+W002,ST407,Data Science Bootcamp,Absent
+W002,ST408,Data Science Bootcamp,Absent
+W002,ST409,Data Science Bootcamp,Attended
+W002,ST410,Data Science Bootcamp,Absent
+W002,ST411,Data Science Bootcamp,Absent
+W002,ST412,Data Science Bootcamp,Attended
+W002,ST413,Data Science Bootcamp,Absent
+W002,ST414,Data Science Bootcamp,Attended
+W002,ST415,Data Science Bootcamp,Absent
+W002,ST416,Data Science Bootcamp,Attended
+W002,ST417,Data Science Bootcamp,Attended
+W002,ST418,Data Science Bootcamp,Absent
+W002,ST419,Data Science Bootcamp,Attended
+W002,ST420,Data Science Bootcamp,Attended
+W002,ST421,Data Science Bootcamp,Attended
+W002,ST422,Data Science Bootcamp,Attended
+W002,ST423,Data Science Bootcamp,Attended
+W002,ST424,Data Science Bootcamp,Attended
+W002,ST425,Data Science Bootcamp,Absent
+W002,ST426,Data Science Bootcamp,Attended
+W002,ST427,Data Science Bootcamp,Absent
+W002,ST428,Data Science Bootcamp,Attended
+W002,ST429,Data Science Bootcamp,Attended
+W002,ST430,Data Science Bootcamp,Attended
+W002,ST431,Data Science Bootcamp,Attended
+W002,ST432,Data Science Bootcamp,Absent
+W002,ST433,Data Science Bootcamp,Attended
+W002,ST434,Data Science Bootcamp,Absent
+W002,ST435,Data Science Bootcamp,Attended
+W002,ST436,Data Science Bootcamp,Absent
+W002,ST437,Data Science Bootcamp,Absent
+W002,ST438,Data Science Bootcamp,Attended
+W002,ST439,Data Science Bootcamp,Absent
+W002,ST440,Data Science Bootcamp,Attended
+W002,ST441,Data Science Bootcamp,Attended
+W002,ST442,Data Science Bootcamp,Absent
+W002,ST443,Data Science Bootcamp,Absent
+W002,ST444,Data Science Bootcamp,Attended
+W002,ST445,Data Science Bootcamp,Attended
+W002,ST446,Data Science Bootcamp,Absent
+W002,ST447,Data Science Bootcamp,Attended
+W002,ST448,Data Science Bootcamp,Attended
+W002,ST449,Data Science Bootcamp,Absent
+W002,ST450,Data Science Bootcamp,Attended
+W002,ST451,Data Science Bootcamp,Attended
+W002,ST452,Data Science Bootcamp,Absent
+W002,ST453,Data Science Bootcamp,Attended
+W002,ST454,Data Science Bootcamp,Absent
+W002,ST455,Data Science Bootcamp,Absent
+W002,ST456,Data Science Bootcamp,Attended
+W002,ST457,Data Science Bootcamp,Absent
+W002,ST458,Data Science Bootcamp,Absent
+W002,ST459,Data Science Bootcamp,Attended
+W002,ST460,Data Science Bootcamp,Absent
+W002,ST461,Data Science Bootcamp,Absent
+W002,ST462,Data Science Bootcamp,Absent
+W002,ST463,Data Science Bootcamp,Absent
+W002,ST464,Data Science Bootcamp,Attended
+W002,ST465,Data Science Bootcamp,Attended
+W002,ST466,Data Science Bootcamp,Attended
+W002,ST467,Data Science Bootcamp,Absent
+W002,ST468,Data Science Bootcamp,Attended
+W002,ST469,Data Science Bootcamp,Absent
+W002,ST470,Data Science Bootcamp,Absent
+W002,ST471,Data Science Bootcamp,Absent
+W002,ST472,Data Science Bootcamp,Attended
+W002,ST473,Data Science Bootcamp,Absent
+W002,ST474,Data Science Bootcamp,Attended
+W002,ST475,Data Science Bootcamp,Absent
+W002,ST476,Data Science Bootcamp,Absent
+W002,ST477,Data Science Bootcamp,Attended
+W002,ST478,Data Science Bootcamp,Absent
+W002,ST479,Data Science Bootcamp,Absent
+W002,ST480,Data Science Bootcamp,Attended
+W002,ST481,Data Science Bootcamp,Absent
+W002,ST482,Data Science Bootcamp,Absent
+W002,ST483,Data Science Bootcamp,Absent
+W002,ST484,Data Science Bootcamp,Absent
+W002,ST485,Data Science Bootcamp,Absent
+W002,ST486,Data Science Bootcamp,Absent
+W002,ST487,Data Science Bootcamp,Absent
+W002,ST488,Data Science Bootcamp,Absent
+W002,ST489,Data Science Bootcamp,Attended
+W002,ST490,Data Science Bootcamp,Absent
+W002,ST491,Data Science Bootcamp,Absent
+W002,ST492,Data Science Bootcamp,Absent
+W002,ST493,Data Science Bootcamp,Absent
+W002,ST494,Data Science Bootcamp,Absent
+W002,ST495,Data Science Bootcamp,Attended
+W002,ST496,Data Science Bootcamp,Attended
+W002,ST497,Data Science Bootcamp,Absent
+W002,ST498,Data Science Bootcamp,Absent
+W002,ST499,Data Science Bootcamp,Attended
+W002,ST500,Data Science Bootcamp,Attended
+W003,ST001,Resume Building,Absent
+W003,ST002,Resume Building,Attended
+W003,ST003,Resume Building,Absent
+W003,ST004,Resume Building,Attended
+W003,ST005,Resume Building,Attended
+W003,ST006,Resume Building,Attended
+W003,ST007,Resume Building,Attended
+W003,ST008,Resume Building,Absent
+W003,ST009,Resume Building,Attended
+W003,ST010,Resume Building,Absent
+W003,ST011,Resume Building,Attended
+W003,ST012,Resume Building,Attended
+W003,ST013,Resume Building,Absent
+W003,ST014,Resume Building,Absent
+W003,ST015,Resume Building,Absent
+W003,ST016,Resume Building,Absent
+W003,ST017,Resume Building,Absent
+W003,ST018,Resume Building,Absent
+W003,ST019,Resume Building,Absent
+W003,ST020,Resume Building,Absent
+W003,ST021,Resume Building,Attended
+W003,ST022,Resume Building,Attended
+W003,ST023,Resume Building,Absent
+W003,ST024,Resume Building,Attended
+W003,ST025,Resume Building,Attended
+W003,ST026,Resume Building,Attended
+W003,ST027,Resume Building,Attended
+W003,ST028,Resume Building,Absent
+W003,ST029,Resume Building,Attended
+W003,ST030,Resume Building,Absent
+W003,ST031,Resume Building,Absent
+W003,ST032,Resume Building,Attended
+W003,ST033,Resume Building,Absent
+W003,ST034,Resume Building,Attended
+W003,ST035,Resume Building,Absent
+W003,ST036,Resume Building,Absent
+W003,ST037,Resume Building,Absent
+W003,ST038,Resume Building,Absent
+W003,ST039,Resume Building,Attended
+W003,ST040,Resume Building,Attended
+W003,ST041,Resume Building,Absent
+W003,ST042,Resume Building,Absent
+W003,ST043,Resume Building,Absent
+W003,ST044,Resume Building,Absent
+W003,ST045,Resume Building,Absent
+W003,ST046,Resume Building,Absent
+W003,ST047,Resume Building,Attended
+W003,ST048,Resume Building,Attended
+W003,ST049,Resume Building,Absent
+W003,ST050,Resume Building,Attended
+W003,ST051,Resume Building,Absent
+W003,ST052,Resume Building,Absent
+W003,ST053,Resume Building,Absent
+W003,ST054,Resume Building,Absent
+W003,ST055,Resume Building,Absent
+W003,ST056,Resume Building,Absent
+W003,ST057,Resume Building,Attended
+W003,ST058,Resume Building,Attended
+W003,ST059,Resume Building,Absent
+W003,ST060,Resume Building,Absent
+W003,ST061,Resume Building,Absent
+W003,ST062,Resume Building,Attended
+W003,ST063,Resume Building,Attended
+W003,ST064,Resume Building,Absent
+W003,ST065,Resume Building,Absent
+W003,ST066,Resume Building,Attended
+W003,ST067,Resume Building,Absent
+W003,ST068,Resume Building,Attended
+W003,ST069,Resume Building,Absent
+W003,ST070,Resume Building,Attended
+W003,ST071,Resume Building,Attended
+W003,ST072,Resume Building,Attended
+W003,ST073,Resume Building,Absent
+W003,ST074,Resume Building,Absent
+W003,ST075,Resume Building,Absent
+W003,ST076,Resume Building,Absent
+W003,ST077,Resume Building,Absent
+W003,ST078,Resume Building,Attended
+W003,ST079,Resume Building,Absent
+W003,ST080,Resume Building,Absent
+W003,ST081,Resume Building,Absent
+W003,ST082,Resume Building,Absent
+W003,ST083,Resume Building,Absent
+W003,ST084,Resume Building,Attended
+W003,ST085,Resume Building,Absent
+W003,ST086,Resume Building,Absent
+W003,ST087,Resume Building,Attended
+W003,ST088,Resume Building,Attended
+W003,ST089,Resume Building,Attended
+W003,ST090,Resume Building,Absent
+W003,ST091,Resume Building,Absent
+W003,ST092,Resume Building,Absent
+W003,ST093,Resume Building,Attended
+W003,ST094,Resume Building,Absent
+W003,ST095,Resume Building,Absent
+W003,ST096,Resume Building,Attended
+W003,ST097,Resume Building,Absent
+W003,ST098,Resume Building,Absent
+W003,ST099,Resume Building,Absent
+W003,ST100,Resume Building,Absent
+W003,ST101,Resume Building,Attended
+W003,ST102,Resume Building,Absent
+W003,ST103,Resume Building,Attended
+W003,ST104,Resume Building,Absent
+W003,ST105,Resume Building,Attended
+W003,ST106,Resume Building,Attended
+W003,ST107,Resume Building,Attended
+W003,ST108,Resume Building,Absent
+W003,ST109,Resume Building,Absent
+W003,ST110,Resume Building,Attended
+W003,ST111,Resume Building,Absent
+W003,ST112,Resume Building,Attended
+W003,ST113,Resume Building,Attended
+W003,ST114,Resume Building,Absent
+W003,ST115,Resume Building,Absent
+W003,ST116,Resume Building,Attended
+W003,ST117,Resume Building,Absent
+W003,ST118,Resume Building,Attended
+W003,ST119,Resume Building,Absent
+W003,ST120,Resume Building,Absent
+W003,ST121,Resume Building,Attended
+W003,ST122,Resume Building,Absent
+W003,ST123,Resume Building,Attended
+W003,ST124,Resume Building,Absent
+W003,ST125,Resume Building,Attended
+W003,ST126,Resume Building,Absent
+W003,ST127,Resume Building,Attended
+W003,ST128,Resume Building,Attended
+W003,ST129,Resume Building,Absent
+W003,ST130,Resume Building,Attended
+W003,ST131,Resume Building,Absent
+W003,ST132,Resume Building,Absent
+W003,ST133,Resume Building,Absent
+W003,ST134,Resume Building,Absent
+W003,ST135,Resume Building,Attended
+W003,ST136,Resume Building,Attended
+W003,ST137,Resume Building,Absent
+W003,ST138,Resume Building,Absent
+W003,ST139,Resume Building,Attended
+W003,ST140,Resume Building,Attended
+W003,ST141,Resume Building,Absent
+W003,ST142,Resume Building,Attended
+W003,ST143,Resume Building,Attended
+W003,ST144,Resume Building,Absent
+W003,ST145,Resume Building,Absent
+W003,ST146,Resume Building,Attended
+W003,ST147,Resume Building,Attended
+W003,ST148,Resume Building,Attended
+W003,ST149,Resume Building,Absent
+W003,ST150,Resume Building,Absent
+W003,ST151,Resume Building,Absent
+W003,ST152,Resume Building,Attended
+W003,ST153,Resume Building,Absent
+W003,ST154,Resume Building,Attended
+W003,ST155,Resume Building,Attended
+W003,ST156,Resume Building,Attended
+W003,ST157,Resume Building,Absent
+W003,ST158,Resume Building,Absent
+W003,ST159,Resume Building,Attended
+W003,ST160,Resume Building,Attended
+W003,ST161,Resume Building,Absent
+W003,ST162,Resume Building,Absent
+W003,ST163,Resume Building,Attended
+W003,ST164,Resume Building,Attended
+W003,ST165,Resume Building,Absent
+W003,ST166,Resume Building,Attended
+W003,ST167,Resume Building,Absent
+W003,ST168,Resume Building,Absent
+W003,ST169,Resume Building,Attended
+W003,ST170,Resume Building,Absent
+W003,ST171,Resume Building,Attended
+W003,ST172,Resume Building,Attended
+W003,ST173,Resume Building,Absent
+W003,ST174,Resume Building,Absent
+W003,ST175,Resume Building,Attended
+W003,ST176,Resume Building,Attended
+W003,ST177,Resume Building,Attended
+W003,ST178,Resume Building,Attended
+W003,ST179,Resume Building,Attended
+W003,ST180,Resume Building,Attended
+W003,ST181,Resume Building,Attended
+W003,ST182,Resume Building,Absent
+W003,ST183,Resume Building,Absent
+W003,ST184,Resume Building,Attended
+W003,ST185,Resume Building,Absent
+W003,ST186,Resume Building,Absent
+W003,ST187,Resume Building,Attended
+W003,ST188,Resume Building,Attended
+W003,ST189,Resume Building,Absent
+W003,ST190,Resume Building,Attended
+W003,ST191,Resume Building,Absent
+W003,ST192,Resume Building,Absent
+W003,ST193,Resume Building,Absent
+W003,ST194,Resume Building,Attended
+W003,ST195,Resume Building,Attended
+W003,ST196,Resume Building,Absent
+W003,ST197,Resume Building,Attended
+W003,ST198,Resume Building,Attended
+W003,ST199,Resume Building,Attended
+W003,ST200,Resume Building,Attended
+W003,ST201,Resume Building,Absent
+W003,ST202,Resume Building,Attended
+W003,ST203,Resume Building,Attended
+W003,ST204,Resume Building,Absent
+W003,ST205,Resume Building,Absent
+W003,ST206,Resume Building,Absent
+W003,ST207,Resume Building,Attended
+W003,ST208,Resume Building,Absent
+W003,ST209,Resume Building,Attended
+W003,ST210,Resume Building,Absent
+W003,ST211,Resume Building,Absent
+W003,ST212,Resume Building,Absent
+W003,ST213,Resume Building,Absent
+W003,ST214,Resume Building,Attended
+W003,ST215,Resume Building,Absent
+W003,ST216,Resume Building,Absent
+W003,ST217,Resume Building,Absent
+W003,ST218,Resume Building,Attended
+W003,ST219,Resume Building,Attended
+W003,ST220,Resume Building,Absent
+W003,ST221,Resume Building,Absent
+W003,ST222,Resume Building,Attended
+W003,ST223,Resume Building,Attended
+W003,ST224,Resume Building,Attended
+W003,ST225,Resume Building,Attended
+W003,ST226,Resume Building,Absent
+W003,ST227,Resume Building,Attended
+W003,ST228,Resume Building,Absent
+W003,ST229,Resume Building,Attended
+W003,ST230,Resume Building,Attended
+W003,ST231,Resume Building,Absent
+W003,ST232,Resume Building,Attended
+W003,ST233,Resume Building,Absent
+W003,ST234,Resume Building,Absent
+W003,ST235,Resume Building,Absent
+W003,ST236,Resume Building,Attended
+W003,ST237,Resume Building,Absent
+W003,ST238,Resume Building,Absent
+W003,ST239,Resume Building,Absent
+W003,ST240,Resume Building,Attended
+W003,ST241,Resume Building,Absent
+W003,ST242,Resume Building,Attended
+W003,ST243,Resume Building,Attended
+W003,ST244,Resume Building,Attended
+W003,ST245,Resume Building,Absent
+W003,ST246,Resume Building,Absent
+W003,ST247,Resume Building,Attended
+W003,ST248,Resume Building,Attended
+W003,ST249,Resume Building,Attended
+W003,ST250,Resume Building,Attended
+W003,ST251,Resume Building,Attended
+W003,ST252,Resume Building,Attended
+W003,ST253,Resume Building,Absent
+W003,ST254,Resume Building,Attended
+W003,ST255,Resume Building,Absent
+W003,ST256,Resume Building,Attended
+W003,ST257,Resume Building,Attended
+W003,ST258,Resume Building,Absent
+W003,ST259,Resume Building,Attended
+W003,ST260,Resume Building,Absent
+W003,ST261,Resume Building,Absent
+W003,ST262,Resume Building,Absent
+W003,ST263,Resume Building,Attended
+W003,ST264,Resume Building,Attended
+W003,ST265,Resume Building,Absent
+W003,ST266,Resume Building,Absent
+W003,ST267,Resume Building,Absent
+W003,ST268,Resume Building,Absent
+W003,ST269,Resume Building,Absent
+W003,ST270,Resume Building,Absent
+W003,ST271,Resume Building,Attended
+W003,ST272,Resume Building,Attended
+W003,ST273,Resume Building,Absent
+W003,ST274,Resume Building,Absent
+W003,ST275,Resume Building,Absent
+W003,ST276,Resume Building,Attended
+W003,ST277,Resume Building,Absent
+W003,ST278,Resume Building,Attended
+W003,ST279,Resume Building,Attended
+W003,ST280,Resume Building,Absent
+W003,ST281,Resume Building,Absent
+W003,ST282,Resume Building,Attended
+W003,ST283,Resume Building,Attended
+W003,ST284,Resume Building,Absent
+W003,ST285,Resume Building,Attended
+W003,ST286,Resume Building,Attended
+W003,ST287,Resume Building,Absent
+W003,ST288,Resume Building,Absent
+W003,ST289,Resume Building,Attended
+W003,ST290,Resume Building,Absent
+W003,ST291,Resume Building,Absent
+W003,ST292,Resume Building,Absent
+W003,ST293,Resume Building,Absent
+W003,ST294,Resume Building,Attended
+W003,ST295,Resume Building,Attended
+W003,ST296,Resume Building,Absent
+W003,ST297,Resume Building,Absent
+W003,ST298,Resume Building,Attended
+W003,ST299,Resume Building,Attended
+W003,ST300,Resume Building,Absent
+W003,ST301,Resume Building,Absent
+W003,ST302,Resume Building,Absent
+W003,ST303,Resume Building,Attended
+W003,ST304,Resume Building,Absent
+W003,ST305,Resume Building,Absent
+W003,ST306,Resume Building,Attended
+W003,ST307,Resume Building,Attended
+W003,ST308,Resume Building,Attended
+W003,ST309,Resume Building,Absent
+W003,ST310,Resume Building,Attended
+W003,ST311,Resume Building,Absent
+W003,ST312,Resume Building,Absent
+W003,ST313,Resume Building,Attended
+W003,ST314,Resume Building,Absent
+W003,ST315,Resume Building,Absent
+W003,ST316,Resume Building,Absent
+W003,ST317,Resume Building,Attended
+W003,ST318,Resume Building,Attended
+W003,ST319,Resume Building,Attended
+W003,ST320,Resume Building,Absent
+W003,ST321,Resume Building,Absent
+W003,ST322,Resume Building,Absent
+W003,ST323,Resume Building,Absent
+W003,ST324,Resume Building,Absent
+W003,ST325,Resume Building,Absent
+W003,ST326,Resume Building,Attended
+W003,ST327,Resume Building,Absent
+W003,ST328,Resume Building,Attended
+W003,ST329,Resume Building,Absent
+W003,ST330,Resume Building,Absent
+W003,ST331,Resume Building,Absent
+W003,ST332,Resume Building,Absent
+W003,ST333,Resume Building,Attended
+W003,ST334,Resume Building,Attended
+W003,ST335,Resume Building,Absent
+W003,ST336,Resume Building,Absent
+W003,ST337,Resume Building,Attended
+W003,ST338,Resume Building,Attended
+W003,ST339,Resume Building,Absent
+W003,ST340,Resume Building,Absent
+W003,ST341,Resume Building,Attended
+W003,ST342,Resume Building,Absent
+W003,ST343,Resume Building,Attended
+W003,ST344,Resume Building,Absent
+W003,ST345,Resume Building,Absent
+W003,ST346,Resume Building,Attended
+W003,ST347,Resume Building,Attended
+W003,ST348,Resume Building,Absent
+W003,ST349,Resume Building,Absent
+W003,ST350,Resume Building,Attended
+W003,ST351,Resume Building,Attended
+W003,ST352,Resume Building,Attended
+W003,ST353,Resume Building,Attended
+W003,ST354,Resume Building,Absent
+W003,ST355,Resume Building,Absent
+W003,ST356,Resume Building,Absent
+W003,ST357,Resume Building,Absent
+W003,ST358,Resume Building,Attended
+W003,ST359,Resume Building,Absent
+W003,ST360,Resume Building,Attended
+W003,ST361,Resume Building,Absent
+W003,ST362,Resume Building,Attended
+W003,ST363,Resume Building,Attended
+W003,ST364,Resume Building,Attended
+W003,ST365,Resume Building,Attended
+W003,ST366,Resume Building,Absent
+W003,ST367,Resume Building,Absent
+W003,ST368,Resume Building,Attended
+W003,ST369,Resume Building,Absent
+W003,ST370,Resume Building,Absent
+W003,ST371,Resume Building,Absent
+W003,ST372,Resume Building,Absent
+W003,ST373,Resume Building,Absent
+W003,ST374,Resume Building,Absent
+W003,ST375,Resume Building,Attended
+W003,ST376,Resume Building,Absent
+W003,ST377,Resume Building,Attended
+W003,ST378,Resume Building,Absent
+W003,ST379,Resume Building,Absent
+W003,ST380,Resume Building,Attended
+W003,ST381,Resume Building,Attended
+W003,ST382,Resume Building,Absent
+W003,ST383,Resume Building,Absent
+W003,ST384,Resume Building,Attended
+W003,ST385,Resume Building,Attended
+W003,ST386,Resume Building,Absent
+W003,ST387,Resume Building,Absent
+W003,ST388,Resume Building,Absent
+W003,ST389,Resume Building,Attended
+W003,ST390,Resume Building,Absent
+W003,ST391,Resume Building,Attended
+W003,ST392,Resume Building,Absent
+W003,ST393,Resume Building,Absent
+W003,ST394,Resume Building,Attended
+W003,ST395,Resume Building,Absent
+W003,ST396,Resume Building,Attended
+W003,ST397,Resume Building,Absent
+W003,ST398,Resume Building,Attended
+W003,ST399,Resume Building,Attended
+W003,ST400,Resume Building,Absent
+W003,ST401,Resume Building,Absent
+W003,ST402,Resume Building,Attended
+W003,ST403,Resume Building,Absent
+W003,ST404,Resume Building,Attended
+W003,ST405,Resume Building,Attended
+W003,ST406,Resume Building,Absent
+W003,ST407,Resume Building,Absent
+W003,ST408,Resume Building,Absent
+W003,ST409,Resume Building,Attended
+W003,ST410,Resume Building,Absent
+W003,ST411,Resume Building,Absent
+W003,ST412,Resume Building,Attended
+W003,ST413,Resume Building,Absent
+W003,ST414,Resume Building,Attended
+W003,ST415,Resume Building,Absent
+W003,ST416,Resume Building,Attended
+W003,ST417,Resume Building,Attended
+W003,ST418,Resume Building,Absent
+W003,ST419,Resume Building,Absent
+W003,ST420,Resume Building,Attended
+W003,ST421,Resume Building,Attended
+W003,ST422,Resume Building,Absent
+W003,ST423,Resume Building,Absent
+W003,ST424,Resume Building,Absent
+W003,ST425,Resume Building,Attended
+W003,ST426,Resume Building,Absent
+W003,ST427,Resume Building,Absent
+W003,ST428,Resume Building,Attended
+W003,ST429,Resume Building,Absent
+W003,ST430,Resume Building,Attended
+W003,ST431,Resume Building,Attended
+W003,ST432,Resume Building,Absent
+W003,ST433,Resume Building,Absent
+W003,ST434,Resume Building,Attended
+W003,ST435,Resume Building,Attended
+W003,ST436,Resume Building,Absent
+W003,ST437,Resume Building,Absent
+W003,ST438,Resume Building,Attended
+W003,ST439,Resume Building,Absent
+W003,ST440,Resume Building,Absent
+W003,ST441,Resume Building,Attended
+W003,ST442,Resume Building,Attended
+W003,ST443,Resume Building,Absent
+W003,ST444,Resume Building,Absent
+W003,ST445,Resume Building,Absent
+W003,ST446,Resume Building,Attended
+W003,ST447,Resume Building,Attended
+W003,ST448,Resume Building,Absent
+W003,ST449,Resume Building,Absent
+W003,ST450,Resume Building,Attended
+W003,ST451,Resume Building,Attended
+W003,ST452,Resume Building,Absent
+W003,ST453,Resume Building,Absent
+W003,ST454,Resume Building,Absent
+W003,ST455,Resume Building,Attended
+W003,ST456,Resume Building,Attended
+W003,ST457,Resume Building,Absent
+W003,ST458,Resume Building,Absent
+W003,ST459,Resume Building,Attended
+W003,ST460,Resume Building,Absent
+W003,ST461,Resume Building,Attended
+W003,ST462,Resume Building,Attended
+W003,ST463,Resume Building,Absent
+W003,ST464,Resume Building,Attended
+W003,ST465,Resume Building,Attended
+W003,ST466,Resume Building,Attended
+W003,ST467,Resume Building,Absent
+W003,ST468,Resume Building,Absent
+W003,ST469,Resume Building,Attended
+W003,ST470,Resume Building,Absent
+W003,ST471,Resume Building,Absent
+W003,ST472,Resume Building,Absent
+W003,ST473,Resume Building,Absent
+W003,ST474,Resume Building,Attended
+W003,ST475,Resume Building,Absent
+W003,ST476,Resume Building,Absent
+W003,ST477,Resume Building,Attended
+W003,ST478,Resume Building,Absent
+W003,ST479,Resume Building,Absent
+W003,ST480,Resume Building,Absent
+W003,ST481,Resume Building,Attended
+W003,ST482,Resume Building,Attended
+W003,ST483,Resume Building,Attended
+W003,ST484,Resume Building,Attended
+W003,ST485,Resume Building,Absent
+W003,ST486,Resume Building,Absent
+W003,ST487,Resume Building,Attended
+W003,ST488,Resume Building,Absent
+W003,ST489,Resume Building,Absent
+W003,ST490,Resume Building,Absent
+W003,ST491,Resume Building,Absent
+W003,ST492,Resume Building,Attended
+W003,ST493,Resume Building,Attended
+W003,ST494,Resume Building,Absent
+W003,ST495,Resume Building,Attended
+W003,ST496,Resume Building,Attended
+W003,ST497,Resume Building,Attended
+W003,ST498,Resume Building,Absent
+W003,ST499,Resume Building,Attended
+W003,ST500,Resume Building,Attended
+W004,ST001,Interview Preparation,Attended
+W004,ST002,Interview Preparation,Absent
+W004,ST003,Interview Preparation,Attended
+W004,ST004,Interview Preparation,Attended
+W004,ST005,Interview Preparation,Attended
+W004,ST006,Interview Preparation,Attended
+W004,ST007,Interview Preparation,Absent
+W004,ST008,Interview Preparation,Absent
+W004,ST009,Interview Preparation,Absent
+W004,ST010,Interview Preparation,Absent
+W004,ST011,Interview Preparation,Absent
+W004,ST012,Interview Preparation,Absent
+W004,ST013,Interview Preparation,Attended
+W004,ST014,Interview Preparation,Absent
+W004,ST015,Interview Preparation,Attended
+W004,ST016,Interview Preparation,Absent
+W004,ST017,Interview Preparation,Absent
+W004,ST018,Interview Preparation,Absent
+W004,ST019,Interview Preparation,Attended
+W004,ST020,Interview Preparation,Absent
+W004,ST021,Interview Preparation,Attended
+W004,ST022,Interview Preparation,Attended
+W004,ST023,Interview Preparation,Attended
+W004,ST024,Interview Preparation,Absent
+W004,ST025,Interview Preparation,Absent
+W004,ST026,Interview Preparation,Attended
+W004,ST027,Interview Preparation,Attended
+W004,ST028,Interview Preparation,Absent
+W004,ST029,Interview Preparation,Absent
+W004,ST030,Interview Preparation,Absent
+W004,ST031,Interview Preparation,Absent
+W004,ST032,Interview Preparation,Attended
+W004,ST033,Interview Preparation,Attended
+W004,ST034,Interview Preparation,Attended
+W004,ST035,Interview Preparation,Attended
+W004,ST036,Interview Preparation,Attended
+W004,ST037,Interview Preparation,Absent
+W004,ST038,Interview Preparation,Absent
+W004,ST039,Interview Preparation,Attended
+W004,ST040,Interview Preparation,Attended
+W004,ST041,Interview Preparation,Attended
+W004,ST042,Interview Preparation,Absent
+W004,ST043,Interview Preparation,Attended
+W004,ST044,Interview Preparation,Absent
+W004,ST045,Interview Preparation,Absent
+W004,ST046,Interview Preparation,Absent
+W004,ST047,Interview Preparation,Attended
+W004,ST048,Interview Preparation,Attended
+W004,ST049,Interview Preparation,Absent
+W004,ST050,Interview Preparation,Attended
+W004,ST051,Interview Preparation,Absent
+W004,ST052,Interview Preparation,Attended
+W004,ST053,Interview Preparation,Absent
+W004,ST054,Interview Preparation,Attended
+W004,ST055,Interview Preparation,Absent
+W004,ST056,Interview Preparation,Absent
+W004,ST057,Interview Preparation,Attended
+W004,ST058,Interview Preparation,Absent
+W004,ST059,Interview Preparation,Attended
+W004,ST060,Interview Preparation,Attended
+W004,ST061,Interview Preparation,Attended
+W004,ST062,Interview Preparation,Absent
+W004,ST063,Interview Preparation,Attended
+W004,ST064,Interview Preparation,Attended
+W004,ST065,Interview Preparation,Absent
+W004,ST066,Interview Preparation,Attended
+W004,ST067,Interview Preparation,Attended
+W004,ST068,Interview Preparation,Attended
+W004,ST069,Interview Preparation,Absent
+W004,ST070,Interview Preparation,Attended
+W004,ST071,Interview Preparation,Absent
+W004,ST072,Interview Preparation,Attended
+W004,ST073,Interview Preparation,Absent
+W004,ST074,Interview Preparation,Attended
+W004,ST075,Interview Preparation,Absent
+W004,ST076,Interview Preparation,Absent
+W004,ST077,Interview Preparation,Attended
+W004,ST078,Interview Preparation,Absent
+W004,ST079,Interview Preparation,Absent
+W004,ST080,Interview Preparation,Absent
+W004,ST081,Interview Preparation,Absent
+W004,ST082,Interview Preparation,Absent
+W004,ST083,Interview Preparation,Absent
+W004,ST084,Interview Preparation,Attended
+W004,ST085,Interview Preparation,Attended
+W004,ST086,Interview Preparation,Absent
+W004,ST087,Interview Preparation,Absent
+W004,ST088,Interview Preparation,Absent
+W004,ST089,Interview Preparation,Attended
+W004,ST090,Interview Preparation,Absent
+W004,ST091,Interview Preparation,Attended
+W004,ST092,Interview Preparation,Attended
+W004,ST093,Interview Preparation,Attended
+W004,ST094,Interview Preparation,Absent
+W004,ST095,Interview Preparation,Absent
+W004,ST096,Interview Preparation,Attended
+W004,ST097,Interview Preparation,Absent
+W004,ST098,Interview Preparation,Absent
+W004,ST099,Interview Preparation,Attended
+W004,ST100,Interview Preparation,Attended
+W004,ST101,Interview Preparation,Attended
+W004,ST102,Interview Preparation,Absent
+W004,ST103,Interview Preparation,Absent
+W004,ST104,Interview Preparation,Absent
+W004,ST105,Interview Preparation,Absent
+W004,ST106,Interview Preparation,Attended
+W004,ST107,Interview Preparation,Attended
+W004,ST108,Interview Preparation,Attended
+W004,ST109,Interview Preparation,Absent
+W004,ST110,Interview Preparation,Absent
+W004,ST111,Interview Preparation,Absent
+W004,ST112,Interview Preparation,Attended
+W004,ST113,Interview Preparation,Absent
+W004,ST114,Interview Preparation,Absent
+W004,ST115,Interview Preparation,Absent
+W004,ST116,Interview Preparation,Attended
+W004,ST117,Interview Preparation,Attended
+W004,ST118,Interview Preparation,Absent
+W004,ST119,Interview Preparation,Attended
+W004,ST120,Interview Preparation,Absent
+W004,ST121,Interview Preparation,Attended
+W004,ST122,Interview Preparation,Attended
+W004,ST123,Interview Preparation,Attended
+W004,ST124,Interview Preparation,Absent
+W004,ST125,Interview Preparation,Absent
+W004,ST126,Interview Preparation,Absent
+W004,ST127,Interview Preparation,Attended
+W004,ST128,Interview Preparation,Absent
+W004,ST129,Interview Preparation,Absent
+W004,ST130,Interview Preparation,Absent
+W004,ST131,Interview Preparation,Absent
+W004,ST132,Interview Preparation,Absent
+W004,ST133,Interview Preparation,Absent
+W004,ST134,Interview Preparation,Attended
+W004,ST135,Interview Preparation,Absent
+W004,ST136,Interview Preparation,Attended
+W004,ST137,Interview Preparation,Attended
+W004,ST138,Interview Preparation,Attended
+W004,ST139,Interview Preparation,Absent
+W004,ST140,Interview Preparation,Absent
+W004,ST141,Interview Preparation,Attended
+W004,ST142,Interview Preparation,Absent
+W004,ST143,Interview Preparation,Attended
+W004,ST144,Interview Preparation,Absent
+W004,ST145,Interview Preparation,Attended
+W004,ST146,Interview Preparation,Attended
+W004,ST147,Interview Preparation,Absent
+W004,ST148,Interview Preparation,Attended
+W004,ST149,Interview Preparation,Absent
+W004,ST150,Interview Preparation,Absent
+W004,ST151,Interview Preparation,Absent
+W004,ST152,Interview Preparation,Attended
+W004,ST153,Interview Preparation,Absent
+W004,ST154,Interview Preparation,Absent
+W004,ST155,Interview Preparation,Attended
+W004,ST156,Interview Preparation,Attended
+W004,ST157,Interview Preparation,Absent
+W004,ST158,Interview Preparation,Absent
+W004,ST159,Interview Preparation,Absent
+W004,ST160,Interview Preparation,Attended
+W004,ST161,Interview Preparation,Absent
+W004,ST162,Interview Preparation,Attended
+W004,ST163,Interview Preparation,Absent
+W004,ST164,Interview Preparation,Attended
+W004,ST165,Interview Preparation,Absent
+W004,ST166,Interview Preparation,Absent
+W004,ST167,Interview Preparation,Attended
+W004,ST168,Interview Preparation,Attended
+W004,ST169,Interview Preparation,Attended
+W004,ST170,Interview Preparation,Absent
+W004,ST171,Interview Preparation,Attended
+W004,ST172,Interview Preparation,Attended
+W004,ST173,Interview Preparation,Absent
+W004,ST174,Interview Preparation,Absent
+W004,ST175,Interview Preparation,Attended
+W004,ST176,Interview Preparation,Absent
+W004,ST177,Interview Preparation,Attended
+W004,ST178,Interview Preparation,Absent
+W004,ST179,Interview Preparation,Attended
+W004,ST180,Interview Preparation,Attended
+W004,ST181,Interview Preparation,Attended
+W004,ST182,Interview Preparation,Absent
+W004,ST183,Interview Preparation,Absent
+W004,ST184,Interview Preparation,Attended
+W004,ST185,Interview Preparation,Absent
+W004,ST186,Interview Preparation,Absent
+W004,ST187,Interview Preparation,Absent
+W004,ST188,Interview Preparation,Attended
+W004,ST189,Interview Preparation,Attended
+W004,ST190,Interview Preparation,Attended
+W004,ST191,Interview Preparation,Attended
+W004,ST192,Interview Preparation,Absent
+W004,ST193,Interview Preparation,Absent
+W004,ST194,Interview Preparation,Attended
+W004,ST195,Interview Preparation,Absent
+W004,ST196,Interview Preparation,Attended
+W004,ST197,Interview Preparation,Attended
+W004,ST198,Interview Preparation,Attended
+W004,ST199,Interview Preparation,Absent
+W004,ST200,Interview Preparation,Attended
+W004,ST201,Interview Preparation,Absent
+W004,ST202,Interview Preparation,Attended
+W004,ST203,Interview Preparation,Absent
+W004,ST204,Interview Preparation,Absent
+W004,ST205,Interview Preparation,Absent
+W004,ST206,Interview Preparation,Attended
+W004,ST207,Interview Preparation,Attended
+W004,ST208,Interview Preparation,Absent
+W004,ST209,Interview Preparation,Attended
+W004,ST210,Interview Preparation,Attended
+W004,ST211,Interview Preparation,Absent
+W004,ST212,Interview Preparation,Absent
+W004,ST213,Interview Preparation,Attended
+W004,ST214,Interview Preparation,Attended
+W004,ST215,Interview Preparation,Attended
+W004,ST216,Interview Preparation,Absent
+W004,ST217,Interview Preparation,Absent
+W004,ST218,Interview Preparation,Attended
+W004,ST219,Interview Preparation,Attended
+W004,ST220,Interview Preparation,Absent
+W004,ST221,Interview Preparation,Attended
+W004,ST222,Interview Preparation,Absent
+W004,ST223,Interview Preparation,Attended
+W004,ST224,Interview Preparation,Attended
+W004,ST225,Interview Preparation,Attended
+W004,ST226,Interview Preparation,Absent
+W004,ST227,Interview Preparation,Attended
+W004,ST228,Interview Preparation,Absent
+W004,ST229,Interview Preparation,Attended
+W004,ST230,Interview Preparation,Attended
+W004,ST231,Interview Preparation,Attended
+W004,ST232,Interview Preparation,Absent
+W004,ST233,Interview Preparation,Absent
+W004,ST234,Interview Preparation,Absent
+W004,ST235,Interview Preparation,Attended
+W004,ST236,Interview Preparation,Attended
+W004,ST237,Interview Preparation,Absent
+W004,ST238,Interview Preparation,Absent
+W004,ST239,Interview Preparation,Absent
+W004,ST240,Interview Preparation,Attended
+W004,ST241,Interview Preparation,Attended
+W004,ST242,Interview Preparation,Absent
+W004,ST243,Interview Preparation,Attended
+W004,ST244,Interview Preparation,Absent
+W004,ST245,Interview Preparation,Attended
+W004,ST246,Interview Preparation,Absent
+W004,ST247,Interview Preparation,Absent
+W004,ST248,Interview Preparation,Absent
+W004,ST249,Interview Preparation,Absent
+W004,ST250,Interview Preparation,Absent
+W004,ST251,Interview Preparation,Absent
+W004,ST252,Interview Preparation,Absent
+W004,ST253,Interview Preparation,Attended
+W004,ST254,Interview Preparation,Attended
+W004,ST255,Interview Preparation,Absent
+W004,ST256,Interview Preparation,Attended
+W004,ST257,Interview Preparation,Attended
+W004,ST258,Interview Preparation,Attended
+W004,ST259,Interview Preparation,Attended
+W004,ST260,Interview Preparation,Attended
+W004,ST261,Interview Preparation,Attended
+W004,ST262,Interview Preparation,Absent
+W004,ST263,Interview Preparation,Absent
+W004,ST264,Interview Preparation,Attended
+W004,ST265,Interview Preparation,Attended
+W004,ST266,Interview Preparation,Attended
+W004,ST267,Interview Preparation,Attended
+W004,ST268,Interview Preparation,Attended
+W004,ST269,Interview Preparation,Absent
+W004,ST270,Interview Preparation,Absent
+W004,ST271,Interview Preparation,Attended
+W004,ST272,Interview Preparation,Attended
+W004,ST273,Interview Preparation,Absent
+W004,ST274,Interview Preparation,Absent
+W004,ST275,Interview Preparation,Attended
+W004,ST276,Interview Preparation,Attended
+W004,ST277,Interview Preparation,Attended
+W004,ST278,Interview Preparation,Absent
+W004,ST279,Interview Preparation,Attended
+W004,ST280,Interview Preparation,Attended
+W004,ST281,Interview Preparation,Absent
+W004,ST282,Interview Preparation,Absent
+W004,ST283,Interview Preparation,Attended
+W004,ST284,Interview Preparation,Attended
+W004,ST285,Interview Preparation,Absent
+W004,ST286,Interview Preparation,Attended
+W004,ST287,Interview Preparation,Absent
+W004,ST288,Interview Preparation,Absent
+W004,ST289,Interview Preparation,Attended
+W004,ST290,Interview Preparation,Absent
+W004,ST291,Interview Preparation,Attended
+W004,ST292,Interview Preparation,Absent
+W004,ST293,Interview Preparation,Attended
+W004,ST294,Interview Preparation,Absent
+W004,ST295,Interview Preparation,Attended
+W004,ST296,Interview Preparation,Attended
+W004,ST297,Interview Preparation,Absent
+W004,ST298,Interview Preparation,Attended
+W004,ST299,Interview Preparation,Absent
+W004,ST300,Interview Preparation,Absent
+W004,ST301,Interview Preparation,Absent
+W004,ST302,Interview Preparation,Absent
+W004,ST303,Interview Preparation,Attended
+W004,ST304,Interview Preparation,Absent
+W004,ST305,Interview Preparation,Attended
+W004,ST306,Interview Preparation,Attended
+W004,ST307,Interview Preparation,Attended
+W004,ST308,Interview Preparation,Absent
+W004,ST309,Interview Preparation,Absent
+W004,ST310,Interview Preparation,Attended
+W004,ST311,Interview Preparation,Absent
+W004,ST312,Interview Preparation,Attended
+W004,ST313,Interview Preparation,Attended
+W004,ST314,Interview Preparation,Attended
+W004,ST315,Interview Preparation,Attended
+W004,ST316,Interview Preparation,Absent
+W004,ST317,Interview Preparation,Attended
+W004,ST318,Interview Preparation,Attended
+W004,ST319,Interview Preparation,Attended
+W004,ST320,Interview Preparation,Absent
+W004,ST321,Interview Preparation,Attended
+W004,ST322,Interview Preparation,Attended
+W004,ST323,Interview Preparation,Attended
+W004,ST324,Interview Preparation,Attended
+W004,ST325,Interview Preparation,Attended
+W004,ST326,Interview Preparation,Absent
+W004,ST327,Interview Preparation,Absent
+W004,ST328,Interview Preparation,Attended
+W004,ST329,Interview Preparation,Absent
+W004,ST330,Interview Preparation,Absent
+W004,ST331,Interview Preparation,Absent
+W004,ST332,Interview Preparation,Attended
+W004,ST333,Interview Preparation,Attended
+W004,ST334,Interview Preparation,Attended
+W004,ST335,Interview Preparation,Attended
+W004,ST336,Interview Preparation,Absent
+W004,ST337,Interview Preparation,Attended
+W004,ST338,Interview Preparation,Attended
+W004,ST339,Interview Preparation,Attended
+W004,ST340,Interview Preparation,Attended
+W004,ST341,Interview Preparation,Absent
+W004,ST342,Interview Preparation,Absent
+W004,ST343,Interview Preparation,Attended
+W004,ST344,Interview Preparation,Attended
+W004,ST345,Interview Preparation,Absent
+W004,ST346,Interview Preparation,Absent
+W004,ST347,Interview Preparation,Attended
+W004,ST348,Interview Preparation,Absent
+W004,ST349,Interview Preparation,Attended
+W004,ST350,Interview Preparation,Attended
+W004,ST351,Interview Preparation,Attended
+W004,ST352,Interview Preparation,Attended
+W004,ST353,Interview Preparation,Absent
+W004,ST354,Interview Preparation,Absent
+W004,ST355,Interview Preparation,Attended
+W004,ST356,Interview Preparation,Absent
+W004,ST357,Interview Preparation,Absent
+W004,ST358,Interview Preparation,Attended
+W004,ST359,Interview Preparation,Attended
+W004,ST360,Interview Preparation,Absent
+W004,ST361,Interview Preparation,Absent
+W004,ST362,Interview Preparation,Attended
+W004,ST363,Interview Preparation,Absent
+W004,ST364,Interview Preparation,Attended
+W004,ST365,Interview Preparation,Absent
+W004,ST366,Interview Preparation,Attended
+W004,ST367,Interview Preparation,Absent
+W004,ST368,Interview Preparation,Attended
+W004,ST369,Interview Preparation,Absent
+W004,ST370,Interview Preparation,Absent
+W004,ST371,Interview Preparation,Absent
+W004,ST372,Interview Preparation,Absent
+W004,ST373,Interview Preparation,Attended
+W004,ST374,Interview Preparation,Absent
+W004,ST375,Interview Preparation,Attended
+W004,ST376,Interview Preparation,Absent
+W004,ST377,Interview Preparation,Absent
+W004,ST378,Interview Preparation,Attended
+W004,ST379,Interview Preparation,Absent
+W004,ST380,Interview Preparation,Attended
+W004,ST381,Interview Preparation,Attended
+W004,ST382,Interview Preparation,Absent
+W004,ST383,Interview Preparation,Absent
+W004,ST384,Interview Preparation,Attended
+W004,ST385,Interview Preparation,Attended
+W004,ST386,Interview Preparation,Attended
+W004,ST387,Interview Preparation,Absent
+W004,ST388,Interview Preparation,Absent
+W004,ST389,Interview Preparation,Attended
+W004,ST390,Interview Preparation,Attended
+W004,ST391,Interview Preparation,Attended
+W004,ST392,Interview Preparation,Absent
+W004,ST393,Interview Preparation,Attended
+W004,ST394,Interview Preparation,Attended
+W004,ST395,Interview Preparation,Attended
+W004,ST396,Interview Preparation,Absent
+W004,ST397,Interview Preparation,Absent
+W004,ST398,Interview Preparation,Attended
+W004,ST399,Interview Preparation,Attended
+W004,ST400,Interview Preparation,Absent
+W004,ST401,Interview Preparation,Absent
+W004,ST402,Interview Preparation,Absent
+W004,ST403,Interview Preparation,Absent
+W004,ST404,Interview Preparation,Attended
+W004,ST405,Interview Preparation,Attended
+W004,ST406,Interview Preparation,Absent
+W004,ST407,Interview Preparation,Attended
+W004,ST408,Interview Preparation,Attended
+W004,ST409,Interview Preparation,Attended
+W004,ST410,Interview Preparation,Absent
+W004,ST411,Interview Preparation,Absent
+W004,ST412,Interview Preparation,Attended
+W004,ST413,Interview Preparation,Absent
+W004,ST414,Interview Preparation,Attended
+W004,ST415,Interview Preparation,Attended
+W004,ST416,Interview Preparation,Attended
+W004,ST417,Interview Preparation,Absent
+W004,ST418,Interview Preparation,Attended
+W004,ST419,Interview Preparation,Absent
+W004,ST420,Interview Preparation,Attended
+W004,ST421,Interview Preparation,Attended
+W004,ST422,Interview Preparation,Attended
+W004,ST423,Interview Preparation,Absent
+W004,ST424,Interview Preparation,Attended
+W004,ST425,Interview Preparation,Attended
+W004,ST426,Interview Preparation,Absent
+W004,ST427,Interview Preparation,Attended
+W004,ST428,Interview Preparation,Attended
+W004,ST429,Interview Preparation,Attended
+W004,ST430,Interview Preparation,Attended
+W004,ST431,Interview Preparation,Attended
+W004,ST432,Interview Preparation,Absent
+W004,ST433,Interview Preparation,Absent
+W004,ST434,Interview Preparation,Attended
+W004,ST435,Interview Preparation,Absent
+W004,ST436,Interview Preparation,Attended
+W004,ST437,Interview Preparation,Absent
+W004,ST438,Interview Preparation,Attended
+W004,ST439,Interview Preparation,Absent
+W004,ST440,Interview Preparation,Attended
+W004,ST441,Interview Preparation,Absent
+W004,ST442,Interview Preparation,Attended
+W004,ST443,Interview Preparation,Attended
+W004,ST444,Interview Preparation,Attended
+W004,ST445,Interview Preparation,Attended
+W004,ST446,Interview Preparation,Absent
+W004,ST447,Interview Preparation,Attended
+W004,ST448,Interview Preparation,Absent
+W004,ST449,Interview Preparation,Attended
+W004,ST450,Interview Preparation,Absent
+W004,ST451,Interview Preparation,Attended
+W004,ST452,Interview Preparation,Absent
+W004,ST453,Interview Preparation,Attended
+W004,ST454,Interview Preparation,Absent
+W004,ST455,Interview Preparation,Absent
+W004,ST456,Interview Preparation,Absent
+W004,ST457,Interview Preparation,Absent
+W004,ST458,Interview Preparation,Absent
+W004,ST459,Interview Preparation,Absent
+W004,ST460,Interview Preparation,Absent
+W004,ST461,Interview Preparation,Absent
+W004,ST462,Interview Preparation,Absent
+W004,ST463,Interview Preparation,Attended
+W004,ST464,Interview Preparation,Attended
+W004,ST465,Interview Preparation,Attended
+W004,ST466,Interview Preparation,Attended
+W004,ST467,Interview Preparation,Attended
+W004,ST468,Interview Preparation,Attended
+W004,ST469,Interview Preparation,Attended
+W004,ST470,Interview Preparation,Attended
+W004,ST471,Interview Preparation,Absent
+W004,ST472,Interview Preparation,Absent
+W004,ST473,Interview Preparation,Attended
+W004,ST474,Interview Preparation,Attended
+W004,ST475,Interview Preparation,Absent
+W004,ST476,Interview Preparation,Attended
+W004,ST477,Interview Preparation,Attended
+W004,ST478,Interview Preparation,Absent
+W004,ST479,Interview Preparation,Attended
+W004,ST480,Interview Preparation,Attended
+W004,ST481,Interview Preparation,Absent
+W004,ST482,Interview Preparation,Attended
+W004,ST483,Interview Preparation,Attended
+W004,ST484,Interview Preparation,Absent
+W004,ST485,Interview Preparation,Attended
+W004,ST486,Interview Preparation,Absent
+W004,ST487,Interview Preparation,Absent
+W004,ST488,Interview Preparation,Absent
+W004,ST489,Interview Preparation,Attended
+W004,ST490,Interview Preparation,Absent
+W004,ST491,Interview Preparation,Absent
+W004,ST492,Interview Preparation,Attended
+W004,ST493,Interview Preparation,Absent
+W004,ST494,Interview Preparation,Absent
+W004,ST495,Interview Preparation,Attended
+W004,ST496,Interview Preparation,Attended
+W004,ST497,Interview Preparation,Attended
+W004,ST498,Interview Preparation,Absent
+W004,ST499,Interview Preparation,Attended
+W004,ST500,Interview Preparation,Attended
+W005,ST001,Power BI Masterclass,Attended
+W005,ST002,Power BI Masterclass,Absent
+W005,ST003,Power BI Masterclass,Attended
+W005,ST004,Power BI Masterclass,Attended
+W005,ST005,Power BI Masterclass,Attended
+W005,ST006,Power BI Masterclass,Absent
+W005,ST007,Power BI Masterclass,Absent
+W005,ST008,Power BI Masterclass,Absent
+W005,ST009,Power BI Masterclass,Absent
+W005,ST010,Power BI Masterclass,Attended
+W005,ST011,Power BI Masterclass,Attended
+W005,ST012,Power BI Masterclass,Absent
+W005,ST013,Power BI Masterclass,Absent
+W005,ST014,Power BI Masterclass,Absent
+W005,ST015,Power BI Masterclass,Attended
+W005,ST016,Power BI Masterclass,Attended
+W005,ST017,Power BI Masterclass,Absent
+W005,ST018,Power BI Masterclass,Absent
+W005,ST019,Power BI Masterclass,Absent
+W005,ST020,Power BI Masterclass,Absent
+W005,ST021,Power BI Masterclass,Attended
+W005,ST022,Power BI Masterclass,Attended
+W005,ST023,Power BI Masterclass,Attended
+W005,ST024,Power BI Masterclass,Absent
+W005,ST025,Power BI Masterclass,Absent
+W005,ST026,Power BI Masterclass,Absent
+W005,ST027,Power BI Masterclass,Attended
+W005,ST028,Power BI Masterclass,Absent
+W005,ST029,Power BI Masterclass,Attended
+W005,ST030,Power BI Masterclass,Absent
+W005,ST031,Power BI Masterclass,Attended
+W005,ST032,Power BI Masterclass,Absent
+W005,ST033,Power BI Masterclass,Attended
+W005,ST034,Power BI Masterclass,Attended
+W005,ST035,Power BI Masterclass,Attended
+W005,ST036,Power BI Masterclass,Absent
+W005,ST037,Power BI Masterclass,Absent
+W005,ST038,Power BI Masterclass,Absent
+W005,ST039,Power BI Masterclass,Attended
+W005,ST040,Power BI Masterclass,Absent
+W005,ST041,Power BI Masterclass,Absent
+W005,ST042,Power BI Masterclass,Absent
+W005,ST043,Power BI Masterclass,Absent
+W005,ST044,Power BI Masterclass,Absent
+W005,ST045,Power BI Masterclass,Absent
+W005,ST046,Power BI Masterclass,Absent
+W005,ST047,Power BI Masterclass,Attended
+W005,ST048,Power BI Masterclass,Absent
+W005,ST049,Power BI Masterclass,Attended
+W005,ST050,Power BI Masterclass,Absent
+W005,ST051,Power BI Masterclass,Attended
+W005,ST052,Power BI Masterclass,Attended
+W005,ST053,Power BI Masterclass,Absent
+W005,ST054,Power BI Masterclass,Absent
+W005,ST055,Power BI Masterclass,Absent
+W005,ST056,Power BI Masterclass,Attended
+W005,ST057,Power BI Masterclass,Attended
+W005,ST058,Power BI Masterclass,Attended
+W005,ST059,Power BI Masterclass,Attended
+W005,ST060,Power BI Masterclass,Attended
+W005,ST061,Power BI Masterclass,Absent
+W005,ST062,Power BI Masterclass,Absent
+W005,ST063,Power BI Masterclass,Absent
+W005,ST064,Power BI Masterclass,Attended
+W005,ST065,Power BI Masterclass,Absent
+W005,ST066,Power BI Masterclass,Attended
+W005,ST067,Power BI Masterclass,Absent
+W005,ST068,Power BI Masterclass,Absent
+W005,ST069,Power BI Masterclass,Attended
+W005,ST070,Power BI Masterclass,Absent
+W005,ST071,Power BI Masterclass,Absent
+W005,ST072,Power BI Masterclass,Attended
+W005,ST073,Power BI Masterclass,Absent
+W005,ST074,Power BI Masterclass,Absent
+W005,ST075,Power BI Masterclass,Absent
+W005,ST076,Power BI Masterclass,Absent
+W005,ST077,Power BI Masterclass,Attended
+W005,ST078,Power BI Masterclass,Attended
+W005,ST079,Power BI Masterclass,Absent
+W005,ST080,Power BI Masterclass,Absent
+W005,ST081,Power BI Masterclass,Absent
+W005,ST082,Power BI Masterclass,Attended
+W005,ST083,Power BI Masterclass,Absent
+W005,ST084,Power BI Masterclass,Attended
+W005,ST085,Power BI Masterclass,Attended
+W005,ST086,Power BI Masterclass,Absent
+W005,ST087,Power BI Masterclass,Attended
+W005,ST088,Power BI Masterclass,Attended
+W005,ST089,Power BI Masterclass,Attended
+W005,ST090,Power BI Masterclass,Attended
+W005,ST091,Power BI Masterclass,Absent
+W005,ST092,Power BI Masterclass,Absent
+W005,ST093,Power BI Masterclass,Attended
+W005,ST094,Power BI Masterclass,Absent
+W005,ST095,Power BI Masterclass,Absent
+W005,ST096,Power BI Masterclass,Attended
+W005,ST097,Power BI Masterclass,Attended
+W005,ST098,Power BI Masterclass,Attended
+W005,ST099,Power BI Masterclass,Attended
+W005,ST100,Power BI Masterclass,Absent
+W005,ST101,Power BI Masterclass,Absent
+W005,ST102,Power BI Masterclass,Absent
+W005,ST103,Power BI Masterclass,Attended
+W005,ST104,Power BI Masterclass,Absent
+W005,ST105,Power BI Masterclass,Attended
+W005,ST106,Power BI Masterclass,Absent
+W005,ST107,Power BI Masterclass,Attended
+W005,ST108,Power BI Masterclass,Absent
+W005,ST109,Power BI Masterclass,Absent
+W005,ST110,Power BI Masterclass,Absent
+W005,ST111,Power BI Masterclass,Absent
+W005,ST112,Power BI Masterclass,Absent
+W005,ST113,Power BI Masterclass,Absent
+W005,ST114,Power BI Masterclass,Absent
+W005,ST115,Power BI Masterclass,Absent
+W005,ST116,Power BI Masterclass,Attended
+W005,ST117,Power BI Masterclass,Absent
+W005,ST118,Power BI Masterclass,Absent
+W005,ST119,Power BI Masterclass,Absent
+W005,ST120,Power BI Masterclass,Absent
+W005,ST121,Power BI Masterclass,Absent
+W005,ST122,Power BI Masterclass,Attended
+W005,ST123,Power BI Masterclass,Attended
+W005,ST124,Power BI Masterclass,Absent
+W005,ST125,Power BI Masterclass,Absent
+W005,ST126,Power BI Masterclass,Absent
+W005,ST127,Power BI Masterclass,Attended
+W005,ST128,Power BI Masterclass,Absent
+W005,ST129,Power BI Masterclass,Absent
+W005,ST130,Power BI Masterclass,Absent
+W005,ST131,Power BI Masterclass,Attended
+W005,ST132,Power BI Masterclass,Absent
+W005,ST133,Power BI Masterclass,Absent
+W005,ST134,Power BI Masterclass,Absent
+W005,ST135,Power BI Masterclass,Absent
+W005,ST136,Power BI Masterclass,Attended
+W005,ST137,Power BI Masterclass,Absent
+W005,ST138,Power BI Masterclass,Absent
+W005,ST139,Power BI Masterclass,Attended
+W005,ST140,Power BI Masterclass,Attended
+W005,ST141,Power BI Masterclass,Absent
+W005,ST142,Power BI Masterclass,Absent
+W005,ST143,Power BI Masterclass,Absent
+W005,ST144,Power BI Masterclass,Absent
+W005,ST145,Power BI Masterclass,Absent
+W005,ST146,Power BI Masterclass,Attended
+W005,ST147,Power BI Masterclass,Absent
+W005,ST148,Power BI Masterclass,Absent
+W005,ST149,Power BI Masterclass,Absent
+W005,ST150,Power BI Masterclass,Absent
+W005,ST151,Power BI Masterclass,Attended
+W005,ST152,Power BI Masterclass,Attended
+W005,ST153,Power BI Masterclass,Absent
+W005,ST154,Power BI Masterclass,Attended
+W005,ST155,Power BI Masterclass,Attended
+W005,ST156,Power BI Masterclass,Absent
+W005,ST157,Power BI Masterclass,Absent
+W005,ST158,Power BI Masterclass,Attended
+W005,ST159,Power BI Masterclass,Attended
+W005,ST160,Power BI Masterclass,Absent
+W005,ST161,Power BI Masterclass,Absent
+W005,ST162,Power BI Masterclass,Absent
+W005,ST163,Power BI Masterclass,Absent
+W005,ST164,Power BI Masterclass,Attended
+W005,ST165,Power BI Masterclass,Absent
+W005,ST166,Power BI Masterclass,Attended
+W005,ST167,Power BI Masterclass,Absent
+W005,ST168,Power BI Masterclass,Attended
+W005,ST169,Power BI Masterclass,Absent
+W005,ST170,Power BI Masterclass,Absent
+W005,ST171,Power BI Masterclass,Attended
+W005,ST172,Power BI Masterclass,Absent
+W005,ST173,Power BI Masterclass,Absent
+W005,ST174,Power BI Masterclass,Absent
+W005,ST175,Power BI Masterclass,Attended
+W005,ST176,Power BI Masterclass,Attended
+W005,ST177,Power BI Masterclass,Attended
+W005,ST178,Power BI Masterclass,Attended
+W005,ST179,Power BI Masterclass,Attended
+W005,ST180,Power BI Masterclass,Attended
+W005,ST181,Power BI Masterclass,Absent
+W005,ST182,Power BI Masterclass,Attended
+W005,ST183,Power BI Masterclass,Attended
+W005,ST184,Power BI Masterclass,Attended
+W005,ST185,Power BI Masterclass,Absent
+W005,ST186,Power BI Masterclass,Attended
+W005,ST187,Power BI Masterclass,Attended
+W005,ST188,Power BI Masterclass,Attended
+W005,ST189,Power BI Masterclass,Attended
+W005,ST190,Power BI Masterclass,Attended
+W005,ST191,Power BI Masterclass,Attended
+W005,ST192,Power BI Masterclass,Attended
+W005,ST193,Power BI Masterclass,Absent
+W005,ST194,Power BI Masterclass,Absent
+W005,ST195,Power BI Masterclass,Absent
+W005,ST196,Power BI Masterclass,Absent
+W005,ST197,Power BI Masterclass,Attended
+W005,ST198,Power BI Masterclass,Attended
+W005,ST199,Power BI Masterclass,Absent
+W005,ST200,Power BI Masterclass,Attended
+W005,ST201,Power BI Masterclass,Attended
+W005,ST202,Power BI Masterclass,Attended
+W005,ST203,Power BI Masterclass,Attended
+W005,ST204,Power BI Masterclass,Absent
+W005,ST205,Power BI Masterclass,Absent
+W005,ST206,Power BI Masterclass,Absent
+W005,ST207,Power BI Masterclass,Attended
+W005,ST208,Power BI Masterclass,Attended
+W005,ST209,Power BI Masterclass,Attended
+W005,ST210,Power BI Masterclass,Attended
+W005,ST211,Power BI Masterclass,Absent
+W005,ST212,Power BI Masterclass,Absent
+W005,ST213,Power BI Masterclass,Absent
+W005,ST214,Power BI Masterclass,Absent
+W005,ST215,Power BI Masterclass,Absent
+W005,ST216,Power BI Masterclass,Attended
+W005,ST217,Power BI Masterclass,Attended
+W005,ST218,Power BI Masterclass,Attended
+W005,ST219,Power BI Masterclass,Attended
+W005,ST220,Power BI Masterclass,Attended
+W005,ST221,Power BI Masterclass,Attended
+W005,ST222,Power BI Masterclass,Absent
+W005,ST223,Power BI Masterclass,Attended
+W005,ST224,Power BI Masterclass,Attended
+W005,ST225,Power BI Masterclass,Attended
+W005,ST226,Power BI Masterclass,Absent
+W005,ST227,Power BI Masterclass,Attended
+W005,ST228,Power BI Masterclass,Absent
+W005,ST229,Power BI Masterclass,Attended
+W005,ST230,Power BI Masterclass,Attended
+W005,ST231,Power BI Masterclass,Attended
+W005,ST232,Power BI Masterclass,Attended
+W005,ST233,Power BI Masterclass,Absent
+W005,ST234,Power BI Masterclass,Attended
+W005,ST235,Power BI Masterclass,Attended
+W005,ST236,Power BI Masterclass,Attended
+W005,ST237,Power BI Masterclass,Attended
+W005,ST238,Power BI Masterclass,Absent
+W005,ST239,Power BI Masterclass,Absent
+W005,ST240,Power BI Masterclass,Attended
+W005,ST241,Power BI Masterclass,Absent
+W005,ST242,Power BI Masterclass,Absent
+W005,ST243,Power BI Masterclass,Absent
+W005,ST244,Power BI Masterclass,Attended
+W005,ST245,Power BI Masterclass,Absent
+W005,ST246,Power BI Masterclass,Absent
+W005,ST247,Power BI Masterclass,Absent
+W005,ST248,Power BI Masterclass,Attended
+W005,ST249,Power BI Masterclass,Attended
+W005,ST250,Power BI Masterclass,Attended
+W005,ST251,Power BI Masterclass,Absent
+W005,ST252,Power BI Masterclass,Absent
+W005,ST253,Power BI Masterclass,Absent
+W005,ST254,Power BI Masterclass,Attended
+W005,ST255,Power BI Masterclass,Absent
+W005,ST256,Power BI Masterclass,Attended
+W005,ST257,Power BI Masterclass,Absent
+W005,ST258,Power BI Masterclass,Attended
+W005,ST259,Power BI Masterclass,Absent
+W005,ST260,Power BI Masterclass,Absent
+W005,ST261,Power BI Masterclass,Attended
+W005,ST262,Power BI Masterclass,Absent
+W005,ST263,Power BI Masterclass,Absent
+W005,ST264,Power BI Masterclass,Attended
+W005,ST265,Power BI Masterclass,Attended
+W005,ST266,Power BI Masterclass,Attended
+W005,ST267,Power BI Masterclass,Absent
+W005,ST268,Power BI Masterclass,Attended
+W005,ST269,Power BI Masterclass,Absent
+W005,ST270,Power BI Masterclass,Absent
+W005,ST271,Power BI Masterclass,Attended
+W005,ST272,Power BI Masterclass,Attended
+W005,ST273,Power BI Masterclass,Absent
+W005,ST274,Power BI Masterclass,Attended
+W005,ST275,Power BI Masterclass,Attended
+W005,ST276,Power BI Masterclass,Absent
+W005,ST277,Power BI Masterclass,Absent
+W005,ST278,Power BI Masterclass,Attended
+W005,ST279,Power BI Masterclass,Attended
+W005,ST280,Power BI Masterclass,Absent
+W005,ST281,Power BI Masterclass,Absent
+W005,ST282,Power BI Masterclass,Absent
+W005,ST283,Power BI Masterclass,Attended
+W005,ST284,Power BI Masterclass,Attended
+W005,ST285,Power BI Masterclass,Attended
+W005,ST286,Power BI Masterclass,Absent
+W005,ST287,Power BI Masterclass,Absent
+W005,ST288,Power BI Masterclass,Absent
+W005,ST289,Power BI Masterclass,Attended
+W005,ST290,Power BI Masterclass,Absent
+W005,ST291,Power BI Masterclass,Absent
+W005,ST292,Power BI Masterclass,Attended
+W005,ST293,Power BI Masterclass,Absent
+W005,ST294,Power BI Masterclass,Attended
+W005,ST295,Power BI Masterclass,Attended
+W005,ST296,Power BI Masterclass,Absent
+W005,ST297,Power BI Masterclass,Absent
+W005,ST298,Power BI Masterclass,Attended
+W005,ST299,Power BI Masterclass,Absent
+W005,ST300,Power BI Masterclass,Attended
+W005,ST301,Power BI Masterclass,Attended
+W005,ST302,Power BI Masterclass,Absent
+W005,ST303,Power BI Masterclass,Attended
+W005,ST304,Power BI Masterclass,Attended
+W005,ST305,Power BI Masterclass,Absent
+W005,ST306,Power BI Masterclass,Attended
+W005,ST307,Power BI Masterclass,Attended
+W005,ST308,Power BI Masterclass,Absent
+W005,ST309,Power BI Masterclass,Attended
+W005,ST310,Power BI Masterclass,Attended
+W005,ST311,Power BI Masterclass,Absent
+W005,ST312,Power BI Masterclass,Absent
+W005,ST313,Power BI Masterclass,Attended
+W005,ST314,Power BI Masterclass,Attended
+W005,ST315,Power BI Masterclass,Absent
+W005,ST316,Power BI Masterclass,Attended
+W005,ST317,Power BI Masterclass,Attended
+W005,ST318,Power BI Masterclass,Attended
+W005,ST319,Power BI Masterclass,Absent
+W005,ST320,Power BI Masterclass,Absent
+W005,ST321,Power BI Masterclass,Absent
+W005,ST322,Power BI Masterclass,Absent
+W005,ST323,Power BI Masterclass,Absent
+W005,ST324,Power BI Masterclass,Absent
+W005,ST325,Power BI Masterclass,Attended
+W005,ST326,Power BI Masterclass,Attended
+W005,ST327,Power BI Masterclass,Attended
+W005,ST328,Power BI Masterclass,Attended
+W005,ST329,Power BI Masterclass,Attended
+W005,ST330,Power BI Masterclass,Attended
+W005,ST331,Power BI Masterclass,Absent
+W005,ST332,Power BI Masterclass,Absent
+W005,ST333,Power BI Masterclass,Absent
+W005,ST334,Power BI Masterclass,Absent
+W005,ST335,Power BI Masterclass,Attended
+W005,ST336,Power BI Masterclass,Absent
+W005,ST337,Power BI Masterclass,Attended
+W005,ST338,Power BI Masterclass,Attended
+W005,ST339,Power BI Masterclass,Attended
+W005,ST340,Power BI Masterclass,Attended
+W005,ST341,Power BI Masterclass,Absent
+W005,ST342,Power BI Masterclass,Absent
+W005,ST343,Power BI Masterclass,Attended
+W005,ST344,Power BI Masterclass,Attended
+W005,ST345,Power BI Masterclass,Absent
+W005,ST346,Power BI Masterclass,Attended
+W005,ST347,Power BI Masterclass,Absent
+W005,ST348,Power BI Masterclass,Attended
+W005,ST349,Power BI Masterclass,Attended
+W005,ST350,Power BI Masterclass,Absent
+W005,ST351,Power BI Masterclass,Attended
+W005,ST352,Power BI Masterclass,Attended
+W005,ST353,Power BI Masterclass,Attended
+W005,ST354,Power BI Masterclass,Absent
+W005,ST355,Power BI Masterclass,Absent
+W005,ST356,Power BI Masterclass,Attended
+W005,ST357,Power BI Masterclass,Attended
+W005,ST358,Power BI Masterclass,Attended
+W005,ST359,Power BI Masterclass,Attended
+W005,ST360,Power BI Masterclass,Absent
+W005,ST361,Power BI Masterclass,Attended
+W005,ST362,Power BI Masterclass,Attended
+W005,ST363,Power BI Masterclass,Attended
+W005,ST364,Power BI Masterclass,Attended
+W005,ST365,Power BI Masterclass,Attended
+W005,ST366,Power BI Masterclass,Absent
+W005,ST367,Power BI Masterclass,Absent
+W005,ST368,Power BI Masterclass,Attended
+W005,ST369,Power BI Masterclass,Absent
+W005,ST370,Power BI Masterclass,Absent
+W005,ST371,Power BI Masterclass,Attended
+W005,ST372,Power BI Masterclass,Absent
+W005,ST373,Power BI Masterclass,Absent
+W005,ST374,Power BI Masterclass,Attended
+W005,ST375,Power BI Masterclass,Absent
+W005,ST376,Power BI Masterclass,Absent
+W005,ST377,Power BI Masterclass,Attended
+W005,ST378,Power BI Masterclass,Absent
+W005,ST379,Power BI Masterclass,Attended
+W005,ST380,Power BI Masterclass,Absent
+W005,ST381,Power BI Masterclass,Attended
+W005,ST382,Power BI Masterclass,Absent
+W005,ST383,Power BI Masterclass,Absent
+W005,ST384,Power BI Masterclass,Attended
+W005,ST385,Power BI Masterclass,Absent
+W005,ST386,Power BI Masterclass,Absent
+W005,ST387,Power BI Masterclass,Absent
+W005,ST388,Power BI Masterclass,Absent
+W005,ST389,Power BI Masterclass,Absent
+W005,ST390,Power BI Masterclass,Absent
+W005,ST391,Power BI Masterclass,Absent
+W005,ST392,Power BI Masterclass,Absent
+W005,ST393,Power BI Masterclass,Attended
+W005,ST394,Power BI Masterclass,Attended
+W005,ST395,Power BI Masterclass,Absent
+W005,ST396,Power BI Masterclass,Absent
+W005,ST397,Power BI Masterclass,Attended
+W005,ST398,Power BI Masterclass,Attended
+W005,ST399,Power BI Masterclass,Absent
+W005,ST400,Power BI Masterclass,Absent
+W005,ST401,Power BI Masterclass,Absent
+W005,ST402,Power BI Masterclass,Attended
+W005,ST403,Power BI Masterclass,Absent
+W005,ST404,Power BI Masterclass,Absent
+W005,ST405,Power BI Masterclass,Attended
+W005,ST406,Power BI Masterclass,Absent
+W005,ST407,Power BI Masterclass,Absent
+W005,ST408,Power BI Masterclass,Attended
+W005,ST409,Power BI Masterclass,Attended
+W005,ST410,Power BI Masterclass,Absent
+W005,ST411,Power BI Masterclass,Absent
+W005,ST412,Power BI Masterclass,Attended
+W005,ST413,Power BI Masterclass,Absent
+W005,ST414,Power BI Masterclass,Attended
+W005,ST415,Power BI Masterclass,Attended
+W005,ST416,Power BI Masterclass,Attended
+W005,ST417,Power BI Masterclass,Attended
+W005,ST418,Power BI Masterclass,Attended
+W005,ST419,Power BI Masterclass,Attended
+W005,ST420,Power BI Masterclass,Attended
+W005,ST421,Power BI Masterclass,Attended
+W005,ST422,Power BI Masterclass,Absent
+W005,ST423,Power BI Masterclass,Absent
+W005,ST424,Power BI Masterclass,Absent
+W005,ST425,Power BI Masterclass,Absent
+W005,ST426,Power BI Masterclass,Attended
+W005,ST427,Power BI Masterclass,Absent
+W005,ST428,Power BI Masterclass,Attended
+W005,ST429,Power BI Masterclass,Attended
+W005,ST430,Power BI Masterclass,Attended
+W005,ST431,Power BI Masterclass,Attended
+W005,ST432,Power BI Masterclass,Attended
+W005,ST433,Power BI Masterclass,Attended
+W005,ST434,Power BI Masterclass,Attended
+W005,ST435,Power BI Masterclass,Attended
+W005,ST436,Power BI Masterclass,Attended
+W005,ST437,Power BI Masterclass,Attended
+W005,ST438,Power BI Masterclass,Attended
+W005,ST439,Power BI Masterclass,Absent
+W005,ST440,Power BI Masterclass,Absent
+W005,ST441,Power BI Masterclass,Attended
+W005,ST442,Power BI Masterclass,Attended
+W005,ST443,Power BI Masterclass,Attended
+W005,ST444,Power BI Masterclass,Attended
+W005,ST445,Power BI Masterclass,Absent
+W005,ST446,Power BI Masterclass,Absent
+W005,ST447,Power BI Masterclass,Attended
+W005,ST448,Power BI Masterclass,Attended
+W005,ST449,Power BI Masterclass,Attended
+W005,ST450,Power BI Masterclass,Attended
+W005,ST451,Power BI Masterclass,Absent
+W005,ST452,Power BI Masterclass,Attended
+W005,ST453,Power BI Masterclass,Attended
+W005,ST454,Power BI Masterclass,Absent
+W005,ST455,Power BI Masterclass,Attended
+W005,ST456,Power BI Masterclass,Attended
+W005,ST457,Power BI Masterclass,Absent
+W005,ST458,Power BI Masterclass,Absent
+W005,ST459,Power BI Masterclass,Attended
+W005,ST460,Power BI Masterclass,Absent
+W005,ST461,Power BI Masterclass,Attended
+W005,ST462,Power BI Masterclass,Attended
+W005,ST463,Power BI Masterclass,Absent
+W005,ST464,Power BI Masterclass,Attended
+W005,ST465,Power BI Masterclass,Absent
+W005,ST466,Power BI Masterclass,Attended
+W005,ST467,Power BI Masterclass,Absent
+W005,ST468,Power BI Masterclass,Attended
+W005,ST469,Power BI Masterclass,Attended
+W005,ST470,Power BI Masterclass,Absent
+W005,ST471,Power BI Masterclass,Absent
+W005,ST472,Power BI Masterclass,Absent
+W005,ST473,Power BI Masterclass,Absent
+W005,ST474,Power BI Masterclass,Absent
+W005,ST475,Power BI Masterclass,Absent
+W005,ST476,Power BI Masterclass,Absent
+W005,ST477,Power BI Masterclass,Attended
+W005,ST478,Power BI Masterclass,Attended
+W005,ST479,Power BI Masterclass,Absent
+W005,ST480,Power BI Masterclass,Attended
+W005,ST481,Power BI Masterclass,Attended
+W005,ST482,Power BI Masterclass,Absent
+W005,ST483,Power BI Masterclass,Absent
+W005,ST484,Power BI Masterclass,Absent
+W005,ST485,Power BI Masterclass,Absent
+W005,ST486,Power BI Masterclass,Attended
+W005,ST487,Power BI Masterclass,Attended
+W005,ST488,Power BI Masterclass,Absent
+W005,ST489,Power BI Masterclass,Attended
+W005,ST490,Power BI Masterclass,Attended
+W005,ST491,Power BI Masterclass,Attended
+W005,ST492,Power BI Masterclass,Absent
+W005,ST493,Power BI Masterclass,Absent
+W005,ST494,Power BI Masterclass,Absent
+W005,ST495,Power BI Masterclass,Attended
+W005,ST496,Power BI Masterclass,Attended
+W005,ST497,Power BI Masterclass,Attended
+W005,ST498,Power BI Masterclass,Attended
+W005,ST499,Power BI Masterclass,Attended
+W005,ST500,Power BI Masterclass,Attended

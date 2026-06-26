@@ -1,0 +1,501 @@
+student_id,student_name,college,department,batch,status
+ST001,Urmi Sane,Delhi University,Civil,2022,Inactive
+ST002,Aahana Dixit,BITS Pilani,Information Technology,2024,Inactive
+ST003,Rayaan Varma,BITS Pilani,Mechanical,2023,Active
+ST004,Jason Hari,Delhi University,Mechanical,2024,Inactive
+ST005,Raksha Sura,Rajasthan University,Electronics,2024,Inactive
+ST006,Gagan Hayer,NIT Jaipur,Mechanical,2024,Inactive
+ST007,Jack Dua,Rajasthan University,Civil,2022,Active
+ST008,Zansi Handa,IIT Delhi,Computer Science,2024,Active
+ST009,Bhavika Seshadri,BITS Pilani,Civil,2023,Active
+ST010,Nakul Kohli,Rajasthan University,Mechanical,2023,Active
+ST011,Arya Sandal,NIT Jaipur,Mechanical,2024,Active
+ST012,Oni Saran,NIT Jaipur,Electronics,2024,Active
+ST013,Quincy Chatterjee,BITS Pilani,Civil,2024,Active
+ST014,Chandani Ravi,Delhi University,Mechanical,2022,Inactive
+ST015,Matthew Sawhney,Rajasthan University,Computer Science,2022,Inactive
+ST016,Krish Hora,Delhi University,Electronics,2023,Inactive
+ST017,Gaurang Mani,Delhi University,Computer Science,2023,Inactive
+ST018,Mohini Trivedi,Rajasthan University,Mechanical,2022,Active
+ST019,Gaurangi Nayak,NIT Jaipur,Mechanical,2022,Inactive
+ST020,Rayaan Malhotra,Delhi University,Electronics,2023,Inactive
+ST021,Unnati Hayer,IIT Delhi,Mechanical,2022,Active
+ST022,Siddharth Sarkar,NIT Jaipur,Computer Science,2024,Inactive
+ST023,Diya Jhaveri,Delhi University,Information Technology,2023,Inactive
+ST024,Laban Magar,Delhi University,Information Technology,2023,Inactive
+ST025,Oviya Mannan,IIT Delhi,Computer Science,2024,Active
+ST026,Yochana Nadkarni,Rajasthan University,Civil,2023,Active
+ST027,Siddharth Loke,Delhi University,Civil,2024,Inactive
+ST028,Mason Golla,NIT Jaipur,Mechanical,2022,Active
+ST029,Udyati Ganesh,NIT Jaipur,Mechanical,2024,Inactive
+ST030,Reyansh Wali,Rajasthan University,Electronics,2023,Inactive
+ST031,Kabir Kalita,BITS Pilani,Electronics,2023,Inactive
+ST032,Ishwar Dalal,BITS Pilani,Mechanical,2024,Inactive
+ST033,Anusha Chokshi,BITS Pilani,Computer Science,2022,Active
+ST034,Sarthak Sengupta,IIT Delhi,Computer Science,2024,Inactive
+ST035,Jagrati Kapoor,Delhi University,Information Technology,2022,Active
+ST036,Krish Kumer,Rajasthan University,Mechanical,2023,Active
+ST037,Qasim Iyer,NIT Jaipur,Mechanical,2023,Inactive
+ST038,Darsh Sheth,BITS Pilani,Information Technology,2022,Active
+ST039,Isha Chaudhuri,NIT Jaipur,Mechanical,2022,Inactive
+ST040,George Dubey,NIT Jaipur,Information Technology,2023,Active
+ST041,Zayyan Jaggi,Rajasthan University,Mechanical,2022,Inactive
+ST042,Ranveer Memon,IIT Delhi,Electronics,2022,Active
+ST043,Pranav Sen,NIT Jaipur,Computer Science,2024,Active
+ST044,Qadim Kapoor,IIT Delhi,Mechanical,2023,Inactive
+ST045,Gavin Doctor,Delhi University,Electronics,2023,Inactive
+ST046,Leena Ahuja,Rajasthan University,Computer Science,2022,Active
+ST047,Jai Deo,BITS Pilani,Civil,2022,Inactive
+ST048,Yashodhara Nanda,BITS Pilani,Electronics,2023,Inactive
+ST049,Adya Oza,NIT Jaipur,Mechanical,2023,Active
+ST050,Charita Karpe,IIT Delhi,Computer Science,2023,Active
+ST051,Praneel Sachar,Rajasthan University,Information Technology,2022,Inactive
+ST052,Yamini Wali,NIT Jaipur,Civil,2023,Active
+ST053,Aradhana Das,Rajasthan University,Information Technology,2024,Inactive
+ST054,Keya Wagle,IIT Delhi,Civil,2022,Active
+ST055,Vrinda Bera,Delhi University,Computer Science,2024,Active
+ST056,Bachittar Kapadia,NIT Jaipur,Electronics,2023,Inactive
+ST057,Radhika Maharaj,BITS Pilani,Information Technology,2022,Active
+ST058,Vidhi Bala,NIT Jaipur,Computer Science,2023,Inactive
+ST059,Gopal Dhawan,NIT Jaipur,Information Technology,2023,Inactive
+ST060,Bakhshi Prabhakar,IIT Delhi,Mechanical,2022,Active
+ST061,Ekaraj Yohannan,IIT Delhi,Civil,2023,Active
+ST062,Bachittar Ravi,BITS Pilani,Information Technology,2022,Active
+ST063,Pallavi Mane,Rajasthan University,Electronics,2022,Inactive
+ST064,David Nair,IIT Delhi,Mechanical,2023,Active
+ST065,Urvashi Pillay,Delhi University,Electronics,2022,Inactive
+ST066,Aarush Srinivasan,BITS Pilani,Information Technology,2022,Active
+ST067,Madhavi Loke,BITS Pilani,Civil,2023,Inactive
+ST068,Sara Sama,Delhi University,Electronics,2022,Active
+ST069,Hemal Kala,IIT Delhi,Information Technology,2022,Active
+ST070,Indira Gole,BITS Pilani,Electronics,2022,Inactive
+ST071,Oviya Bandi,BITS Pilani,Civil,2022,Active
+ST072,Aarush Hayer,BITS Pilani,Electronics,2022,Active
+ST073,Nicholas Menon,Rajasthan University,Civil,2022,Inactive
+ST074,Wazir Gulati,BITS Pilani,Electronics,2024,Active
+ST075,Sanya Varghese,Rajasthan University,Mechanical,2022,Active
+ST076,Anjali Kaul,IIT Delhi,Civil,2022,Inactive
+ST077,Yashvi Nanda,IIT Delhi,Mechanical,2022,Active
+ST078,Ekansh Shroff,Delhi University,Information Technology,2022,Active
+ST079,Sneha Chacko,IIT Delhi,Computer Science,2024,Inactive
+ST080,Rachita Walla,NIT Jaipur,Civil,2023,Active
+ST081,Maanav Varty,BITS Pilani,Civil,2023,Inactive
+ST082,Utkarsh Nagi,Rajasthan University,Computer Science,2023,Active
+ST083,Wyatt Taneja,IIT Delhi,Electronics,2022,Inactive
+ST084,Jagvi Walia,Rajasthan University,Mechanical,2022,Inactive
+ST085,Tristan Cheema,Delhi University,Information Technology,2023,Inactive
+ST086,Oliver Nigam,Rajasthan University,Civil,2024,Inactive
+ST087,Jacob Johal,Rajasthan University,Mechanical,2022,Inactive
+ST088,Ijaya Dass,IIT Delhi,Computer Science,2023,Active
+ST089,Orinder Chaudhari,Delhi University,Computer Science,2023,Active
+ST090,Yashica Sagar,Delhi University,Electronics,2023,Inactive
+ST091,Ridhi Kashyap,BITS Pilani,Electronics,2022,Active
+ST092,Chakradev Bawa,Rajasthan University,Civil,2022,Active
+ST093,Rachit Sankar,Rajasthan University,Computer Science,2022,Inactive
+ST094,Ojas Sethi,Rajasthan University,Information Technology,2023,Inactive
+ST095,Triya Majumdar,IIT Delhi,Mechanical,2024,Inactive
+ST096,Yashasvi Sharaf,Rajasthan University,Civil,2022,Inactive
+ST097,Unnati Lad,IIT Delhi,Electronics,2024,Active
+ST098,Champak Naidu,Rajasthan University,Computer Science,2022,Inactive
+ST099,Rajata Balay,BITS Pilani,Mechanical,2024,Active
+ST100,Wyatt Gade,IIT Delhi,Civil,2023,Inactive
+ST101,Sai Dutt,Delhi University,Information Technology,2022,Inactive
+ST102,Yutika Badami,IIT Delhi,Computer Science,2023,Inactive
+ST103,William Chaudhary,NIT Jaipur,Mechanical,2024,Inactive
+ST104,Ethan Bhavsar,Rajasthan University,Information Technology,2022,Inactive
+ST105,Rohan Manda,BITS Pilani,Computer Science,2024,Active
+ST106,Kai Som,Rajasthan University,Mechanical,2024,Inactive
+ST107,Karan Mannan,Rajasthan University,Mechanical,2023,Inactive
+ST108,Amaira Barad,BITS Pilani,Information Technology,2023,Inactive
+ST109,Vasana Bir,NIT Jaipur,Information Technology,2024,Inactive
+ST110,Gauri Mander,Delhi University,Information Technology,2023,Inactive
+ST111,Hardik Nazareth,BITS Pilani,Civil,2024,Inactive
+ST112,Sachi Rege,IIT Delhi,Electronics,2023,Active
+ST113,Aarnav Sharaf,Rajasthan University,Civil,2023,Active
+ST114,Nidra Golla,Delhi University,Civil,2023,Active
+ST115,Megha Kuruvilla,IIT Delhi,Civil,2024,Active
+ST116,Aryan Bhargava,BITS Pilani,Information Technology,2023,Inactive
+ST117,Yuvraj Bhat,IIT Delhi,Civil,2024,Active
+ST118,Ojas Saraf,BITS Pilani,Mechanical,2024,Active
+ST119,Saumya Gulati,Delhi University,Computer Science,2024,Inactive
+ST120,Ojasvi Mangal,NIT Jaipur,Computer Science,2023,Inactive
+ST121,Jeevika Chaudhuri,Rajasthan University,Electronics,2023,Inactive
+ST122,Agastya Nath,NIT Jaipur,Electronics,2023,Active
+ST123,Mahika Kadakia,Delhi University,Computer Science,2023,Active
+ST124,Zayyan Sagar,IIT Delhi,Civil,2022,Active
+ST125,Veda Kapur,NIT Jaipur,Civil,2022,Active
+ST126,Christopher Bawa,NIT Jaipur,Electronics,2022,Active
+ST127,Lucky Chana,IIT Delhi,Computer Science,2024,Active
+ST128,Dakshesh Warrior,IIT Delhi,Mechanical,2024,Inactive
+ST129,Odika Sharaf,Rajasthan University,Information Technology,2023,Inactive
+ST130,Abha Pandey,Delhi University,Computer Science,2022,Inactive
+ST131,Finn Varghese,IIT Delhi,Electronics,2024,Active
+ST132,Ronith Naik,Rajasthan University,Computer Science,2022,Active
+ST133,Geetika Barad,NIT Jaipur,Computer Science,2022,Active
+ST134,Bimala Hans,NIT Jaipur,Computer Science,2022,Inactive
+ST135,Theodore Handa,Delhi University,Information Technology,2024,Inactive
+ST136,Niharika Konda,IIT Delhi,Electronics,2022,Active
+ST137,Megha Mallick,Delhi University,Mechanical,2023,Inactive
+ST138,Sai Bath,Delhi University,Information Technology,2024,Active
+ST139,Urishilla Wadhwa,NIT Jaipur,Civil,2022,Inactive
+ST140,Rajeshri Malhotra,IIT Delhi,Computer Science,2023,Inactive
+ST141,Sanaya Arora,Rajasthan University,Civil,2024,Active
+ST142,Krisha Gade,IIT Delhi,Mechanical,2022,Active
+ST143,Amruta Keer,IIT Delhi,Information Technology,2022,Active
+ST144,Ekavir Gulati,BITS Pilani,Civil,2022,Active
+ST145,Gagan Suri,Rajasthan University,Information Technology,2023,Active
+ST146,Janaki Tiwari,Rajasthan University,Civil,2023,Active
+ST147,Radhika Buch,BITS Pilani,Information Technology,2023,Inactive
+ST148,Bhavna More,Rajasthan University,Information Technology,2024,Inactive
+ST149,Zilmil Pradhan,NIT Jaipur,Mechanical,2022,Inactive
+ST150,Anirudh Bhat,NIT Jaipur,Computer Science,2023,Active
+ST151,Chameli Sibal,BITS Pilani,Mechanical,2022,Active
+ST152,Champak Chad,NIT Jaipur,Information Technology,2023,Active
+ST153,Harsh Varughese,Rajasthan University,Civil,2022,Active
+ST154,Tanay Choudhury,Rajasthan University,Information Technology,2023,Active
+ST155,Ekansh Yogi,NIT Jaipur,Mechanical,2022,Active
+ST156,Lila Jha,NIT Jaipur,Civil,2022,Active
+ST157,Hemang Ramanathan,Delhi University,Mechanical,2023,Inactive
+ST158,Yashodhara Pillai,Rajasthan University,Information Technology,2022,Inactive
+ST159,Mahika Bail,NIT Jaipur,Information Technology,2024,Active
+ST160,Upadhriti Chaudhari,BITS Pilani,Civil,2024,Inactive
+ST161,Chaitaly Tak,IIT Delhi,Mechanical,2023,Inactive
+ST162,Lila Sami,Delhi University,Mechanical,2022,Active
+ST163,Vaishnavi Oommen,Rajasthan University,Information Technology,2022,Active
+ST164,Om Thaker,NIT Jaipur,Electronics,2022,Inactive
+ST165,Jagdish Sankar,BITS Pilani,Civil,2024,Inactive
+ST166,Yochana Chaudhary,Delhi University,Civil,2024,Active
+ST167,Zansi Sathe,Delhi University,Electronics,2023,Active
+ST168,Nirja Kala,IIT Delhi,Civil,2023,Inactive
+ST169,Liam Sami,BITS Pilani,Electronics,2024,Active
+ST170,Bishakha Palla,IIT Delhi,Computer Science,2024,Inactive
+ST171,Mason Shanker,NIT Jaipur,Electronics,2023,Inactive
+ST172,Aarush Rattan,Delhi University,Mechanical,2022,Inactive
+ST173,Forum Sahota,Rajasthan University,Information Technology,2023,Active
+ST174,Anamika Apte,IIT Delhi,Mechanical,2022,Active
+ST175,Aarna Mani,NIT Jaipur,Information Technology,2024,Active
+ST176,Eesha Varughese,Rajasthan University,Information Technology,2023,Inactive
+ST177,Om Bala,Delhi University,Civil,2024,Active
+ST178,Isaac Sodhi,NIT Jaipur,Mechanical,2024,Inactive
+ST179,Ryan Khosla,BITS Pilani,Civil,2023,Active
+ST180,Dev Behl,Rajasthan University,Information Technology,2022,Active
+ST181,Adya De,Delhi University,Computer Science,2024,Active
+ST182,Wakeeta Raval,NIT Jaipur,Mechanical,2023,Active
+ST183,Tara Bassi,IIT Delhi,Civil,2024,Inactive
+ST184,Nitesh Mitter,NIT Jaipur,Information Technology,2022,Active
+ST185,Urvi Ravel,Rajasthan University,Mechanical,2023,Active
+ST186,Vrishti Khanna,Rajasthan University,Computer Science,2022,Inactive
+ST187,Gunbir Narang,Delhi University,Computer Science,2022,Active
+ST188,Aryan Saran,Rajasthan University,Information Technology,2022,Active
+ST189,Urmi Gokhale,NIT Jaipur,Electronics,2022,Inactive
+ST190,Onveer Boase,Delhi University,Civil,2022,Active
+ST191,Yochana Chad,NIT Jaipur,Mechanical,2024,Active
+ST192,Maya Badal,BITS Pilani,Civil,2024,Inactive
+ST193,Damyanti Doctor,Rajasthan University,Mechanical,2023,Active
+ST194,Sneha Mannan,BITS Pilani,Electronics,2023,Active
+ST195,Farhan Maharaj,NIT Jaipur,Information Technology,2023,Inactive
+ST196,Onkar Kulkarni,IIT Delhi,Electronics,2023,Inactive
+ST197,Lavanya Pathak,BITS Pilani,Computer Science,2022,Inactive
+ST198,Rajeshri Patla,Delhi University,Civil,2023,Inactive
+ST199,Ansh Bose,Rajasthan University,Civil,2022,Inactive
+ST200,Alexander Sule,Delhi University,Electronics,2023,Inactive
+ST201,Maya Krishnamurthy,BITS Pilani,Mechanical,2022,Inactive
+ST202,Turvi Raj,BITS Pilani,Computer Science,2024,Active
+ST203,Xavier Hans,IIT Delhi,Information Technology,2024,Inactive
+ST204,Lekha Agarwal,IIT Delhi,Information Technology,2023,Active
+ST205,Raghav Brahmbhatt,Rajasthan University,Electronics,2023,Active
+ST206,Girik Padmanabhan,BITS Pilani,Electronics,2023,Inactive
+ST207,Triya Parmar,Rajasthan University,Civil,2023,Active
+ST208,Anusha Pandit,Rajasthan University,Information Technology,2023,Active
+ST209,Udant Dhaliwal,BITS Pilani,Mechanical,2022,Inactive
+ST210,Harinakshi Sahni,Delhi University,Civil,2022,Active
+ST211,Yashodhara Narang,IIT Delhi,Electronics,2022,Inactive
+ST212,Lopa Srinivasan,Delhi University,Information Technology,2022,Active
+ST213,Zansi Lal,BITS Pilani,Civil,2024,Inactive
+ST214,Neha Sengupta,BITS Pilani,Computer Science,2024,Active
+ST215,Tanmayi Karnik,IIT Delhi,Information Technology,2023,Active
+ST216,Veda Johal,IIT Delhi,Information Technology,2023,Inactive
+ST217,Tejas Sangha,Rajasthan University,Computer Science,2024,Active
+ST218,Anmol Kala,BITS Pilani,Civil,2022,Inactive
+ST219,Tanvi Kibe,BITS Pilani,Computer Science,2023,Inactive
+ST220,Anirudh Srinivasan,BITS Pilani,Computer Science,2022,Inactive
+ST221,Ranveer Kala,IIT Delhi,Information Technology,2024,Inactive
+ST222,Lipika Chaudhuri,NIT Jaipur,Civil,2022,Active
+ST223,Tejas Prabhu,Rajasthan University,Electronics,2024,Active
+ST224,Ekani Naik,Rajasthan University,Civil,2022,Inactive
+ST225,Indali Dugal,BITS Pilani,Civil,2024,Inactive
+ST226,Keya Edwin,NIT Jaipur,Computer Science,2024,Active
+ST227,Ucchal Lal,BITS Pilani,Electronics,2022,Inactive
+ST228,Sachi Suresh,Delhi University,Computer Science,2022,Inactive
+ST229,Rishi Pau,BITS Pilani,Civil,2024,Active
+ST230,Alexander Apte,Delhi University,Civil,2022,Active
+ST231,Geetika Hayer,Rajasthan University,Mechanical,2022,Inactive
+ST232,Imaran Solanki,NIT Jaipur,Mechanical,2023,Active
+ST233,Mitali Dani,Delhi University,Information Technology,2022,Inactive
+ST234,Devansh Karnik,Rajasthan University,Electronics,2022,Active
+ST235,Oni Sachar,IIT Delhi,Electronics,2024,Inactive
+ST236,Janaki Madan,NIT Jaipur,Information Technology,2022,Inactive
+ST237,Jyoti Bhat,BITS Pilani,Computer Science,2023,Inactive
+ST238,Bachittar Garg,BITS Pilani,Computer Science,2023,Active
+ST239,Lavanya Nagarajan,BITS Pilani,Information Technology,2024,Active
+ST240,Mekhala Dasgupta,Delhi University,Electronics,2024,Inactive
+ST241,Hemani Chopra,NIT Jaipur,Computer Science,2023,Inactive
+ST242,Ekani Parmer,Delhi University,Mechanical,2022,Inactive
+ST243,Ati Trivedi,BITS Pilani,Electronics,2023,Inactive
+ST244,Yashasvi Uppal,BITS Pilani,Civil,2022,Active
+ST245,Upkaar Pillay,BITS Pilani,Computer Science,2022,Inactive
+ST246,Guneet Dube,NIT Jaipur,Computer Science,2022,Inactive
+ST247,Yash Brahmbhatt,NIT Jaipur,Civil,2024,Inactive
+ST248,Victor Nagarajan,BITS Pilani,Civil,2022,Inactive
+ST249,Hamsini Thaker,IIT Delhi,Information Technology,2022,Inactive
+ST250,Forum Biswas,Rajasthan University,Mechanical,2023,Active
+ST251,Dhriti Banerjee,NIT Jaipur,Electronics,2023,Active
+ST252,Udarsh Handa,Rajasthan University,Mechanical,2023,Active
+ST253,Panini Tak,Rajasthan University,Information Technology,2024,Active
+ST254,Indira Munshi,Rajasthan University,Civil,2024,Active
+ST255,Joshua Cheema,Delhi University,Mechanical,2024,Inactive
+ST256,Aarini Rastogi,Delhi University,Information Technology,2022,Inactive
+ST257,Abha Zacharia,BITS Pilani,Information Technology,2024,Active
+ST258,Rachit Mandal,NIT Jaipur,Mechanical,2022,Inactive
+ST259,Janani Chandra,NIT Jaipur,Mechanical,2023,Active
+ST260,Girik Mann,NIT Jaipur,Civil,2022,Inactive
+ST261,Kevin Walla,Delhi University,Electronics,2022,Active
+ST262,Shivansh Singhal,Delhi University,Information Technology,2024,Active
+ST263,Nirja Tak,NIT Jaipur,Electronics,2023,Inactive
+ST264,Abeer Vaidya,Rajasthan University,Computer Science,2022,Inactive
+ST265,Anita Master,Rajasthan University,Electronics,2022,Inactive
+ST266,Oeshi Mitra,BITS Pilani,Information Technology,2023,Inactive
+ST267,Gabriel Tara,NIT Jaipur,Civil,2023,Active
+ST268,Ganga Bandi,Rajasthan University,Civil,2024,Active
+ST269,Jagrati Seshadri,Rajasthan University,Information Technology,2022,Active
+ST270,Teerth Banik,BITS Pilani,Civil,2024,Active
+ST271,Radha Jha,IIT Delhi,Information Technology,2022,Active
+ST272,Joshua Yadav,Delhi University,Electronics,2023,Active
+ST273,Sudiksha Kale,Rajasthan University,Mechanical,2023,Active
+ST274,Reva Saxena,Delhi University,Electronics,2024,Inactive
+ST275,Anita Saha,IIT Delhi,Electronics,2022,Active
+ST276,Jatin Nigam,Delhi University,Civil,2024,Active
+ST277,Oliver Mangal,BITS Pilani,Civil,2024,Inactive
+ST278,Ojasvi Bala,IIT Delhi,Mechanical,2023,Active
+ST279,Ekanta Chaudhary,NIT Jaipur,Information Technology,2022,Inactive
+ST280,Gauri Rai,NIT Jaipur,Computer Science,2023,Active
+ST281,Hiral Malhotra,Delhi University,Electronics,2024,Inactive
+ST282,Ekantika Deshpande,BITS Pilani,Electronics,2022,Active
+ST283,Urvi Rout,NIT Jaipur,Mechanical,2022,Inactive
+ST284,Brijesh Pillay,NIT Jaipur,Mechanical,2023,Inactive
+ST285,Mohini Mahal,Rajasthan University,Information Technology,2023,Active
+ST286,Aayush Madan,Delhi University,Information Technology,2024,Inactive
+ST287,Noah Goyal,IIT Delhi,Computer Science,2023,Active
+ST288,Anya Sem,Delhi University,Information Technology,2022,Active
+ST289,Samarth Handa,NIT Jaipur,Mechanical,2024,Active
+ST290,Gaurang Behl,IIT Delhi,Civil,2022,Inactive
+ST291,Atharv Sarkar,Rajasthan University,Computer Science,2024,Inactive
+ST292,Irya Baral,BITS Pilani,Information Technology,2022,Inactive
+ST293,Libni Mallick,Delhi University,Electronics,2023,Inactive
+ST294,Adweta Bhagat,NIT Jaipur,Information Technology,2023,Active
+ST295,Champak Srinivasan,Rajasthan University,Electronics,2023,Inactive
+ST296,Rachit Nayar,Delhi University,Mechanical,2024,Active
+ST297,Yutika Bhagat,IIT Delhi,Computer Science,2023,Inactive
+ST298,Gaurav Bobal,NIT Jaipur,Mechanical,2022,Active
+ST299,Radhika Bhakta,Rajasthan University,Civil,2022,Inactive
+ST300,Neelima Kohli,NIT Jaipur,Electronics,2024,Active
+ST301,Sachi Ramesh,Delhi University,Electronics,2022,Inactive
+ST302,Michael Das,BITS Pilani,Mechanical,2024,Inactive
+ST303,Wakeeta Mander,NIT Jaipur,Electronics,2022,Inactive
+ST304,Amol Shenoy,BITS Pilani,Information Technology,2023,Inactive
+ST305,Ria Gandhi,Rajasthan University,Electronics,2024,Active
+ST306,Baljiwan Ratta,Rajasthan University,Mechanical,2024,Active
+ST307,Ekbal Bhardwaj,Rajasthan University,Information Technology,2023,Inactive
+ST308,Kala Nadig,NIT Jaipur,Electronics,2022,Active
+ST309,Udyati Golla,Rajasthan University,Civil,2022,Inactive
+ST310,Jeet Sastry,BITS Pilani,Civil,2024,Active
+ST311,Osha Doctor,Rajasthan University,Electronics,2024,Active
+ST312,Madhav Sekhon,IIT Delhi,Computer Science,2022,Inactive
+ST313,Vansha Goswami,BITS Pilani,Information Technology,2023,Active
+ST314,Gunbir Buch,Delhi University,Civil,2024,Active
+ST315,Manya Shah,NIT Jaipur,Information Technology,2024,Inactive
+ST316,Bahadurjit Kapadia,IIT Delhi,Electronics,2024,Active
+ST317,George Sabharwal,BITS Pilani,Computer Science,2022,Inactive
+ST318,Nicholas Bail,NIT Jaipur,Civil,2023,Inactive
+ST319,Vasatika Nagi,NIT Jaipur,Information Technology,2022,Active
+ST320,Yasti Bakshi,NIT Jaipur,Computer Science,2024,Inactive
+ST321,Vedhika Kaul,Rajasthan University,Computer Science,2022,Inactive
+ST322,Nakul Brahmbhatt,IIT Delhi,Civil,2023,Active
+ST323,Chaman Banik,IIT Delhi,Mechanical,2023,Active
+ST324,Hemangini Divan,NIT Jaipur,Computer Science,2022,Active
+ST325,Utkarsh Brahmbhatt,NIT Jaipur,Computer Science,2023,Inactive
+ST326,Isaac Purohit,NIT Jaipur,Civil,2022,Active
+ST327,Pahal Singh,BITS Pilani,Computer Science,2022,Active
+ST328,Udyati Saha,IIT Delhi,Electronics,2022,Inactive
+ST329,Tejas Tandon,Delhi University,Electronics,2022,Inactive
+ST330,Udarsh Kannan,IIT Delhi,Information Technology,2023,Active
+ST331,Amol Mukhopadhyay,Delhi University,Mechanical,2022,Active
+ST332,Bhavika Subramaniam,Delhi University,Information Technology,2023,Active
+ST333,Kashvi Kapadia,IIT Delhi,Mechanical,2024,Active
+ST334,Chameli Naik,IIT Delhi,Computer Science,2024,Active
+ST335,Chakrika Malhotra,Rajasthan University,Electronics,2022,Inactive
+ST336,Ekiya Roy,BITS Pilani,Electronics,2024,Active
+ST337,Rushil Mutti,Rajasthan University,Civil,2023,Active
+ST338,Nandini Bera,Delhi University,Information Technology,2022,Active
+ST339,Ayush Sharaf,NIT Jaipur,Computer Science,2023,Inactive
+ST340,Indira Pingle,Rajasthan University,Electronics,2024,Inactive
+ST341,Balendra Lall,BITS Pilani,Civil,2022,Inactive
+ST342,Harinakshi Kapoor,IIT Delhi,Information Technology,2023,Inactive
+ST343,Yahvi Sunder,Rajasthan University,Mechanical,2024,Inactive
+ST344,Aarna Desai,Delhi University,Computer Science,2024,Inactive
+ST345,Anita Varty,NIT Jaipur,Computer Science,2022,Active
+ST346,Yatan Mangat,IIT Delhi,Electronics,2024,Inactive
+ST347,Brinda Sidhu,Delhi University,Electronics,2022,Inactive
+ST348,Prisha Chopra,Rajasthan University,Civil,2022,Active
+ST349,Vamakshi Chacko,NIT Jaipur,Computer Science,2024,Active
+ST350,Prisha Kadakia,NIT Jaipur,Information Technology,2023,Active
+ST351,Zansi Merchant,IIT Delhi,Computer Science,2024,Inactive
+ST352,Mitali Buch,BITS Pilani,Electronics,2023,Inactive
+ST353,Bimala Arya,NIT Jaipur,Computer Science,2024,Active
+ST354,Divya Iyer,BITS Pilani,Mechanical,2022,Inactive
+ST355,Nitara Upadhyay,Rajasthan University,Electronics,2024,Active
+ST356,Manbir Chaudhry,NIT Jaipur,Information Technology,2024,Inactive
+ST357,Ijaya Borde,BITS Pilani,Mechanical,2023,Active
+ST358,Nitesh Mody,BITS Pilani,Mechanical,2022,Active
+ST359,Vincent Bahri,Delhi University,Computer Science,2023,Active
+ST360,Eta Kakar,IIT Delhi,Mechanical,2024,Inactive
+ST361,Gagan Sant,BITS Pilani,Information Technology,2024,Inactive
+ST362,Gavin Sarraf,NIT Jaipur,Mechanical,2023,Inactive
+ST363,Ijaya Dar,Rajasthan University,Mechanical,2024,Inactive
+ST364,Ekani Kamdar,Delhi University,Civil,2024,Active
+ST365,Frado Bora,Rajasthan University,Information Technology,2024,Inactive
+ST366,Jagvi Thaker,IIT Delhi,Information Technology,2023,Inactive
+ST367,Darika Ahluwalia,BITS Pilani,Computer Science,2022,Inactive
+ST368,Dalbir Aggarwal,IIT Delhi,Information Technology,2022,Active
+ST369,Rajata Badami,Rajasthan University,Computer Science,2024,Active
+ST370,Aarna Narayanan,Delhi University,Mechanical,2023,Inactive
+ST371,Shravya Bhavsar,BITS Pilani,Information Technology,2024,Inactive
+ST372,Qasim Kibe,Delhi University,Electronics,2024,Inactive
+ST373,Yutika Bajwa,Delhi University,Mechanical,2022,Active
+ST374,Zaid Nagy,Delhi University,Mechanical,2023,Active
+ST375,Abha Viswanathan,NIT Jaipur,Electronics,2024,Inactive
+ST376,Rushil Cherian,IIT Delhi,Information Technology,2022,Active
+ST377,Advika Gara,BITS Pilani,Mechanical,2022,Active
+ST378,Inaya Acharya,Delhi University,Electronics,2023,Inactive
+ST379,Ridhi Baral,NIT Jaipur,Information Technology,2024,Active
+ST380,Bhavika Merchant,NIT Jaipur,Computer Science,2023,Active
+ST381,Matthew Golla,NIT Jaipur,Computer Science,2024,Active
+ST382,Meera Toor,BITS Pilani,Computer Science,2022,Inactive
+ST383,Frado Dalal,BITS Pilani,Civil,2022,Inactive
+ST384,Baghyawati Sachdeva,BITS Pilani,Civil,2023,Inactive
+ST385,Advika Chacko,NIT Jaipur,Computer Science,2022,Active
+ST386,Udyati Menon,Rajasthan University,Computer Science,2022,Active
+ST387,Urvashi Kala,Delhi University,Information Technology,2024,Inactive
+ST388,Gabriel Kohli,BITS Pilani,Civil,2024,Inactive
+ST389,Wridesh Sanghvi,IIT Delhi,Electronics,2024,Active
+ST390,Gayathri Sodhi,BITS Pilani,Civil,2023,Inactive
+ST391,Odika Nadkarni,Delhi University,Information Technology,2023,Inactive
+ST392,Yuvraj Barad,IIT Delhi,Mechanical,2023,Inactive
+ST393,Darsh Sem,BITS Pilani,Civil,2022,Inactive
+ST394,Amrita Cheema,Delhi University,Mechanical,2023,Active
+ST395,Bhanumati Grover,NIT Jaipur,Computer Science,2022,Inactive
+ST396,Yoshita Sani,Rajasthan University,Civil,2023,Inactive
+ST397,Panini Koshy,BITS Pilani,Information Technology,2022,Inactive
+ST398,Vivaan Shanker,BITS Pilani,Computer Science,2022,Active
+ST399,Adweta Gala,IIT Delhi,Computer Science,2023,Active
+ST400,Inaya Seshadri,NIT Jaipur,Information Technology,2024,Inactive
+ST401,Girik Ghose,IIT Delhi,Mechanical,2023,Active
+ST402,Gauri Naik,BITS Pilani,Mechanical,2024,Inactive
+ST403,Girik Iyer,Rajasthan University,Electronics,2024,Inactive
+ST404,Anika Arora,Delhi University,Information Technology,2022,Inactive
+ST405,Nirja Mand,NIT Jaipur,Computer Science,2023,Active
+ST406,Gagan Basu,Delhi University,Computer Science,2022,Active
+ST407,Bishakha Puri,NIT Jaipur,Information Technology,2022,Active
+ST408,Jeet Mane,NIT Jaipur,Mechanical,2024,Inactive
+ST409,Hardik Verma,Rajasthan University,Electronics,2022,Active
+ST410,Tarak Sen,IIT Delhi,Information Technology,2022,Active
+ST411,Ria Srinivasan,IIT Delhi,Civil,2022,Active
+ST412,Aahana Master,NIT Jaipur,Civil,2023,Active
+ST413,Darika Shukla,BITS Pilani,Electronics,2023,Inactive
+ST414,Anita Buch,NIT Jaipur,Electronics,2023,Active
+ST415,Yash Datta,Delhi University,Mechanical,2022,Inactive
+ST416,Mason Chaudhari,IIT Delhi,Electronics,2022,Inactive
+ST417,Madhav Rajagopal,NIT Jaipur,Electronics,2023,Active
+ST418,Vrinda Pillai,NIT Jaipur,Civil,2022,Inactive
+ST419,Odika Bava,BITS Pilani,Computer Science,2024,Inactive
+ST420,Odika Solanki,IIT Delhi,Mechanical,2022,Active
+ST421,Kritika Warrior,IIT Delhi,Information Technology,2022,Inactive
+ST422,Benjamin Dash,BITS Pilani,Computer Science,2023,Active
+ST423,Tamanna Cheema,Rajasthan University,Civil,2022,Active
+ST424,Mugdha Dixit,NIT Jaipur,Information Technology,2024,Active
+ST425,Vihaan Khare,NIT Jaipur,Civil,2023,Inactive
+ST426,Jasmit Sunder,IIT Delhi,Civil,2023,Active
+ST427,Upadhriti Khatri,BITS Pilani,Mechanical,2023,Inactive
+ST428,Hemal Jain,IIT Delhi,Electronics,2024,Active
+ST429,Samesh Chandra,Rajasthan University,Information Technology,2022,Inactive
+ST430,Arin Dani,BITS Pilani,Civil,2024,Inactive
+ST431,Shivansh Issac,IIT Delhi,Information Technology,2023,Inactive
+ST432,Yutika Kara,BITS Pilani,Mechanical,2023,Inactive
+ST433,Barkha Gade,IIT Delhi,Information Technology,2022,Inactive
+ST434,Aryan Dara,IIT Delhi,Electronics,2022,Inactive
+ST435,Vasana Jha,Delhi University,Information Technology,2023,Active
+ST436,Dominic Mishra,BITS Pilani,Mechanical,2023,Active
+ST437,Ekani Bobal,IIT Delhi,Electronics,2024,Inactive
+ST438,Oviya Dani,Rajasthan University,Computer Science,2023,Active
+ST439,Tanay Narang,Rajasthan University,Civil,2024,Inactive
+ST440,Yutika Saxena,BITS Pilani,Civil,2022,Inactive
+ST441,Kamya Konda,Rajasthan University,Civil,2022,Inactive
+ST442,Reva Ramakrishnan,Delhi University,Civil,2024,Inactive
+ST443,Chandresh Nadig,Delhi University,Civil,2022,Inactive
+ST444,Damyanti Sawhney,Delhi University,Electronics,2024,Inactive
+ST445,Ganga Parmer,Delhi University,Information Technology,2023,Active
+ST446,Warjas Oak,NIT Jaipur,Electronics,2022,Active
+ST447,Wriddhish Wagle,BITS Pilani,Electronics,2022,Inactive
+ST448,Zayan Deshmukh,NIT Jaipur,Computer Science,2023,Inactive
+ST449,Jonathan Kar,NIT Jaipur,Mechanical,2022,Active
+ST450,Tanish Dua,Rajasthan University,Information Technology,2022,Active
+ST451,Krish Parikh,NIT Jaipur,Information Technology,2024,Inactive
+ST452,Balvan Gokhale,Rajasthan University,Computer Science,2024,Inactive
+ST453,Sai Sane,BITS Pilani,Computer Science,2024,Inactive
+ST454,Laban Ravel,NIT Jaipur,Information Technology,2024,Active
+ST455,Lavanya Kulkarni,Delhi University,Electronics,2024,Active
+ST456,Udarsh Solanki,Rajasthan University,Civil,2023,Inactive
+ST457,Anika Iyengar,Rajasthan University,Mechanical,2023,Inactive
+ST458,Chakradhar Suresh,Delhi University,Electronics,2024,Inactive
+ST459,Samaksh Lal,BITS Pilani,Computer Science,2024,Active
+ST460,Nakul Mital,NIT Jaipur,Information Technology,2022,Inactive
+ST461,Aishani Korpal,Delhi University,Electronics,2023,Active
+ST462,Gautam Mangal,Rajasthan University,Mechanical,2022,Active
+ST463,Champak Badami,IIT Delhi,Computer Science,2024,Active
+ST464,Aditya Chokshi,Delhi University,Computer Science,2024,Inactive
+ST465,Arya Gola,BITS Pilani,Electronics,2022,Active
+ST466,Hredhaan Ravi,Delhi University,Computer Science,2024,Inactive
+ST467,Upma More,BITS Pilani,Civil,2023,Inactive
+ST468,Maanas Sura,IIT Delhi,Information Technology,2022,Active
+ST469,Kashish Som,IIT Delhi,Information Technology,2023,Inactive
+ST470,Radhika Wagle,NIT Jaipur,Information Technology,2023,Active
+ST471,Adya Rege,IIT Delhi,Computer Science,2022,Inactive
+ST472,Balendra Gala,Rajasthan University,Civil,2023,Inactive
+ST473,Darika Gala,BITS Pilani,Computer Science,2023,Inactive
+ST474,Ekanta Pathak,IIT Delhi,Electronics,2022,Active
+ST475,Urvi Ghosh,BITS Pilani,Computer Science,2023,Active
+ST476,Ekaraj Kumer,Rajasthan University,Computer Science,2024,Active
+ST477,Gagan Lalla,IIT Delhi,Mechanical,2022,Active
+ST478,Laksh Ranganathan,Delhi University,Civil,2022,Inactive
+ST479,Azaan Ravi,Delhi University,Electronics,2022,Inactive
+ST480,Kabir Garde,IIT Delhi,Computer Science,2024,Inactive
+ST481,Vedika Parikh,BITS Pilani,Civil,2023,Active
+ST482,Rayaan Natt,Rajasthan University,Information Technology,2024,Inactive
+ST483,Dhruv Comar,Rajasthan University,Information Technology,2024,Inactive
+ST484,Yashodhara Ben,BITS Pilani,Mechanical,2023,Inactive
+ST485,Tamanna Date,BITS Pilani,Mechanical,2024,Inactive
+ST486,Pranav Swaminathan,Delhi University,Mechanical,2022,Active
+ST487,Balveer Bassi,Rajasthan University,Electronics,2022,Active
+ST488,Ekalinga Palla,BITS Pilani,Civil,2023,Inactive
+ST489,Gayathri Balasubramanian,Delhi University,Electronics,2024,Active
+ST490,Abhimanyu Bobal,NIT Jaipur,Mechanical,2023,Inactive
+ST491,Max Vyas,NIT Jaipur,Civil,2023,Inactive
+ST492,Advik Saraf,Rajasthan University,Civil,2023,Active
+ST493,Akshay Kapur,IIT Delhi,Civil,2023,Inactive
+ST494,Yachana Bains,Rajasthan University,Mechanical,2024,Active
+ST495,Upkaar Karan,IIT Delhi,Computer Science,2023,Inactive
+ST496,Advika Bawa,Rajasthan University,Computer Science,2022,Inactive
+ST497,Liam Yogi,Rajasthan University,Mechanical,2022,Active
+ST498,Bimala Nagar,NIT Jaipur,Civil,2023,Inactive
+ST499,Raagini Kala,BITS Pilani,Computer Science,2024,Inactive
+ST500,Liam Dugar,Rajasthan University,Information Technology,2024,Inactive
